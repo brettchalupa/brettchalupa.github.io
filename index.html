@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Home | Brett Chalupa
+title: Home - Brett Chalupa
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
+  <h2>Notes</h2>
+  <p><small>Below are my notes on life, development and everything
+  in-between.</small></p>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
