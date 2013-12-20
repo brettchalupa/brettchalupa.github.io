@@ -1,3 +1,4 @@
 name: Brett Chalupa
 markdown: redcarpet
 pygments: true
+permalink: :title

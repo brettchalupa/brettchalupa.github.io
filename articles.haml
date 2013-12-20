@@ -1,0 +1,8 @@
+%h1 Articles
+
+- @articles = Nesta::Page.find_articles
+- @articles.each do |article|
+  %li
+    %a{ href: "#{article.abspath}" }
+      %span
+        = article.heading.downcase

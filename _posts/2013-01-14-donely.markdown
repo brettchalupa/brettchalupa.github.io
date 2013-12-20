@@ -1,0 +1,21 @@
+Date: 14 January 2013 8:00pm
+---
+layout: post
+title: "donely"
+date: 2013-01-14 20:00
+tags: project
+---
+
+I write down what I want to get done each day in a text editor. While this is simple and effective, it is often unwieldy.
+
+This is why I made [donely](http://donely.me).
+
+donely is a minimalist todo app. See what needs to get done. Check items off. Readable type and nothing flashy. Completed items expire after 30 minutes and then are hidden from the main list.
+
+donely is built with Ruby on Rails and hosted on Heroku. Bootstrap and Uniform.js power the front end. It uses Devise for user authentication.
+
+Here is what donely looks like:
+
+![donely screenshot](https://s3.amazonaws.com/brettchalupa/donely.png)
+
+Feel free to [sign-up and use donely](http://donely.me) as you see fit.
