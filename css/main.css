@@ -10,12 +10,16 @@
   padding: 0;
 }
 
+html {
+  font-size: 62.5%; /* set root em */
+}
+
 html, body { height: 100%; }
 
 body {
   background-color: rgb(255, 255, 255);
   color: rgb(63, 61, 64);
-  font: 16px Helvetica, Arial, sans-serif;
+  font: 1rem Helvetica, Arial, sans-serif;
   text-align: left;
 }
 
@@ -23,39 +27,72 @@ h1, h2, h3, h4, h5, h6 {
   font-family: Arial, sans-serif;
 }
 
-h1 { margin-bottom: 1em; }
-p { margin: 1em 0; }
+h1 {
+  font-size: 2.6rem;
+}
+
+h2 {
+  font-size: 2.3rem;
+}
+
+h3 {
+  font-size: 2.1rem;
+}
+
+h4 {
+  font-size: 1.8rem;
+}
+
+h5 {
+  font-size: 1.6rem;
+}
+
+h6 {
+  font-size: 1.4rem;
+}
+
+span, p, li, code, pre, li span {
+  font-size: 1.4rem;
+}
+
+blockquote {
+  font-size: 1.6rem;
+}
+
+p {
+  margin: 1rem 0;
+}
 
 a,
 a:visited {
   color: rgb(125, 122, 127);
-  -webkit-transition: color 0.5s ease-in;
-  -moz-transition: color 0.5s ease-in;
-  -o-transition: color 0.5s ease-in;
-  -ms-transition: color 0.5s ease-in;
-  transition: color 0.5s ease-in;
   text-decoration: none;
 }
 
 a:hover {
   color: rgb(188, 183, 191);
+  -webkit-transition: color 0.5s ease-in;
+  -moz-transition: color 0.5s ease-in;
+  -o-transition: color 0.5s ease-in;
+  -ms-transition: color 0.5s ease-in;
+  transition: color 0.5s ease-in;
 }
 
 /* standard */
 pre {
   border: 1px solid #ddd;
   background-color: #eef;
-  padding: 0 .4em;
+  padding: 0 .4rem;
 }
 
 ul, ol {
-  margin-left: 1.35em;
+  margin-left: 1.35rem;
 }
 
 code {
   border: 1px solid #ddd;
   background-color: #eef;
-  padding: 0 .2em;
+  padding: 0 .2rem;
 }
 
 pre code {
@@ -73,7 +110,50 @@ pre.terminal code {
   background-color: #333;
 }
 
+/* DEFAULT LAYOUT STYLES */
+
 .site {
+  margin: 0 auto;
+  width 100%;
+}
+
+.row {
   max-width: 666px;
   margin: 0 auto;
+}
+
+.header {
+  background-color: rgb(125, 122, 127);
+  padding: 14px;
+  margin-bottom: 10px;
+}
+
+.title {
+  font-size: 22px;
+  text-transform: lowercase;
+  display: inline-block;
+  color: rgb(255, 255, 255);
+}
+
+.header a {
+  color: rgb(255, 255, 255);
+}
+
+.nav {
+  list-style: none;
+  display: inline-block;
+  margin-left: 2rem;
+}
+
+.nav-item {
+  padding: 0 .24rem;
+  display: inline-block;
+}
+
+.footer {
+  padding-top: 0.8rem;
+}
+
+.footer p {
+  font-size: 1.2rem;
 }
