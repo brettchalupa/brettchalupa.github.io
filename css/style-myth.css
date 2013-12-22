@@ -1,8 +1,12 @@
-/*****************************************************************************/
-/*
-/* Common
-/*
-/*****************************************************************************/
+:root {
+  var-main-color: rgb(25, 25, 25);
+  var-sub-color: rgb(100, 100, 100);
+  var-background-color: rgb(255, 255, 255);
+  var-anchor-color: var(sub-color);
+  var-anchor-hover-color: rgb(155, 155, 155);
+  var-code-text-color: rgb(225, 225, 225);
+  var-code-background-color: rgb(100, 100, 100);
+}
 
 /* Global Reset */
 * {
@@ -19,39 +23,40 @@ html, body {
 }
 
 body {
-  background-color: rgb(255, 255, 255);
-  color: rgb(63, 61, 64);
+  background-color: var(background-color);
+  color: var(main-color);
   font: 1rem Helvetica, Arial, sans-serif;
   text-align: left;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: Arial, sans-serif;
-  padding: 8px 0;
-}
-
 h1 {
   font-size: 3.2rem;
+  padding: 12px 0;
 }
 
 h2 {
   font-size: 2.8rem;
+  padding: 10px 0;
 }
 
 h3 {
   font-size: 2.5rem;
+  padding: 8px 0;
 }
 
 h4 {
   font-size: 2.2rem;
+  padding: 6px 0;
 }
 
 h5 {
   font-size: 1.8rem;
+  padding: 4px 0;
 }
 
 h6 {
   font-size: 1.6rem;
+  padding: 3px 0;
 }
 
 span, p, li, code, pre, li span {
@@ -68,38 +73,30 @@ p {
 
 a,
 a:visited {
-  color: rgb(125, 122, 127);
+  color: var(anchor-color);
   text-decoration: none;
 }
 
 a:hover {
-  color: rgb(188, 183, 191);
-  -webkit-transition: color 0.5s ease-in;
-  -moz-transition: color 0.5s ease-in;
-  -o-transition: color 0.5s ease-in;
-  -ms-transition: color 0.5s ease-in;
-  transition: color 0.5s ease-in;
+  color: var(anchor-hover-color);
+  transition: color 0.333s ease-in;
 }
 
 /* standard */
-pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4rem;
+pre, code {
+  color: var(code-text-color);
+  background-color: var(code-background-color);
+  padding: 0.8rem 0.4rem;
+  border-radius: 4px;
+}
+
+code {
+  padding: 0.2rem 0.4rem;
+  font-size: 1.2rem;
 }
 
 ul, ol {
   margin-left: 1.35rem;
-}
-
-code {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .2rem;
-}
-
-pre code {
-  border: none;
 }
 
 /* terminal */
@@ -117,7 +114,7 @@ pre.terminal code {
 
 .site {
   margin: 0 auto;
-  width 100%;
+  width: 100%;
 }
 
 .row {
@@ -125,7 +122,7 @@ pre.terminal code {
 }
 
 .header {
-  background-color: rgb(125, 122, 127);
+  background-color: var(sub-color);
   padding: 10px 0;
   margin-bottom: 14px;
 }
@@ -134,11 +131,17 @@ pre.terminal code {
   font-size: 22px;
   text-transform: lowercase;
   display: inline-block;
-  color: rgb(255, 255, 255);
+  color: var(background-color);
+  margin: 0;
 }
 
 .header a {
-  color: rgb(255, 255, 255);
+  color: var(background-color);
+}
+
+.header a:hover {
+  color: var(anchor-hover-color);
+  transition: color 0.333s ease-in;
 }
 
 .nav {

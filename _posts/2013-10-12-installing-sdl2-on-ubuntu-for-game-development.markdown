@@ -28,14 +28,17 @@ Here are the steps I took to install SDL2 on Ubuntu 13.04 from the source:
   cd SDL2-2.0.0.tar.gz
   ```
 4. Execute configure
+
   ```
   ./configure
   ```
 5. Run `make`
+
   ```
   make
   ```
-6. Run `make installl`
+6. Run `make install`
+
   ```
   sudo make install
   ```

@@ -1,12 +1,15 @@
 ---
 layout: default
-title: home - brett chalupa
+title: Brett Chalupa
 ---
 
 <div id="home">
   <p>Howdy! My name is Brett Chalupa. I am a full stack web application
-  developer living in Burlington, Vermont.</p>
+  developer living in Burlington, Vermont. I spend my time building things with
+  code. I enjoy cooking, biking and readnig.</p>
+
   <h2>Latest Notes</h2>
+
   <ul class="posts">
     {% for post in site.posts limit:5 %}
       <li><a href="{{ post.url }}">{{ post.title }}</a> <span class="date">{{ post.date | date: "%B %d, %Y" }}</span></li>
