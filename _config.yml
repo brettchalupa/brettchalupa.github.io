@@ -1,4 +1,4 @@
 name: Brett Chalupa
 markdown: redcarpet
-highlighter: true
+highlighter: rouge
 permalink: :title
