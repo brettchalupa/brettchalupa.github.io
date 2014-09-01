@@ -29,6 +29,12 @@ p, ul, ol, li, span, blockquote, small {
   font-size: 16px;
 }
 
+pre, code {
+  font-family: Courier New, Courier, monospace;
+  background-color: #EFEFEF;
+  padding: 4px;
+}
+
 .page {
   padding-top: 32px;
 }
@@ -40,6 +46,10 @@ p, ul, ol, li, span, blockquote, small {
 
 .title a {
   text-decoration: none;
+}
+
+pre {
+  margin-bottom: 20px;
 }
 
 /* #Page Styles
