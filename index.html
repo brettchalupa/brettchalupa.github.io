@@ -1,17 +1,60 @@
 ---
-layout: default
+layout: index
 title: Brett Chalupa
 ---
 
 <div id="home">
-  <p>Brett Chalupa is a developer living in Burlington, Vermont. He enjoys
-  cooking, reading, walking, and smiling. This is where he shares his thoughts.</p>
+  <div class="intro">
+    <img class="profile" src="/img/brett_chalupa.png" />
 
-  <h2>Latest Notes</h2>
+    <h1>Hi, my name is Brett Chalupa.</h1>
 
-  <ul class="posts">
-    {% for post in site.posts limit:5 %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a> - <span class="date">{{ post.date | date: "%B %d, %Y" }}</span></li>
-    {% endfor %}
-  </ul>
+    <h3>I build software for the web.</h3>
+  </div>
+
+  <div class="who">
+    <h2>Who I Am</h2>
+
+    <p>I am a human being living in Burlington, Vermont. I try to live a simple life.
+    I enjoy reading, writing, music, cooking, and walking.</p>
+
+    <p>I currently work at FullStack, where I build software for clients. I work on
+    the front-end and back-end of web applications, from the words in the app to
+    the APIs that power it. I believe in the web and open technologies. I
+    appreciate simple design, and I am capable of envisioning and implementing
+    my own.</p>
+
+    <p>I enjoy programming with Ruby, JavaScript, HTML, and CSS. Ruby on Rails and
+    Ember.js are the two frameworks that help me build things. I use Sketch for
+    design, and I use Git for version control.</p>
+  </div>
+
+  <div class="what">
+    <h2>What I Have Done</h2>
+
+    <p>I most recently worked on <a
+      href="https://supermarket.getchef.com">Supermarket</a>, the community site for
+      Chef. I previously worked at Burton Snowboards, and I work on freelance
+      projects from time to time.</p>
+
+    <p>I occasionally <a href="/notes/">write notes</a> and <a
+      href="https://github.com/brettchalupa"> work on open-source projects</a>.</p>
+  </div>
+
+  <div class="where">
+    <h2>Where I Am</h2>
+
+    <ul>
+      <li>You can see what I said on <a
+        href="https://twitter.com/brettchalupa">Twitter</a>.</li>
+      <li>You can see what I coded on <a
+        href="https://github.com/brettchalupa">GitHub</a>.</li>
+      <li>You can see what I designed on <a
+        href="https://dribbble.com/brettchalupa">Dribbble</a>.</li>
+      <li>You can see what I listened to on <a
+        href="http://www.rdio.com/people/brettchalupa/">Rdio</a>.</li>
+      <li>You can see what I read on <a
+        href="http://www.goodreads.com/user/show/25307704-brett-chalupa">goodreads</a>.</li>
+    </ul>
+  </div>
 </div>
