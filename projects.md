@@ -23,5 +23,9 @@ The various projects I have worked on, including open source code, Ruby gems, co
 - [Burlington Ruby Group](http://burlingtonruby.org)
 - Aprexis
 - Medical Doctor Apps
+- Strada - https://github.com/brettchalupa/strada
+- Lumpy Space Shooter -
+  http://www.adventuretimegamejam.com/submissions/95-lumpy-space-shooter
+  & https://github.com/brettchalupa/lumpy_space_shooter
 
 I have also [given a few talks](/talks/) over the years.
