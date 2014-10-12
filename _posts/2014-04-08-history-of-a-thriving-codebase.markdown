@@ -8,5 +8,4 @@ tags: note, git, talk
 I gave a talk at [Boston.rb](http://bostonrb.org) on the importance of creating
 a useful Git history.
 
-[View the
-slides.](http://brettchalupa.github.io/presentation-history-of-a-thriving-codebase)
+[View the slides.](http://www.brettchalupa.com/presentation-history-of-a-thriving-codebase)
