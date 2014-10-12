@@ -2,7 +2,7 @@
 layout: post
 title: "Searching for a File in the Terminal Using the find Command"
 date: 2013-12-30 23:20:00
-tags: note, terminal
+tags: note terminal
 ---
 
 If you are looking for find a file based on its name, the `find` command does a

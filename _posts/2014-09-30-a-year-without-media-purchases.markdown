@@ -2,7 +2,7 @@
 layout: post
 title: "A Year Without Media Purchases"
 date: 2014-09-30 12:59:00
-tags: note, life
+tags: note life
 ---
 
 I have been asking myself, "What would it look like to spend a year not spending

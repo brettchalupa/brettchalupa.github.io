@@ -2,7 +2,7 @@
 layout: post
 title: "Temporarily Ignore Changes for a File in Git"
 date: 2013-09-19 23:20:00
-tags: note, git
+tags: note git
 ---
 
 Sometimes you need to change a file in Git and maybe you don't want to
