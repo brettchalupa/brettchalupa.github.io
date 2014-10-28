@@ -27,5 +27,38 @@ title: Brett Chalupa
     applications. I use Inkscape for design. I use Git for version control.</p>
 
     <p><a href="/notes/">Notes</a> | <a href="/projects/">Projects</a> | <a href="https://twitter.com/brettchalupa">Twitter</a> | <a href="https://github.com/brettchalupa">GitHub</a> | <a href="https://dribbble.com/brettchalupa">Dribbble</a> | <a href="http://www.goodreads.com/user/show/25307704-brett-chalupa">goodreads</a></p>
+=======
+    <div class='index-list'>
+      <h2>Featured Projects</h2>
+
+      <ul class="projects">
+        {% for project in site.tags.project limit:6 %}
+          <li>
+            <a href="{{ project.url }}">{{ project.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+
+      <p><a href="/projects/">View all Projects</a></p>
+    </div>
+
+    <div class='index-list'>
+      <h2>Recent Notes</h2>
+
+      <ul class="posts">
+        {% for post in site.tags.note limit:3 %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
+          </li>
+        {% endfor %}
+      </ul>
+
+      <p><a href="/notes/">View all Notes</a></p>
+    </div>
+
+    <hr>
+
+    <p class='center'><a href="/about/">Read more about me.</a></p>
   </div>
 </div>
