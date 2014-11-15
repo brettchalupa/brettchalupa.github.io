@@ -78,21 +78,6 @@ ol {
   text-align: center;
 }
 
-.index-list {
-  text-align: center;
-}
-
-.index-list ul li {
-  list-style: none;
-  padding: 8px;
-}
-
-.index-list ul li span {
-  display: block;
-  font-size: 88%;
-  padding-top: 8px;
-}
-
 .intro h1 {
   margin-bottom: 42px;
 }
