@@ -3,6 +3,7 @@ layout: post
 title: "Educating with Ruby"
 date: 2013-09-21 14:00
 tags: ruby talk education
+event: Vermont Code Camp
 ---
 
 I gave a talk at the Vermont Code Camp on why I think Ruby is a great language

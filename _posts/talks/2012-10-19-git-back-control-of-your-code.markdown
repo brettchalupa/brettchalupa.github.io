@@ -3,6 +3,7 @@ layout: post
 title: "Git Back Control of Your Code"
 date: 2012-10-19 20:00
 tags: git talk
+event: Burlington Developer Gathering
 ---
 
 I gave a talk at [Burlington Ruby](http://burlingtonruby.org/) introducing how
