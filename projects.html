@@ -1,0 +1,21 @@
+---
+layout: default
+title: Projects - Brett Chalupa
+permalink: /projects/
+---
+
+<div id="projects">
+  <h1>Projects</h1>
+
+  <p>What I have done.</p>
+
+  <ul class="projects">
+    {% for project in site.tags.project %}
+      <li>
+        <a href="{{ project.url }}">{{ project.title }}</a>
+        •
+        <span class='excerpt'>{{ project.excerpt}}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
