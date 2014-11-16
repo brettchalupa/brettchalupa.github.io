@@ -68,7 +68,7 @@ It is important to realize the following: you can help make the human part of
 software better. It will take time and be challenging, but there are people
 here to help you. You may make mistakes, you may say the wrong thing, but what
 is most important is to keep learning, keep staying open-minded, and keep being
-active in in your efforts.
+active in your efforts.
 
 _Thank you for reading. If you have any comments, questions, or suggestions,
 [please let
