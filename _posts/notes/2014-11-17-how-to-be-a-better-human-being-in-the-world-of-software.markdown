@@ -42,7 +42,7 @@ is what I have learned:
   _Feminism is for Everybody_ by Bell Hooks, the [Geek Feminism
   wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki), and [Model View
   Culture](https://modelviewculture.com). They are a good starting place.
-  Dig in, think about what you are reading, and think about it. Then, when you
+  Dig in and think about what you are reading. Then, when you
   have read those, keep finding more things to read. Keep learning about this
   issue.
 - Ask questions if you do not understand something. There are people who would
