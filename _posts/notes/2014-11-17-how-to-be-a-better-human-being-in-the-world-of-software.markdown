@@ -9,7 +9,7 @@ I think the world of software is a special one. Software is this
 mixture of objective creativity that is used and experienced by others. It is
 accessible in the way that a computer can give access to building software.
 There is not much else required to get started. One can build software from
-anywhere, not be required to have a degree to do it, express themselves
+anywhere, not be required to have a degree to do it, express oneself
 creatively, be part of a community, and make a good living. However, there is a
 glaring issue that I see right now. The lack of diversity and the way folks
 approach it.
