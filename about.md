@@ -10,26 +10,9 @@ I live in Burlington, Vermont, which I enjoy very much. The weather can be a bit
 harsh, but the people are nice, the food is good, and the quality of life is
 high.
 
-I am originally from New Jersey, where I grew up enamored with Japanese popular
-culture. I built fan-sites for anime series on the now defunct GeoCities, which
-got me started with building websites. I eventually started using Wordpress to
-blog about things like anime, video games, and manga.
+I currently work as a freelance developer and designer.
 
-In high school, I was fortunate enough to be able to take AP Computer Science,
-where I got to learn Java. For a while, I thought I wanted to program videos
-games for a living, so I moved to Vermont to go to college for game programming.
-
-During my time at college, I worked as an apprentice where I learned all about
-building software, content strategy, and collaboration. It was during this time
-that I decided to leave school to pursue learning, growing, and working on my
-own terms.
-
-In the time since leaving school, I have focused primarily on building web
-applications. I have been, and continue to, program a lot with Ruby, JavaScript,
-HTML, and CSS. I have primarily worked with clients over the past three years,
-but I have had some brief stints working full time gigs.
-
-Ultimately, my goal is to build software that people find useful. I want to be
+My goal is to build software that people find useful. I want to be
 able to build wonderful experiences from top to bottom, from the design to the
 code.
 
