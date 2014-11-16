@@ -61,7 +61,7 @@ is what I have learned:
   felt like there was nothing I could do about the lack of diversity in the
   world of software, so I ignored it. I turned my head and chose not to think
   about it. This was wrong, and I do not want to see other people do the same.
-- Be vocal about this issues and help raise awareness of their existance. Affect
+- Be vocal about this issues and help raise awareness of their existance. Effect
   change; don't just be a bystander.
 
 It is important to realize the following: you can help make the human part of
