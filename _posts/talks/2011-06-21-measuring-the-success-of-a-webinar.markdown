@@ -2,7 +2,8 @@
 layout: post
 title: "Measuring the Success of a Webinar"
 date: 2011-06-21 20:00
-tags: note data talk
+tags: data talk
+event: Web Analytics Wednesday
 ---
 
 I gave a talk with a colleague at Web Analytics Wednesday on the process of

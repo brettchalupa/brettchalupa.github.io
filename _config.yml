@@ -2,3 +2,5 @@ name: Brett Chalupa
 markdown: redcarpet
 highlighter: pygments
 permalink: :title
+gems:
+  - jemoji
