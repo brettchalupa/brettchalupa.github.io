@@ -11,8 +11,8 @@ accessible in the way that a computer can give access to building software.
 There is not much else required to get started. One can build software from
 anywhere, not be required to have a degree to do it, express oneself
 creatively, be part of a community, and make a good living. However, there is a
-glaring issue that I see right now. The lack of diversity and the way folks
-approach it.
+glaring issue that I see right now in the world of software. The lack of diversity
+and the way folks approach it.
 
 For the time that I have been involved in the world of software, about six
 years, I have been mostly surrounded by folks that appear to be just like me -
