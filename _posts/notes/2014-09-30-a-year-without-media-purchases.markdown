@@ -33,3 +33,9 @@ intentions and rarely happen.
 I am not trying to not support folks who create things; I want to enjoy what I
 already have. I feel that the consumerist lifestyle I live is harmful, and I
 want to understand more about it.
+
+## Updates
+
+- On November 1st, 2014 I purchased the Humble Bundle 13. I felt like it was
+  too good of a deal to pass up. I had other games to play, and it was a prime
+  example of what I am trying not to do.
