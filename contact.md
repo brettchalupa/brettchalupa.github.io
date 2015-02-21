@@ -6,4 +6,4 @@ permalink: /contact/
 
 # Contact
 
-The easiest way to get in touch is by emailing me at `brett@brettchalupa.com`.
+The easiest way to get in touch is by emailing me at `brettchalupa@gmail.com`.
