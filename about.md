@@ -10,13 +10,12 @@ I live in Burlington, Vermont, which I enjoy very much. The weather can be a bit
 harsh, but the people are nice, the food is good, and the quality of life is
 high.
 
-I currently work as a freelance developer and designer.
-
 My goal is to build software that people find useful. I want to be
 able to build wonderful experiences from top to bottom, from the design to the
 code.
 
-Aside from building software, I enjoy cooking, reading, and walking.
+Aside from building software, I enjoy cooking, reading, play video games, and
+walking.
 
 Cooking feels like a stark contrast to building software because within an hour
 or so the food is ready, and shortly after, it is gone. I think that is why I
