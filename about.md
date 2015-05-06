@@ -10,11 +10,13 @@ I live in Burlington, Vermont, which I enjoy very much. The weather can be a bit
 harsh, but the people are nice, the food is good, and the quality of life is
 high.
 
-My goal is to build software that people find useful. I want to be
+My goal is to build software in a sustainable manner. I want to be
 able to build wonderful experiences from top to bottom, from the design to the
 code.
 
-Aside from building software, I enjoy cooking, reading, play video games, and
+Lately I have been learning Go, which is a nice change of pace from Ruby.
+
+Aside from building software, I enjoy cooking, reading, drawing, and
 walking.
 
 Cooking feels like a stark contrast to building software because within an hour
