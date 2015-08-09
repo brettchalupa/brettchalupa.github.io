@@ -31,8 +31,13 @@ p, ul, ol, li, span, blockquote, small {
 
 pre, code {
   font-family: Courier New, Courier, monospace;
+  font-size: 16px;
   background-color: #EFEFEF;
   padding: 4px;
+}
+
+pre, code span {
+  font-family: Courier New, Courier, monospace;
 }
 
 .page {
