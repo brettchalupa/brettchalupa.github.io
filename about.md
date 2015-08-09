@@ -10,18 +10,12 @@ I live in Burlington, Vermont, which I enjoy very much. The weather can be a bit
 harsh, but the people are nice, the food is good, and the quality of life is
 high.
 
-My goal is to build software in a sustainable manner. I want to be
-able to build wonderful experiences from top to bottom, from the design to the
-code.
+I consider myself a Rubyist, and I have been programming with the Ruby
+language the past five years. I also work a lot with HTML, CSS, and
+JavaScript. Lately I have been learning Go, which is a
+nice change of pace from Ruby.
 
-Lately I have been learning Go, which is a nice change of pace from Ruby.
-
-Aside from building software, I enjoy cooking, reading, drawing, and
-walking.
-
-Cooking feels like a stark contrast to building software because within an hour
-or so the food is ready, and shortly after, it is gone. I think that is why I
-enjoy it so much.
+Aside from building software, I enjoy cooking, reading, and walking.
 
 My current favorite author is Haruki Murakami. I think my favorite
 novel by him is _Kafka on the Shore_. His writing grips me, and I find it hard
@@ -40,6 +34,3 @@ If you want to follow along with me, I am active on a few different places:
   collaborate with others
 - [Goodreads](http://www.goodreads.com/user/show/25307704-brett-chalupa) - where
   I keep track of what I am reading
-- [Dribbble](https://dribbble.com/brettchalupa) - where I post my designs
-
-:sun_with_face:
