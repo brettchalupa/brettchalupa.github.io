@@ -10,6 +10,9 @@ I live in Burlington, Vermont, which I enjoy very much. The weather can be a bit
 harsh, but the people are nice, the food is good, and the quality of life is
 high.
 
+I work remotely for [charity: water](http://charitywater.org), where I
+build web applications with Ruby on Rails.
+
 I consider myself a Rubyist, and I have been programming with the Ruby
 language the past five years. I also work a lot with HTML, CSS, and
 JavaScript. Lately I have been learning Go, which is a
