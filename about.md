@@ -19,14 +19,12 @@ program with Ruby a lot.
 When I am not working, I enjoy making things. From cooking to drawing to
 programming, I enjoy dabbling in a variety of creative hobbies. I used
 to organize [a Ruby conference in Burlington,
-Vermont](http://www.burlingtonrubyconference.com/). These days I have
-been working on some new projects related to the world of software.
+Vermont](http://www.burlingtonrubyconference.com/).
 
-When I am not making things, I dig playing video games, reading
-novels and manga (Japanese graphic novels), and watching films and
-shows. I really like _Twin Peaks_. My favorite author of novels is
-Haruki Murakami. My favorite manga artist is Naoki Urasawa. My favorite
-film director is David Lynch.
+I enjoy reading, writing, and watching films and shows. I really like
+_Twin Peaks_. My favorite author of novels is Haruki Murakami. My
+favorite manga artist is Naoki Urasawa. My favorite film director is
+David Lynch.
 
 This website is my little corner of the web to share what I make and
 what I am up to.
