@@ -1,6 +1,6 @@
 name: Brett Chalupa
-markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
+markdown: kramdown
 permalink: :title
 gems:
   - jemoji
