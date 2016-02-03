@@ -6,7 +6,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 The code is licensed under the MIT license.
 
-Copyright (c) 2011-2014 Brett Chalupa
+Copyright (c) 2011-2016 Brett Chalupa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
