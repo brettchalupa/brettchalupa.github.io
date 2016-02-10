@@ -10,10 +10,8 @@ I gave this talk at the February [Portland Ruby
 Brigade](http://pdxruby.org/) meetup. The talk is about making the most
 of the `lib` directory in Rails applications. It goes over the benefits
 to using lib, examples of when to use lib, and how to test code in lib.
+[Here are the slides.](https://speakerdeck.com/brettchalupa/learning-to-lib-again)
 
-There was a video recording of the talk, so when that gets uploaded to
-YouTube I will add it here.
+Here is the video of the talk:
 
-Here are the slides for now:
-
-<script async class="speakerdeck-embed" data-id="f17a776f6be84cc898538b757c34c4c8" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/aia82Chh3uI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
