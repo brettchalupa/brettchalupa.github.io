@@ -61,6 +61,10 @@ ul {
   list-style: disc;
 }
 
+li {
+  padding-bottom: 4px;
+}
+
 ol {
   padding-left: 16px;
 }
