@@ -14,16 +14,16 @@ lose the one you are currently using. Those changes do not need to be committed 
 Instead of not just not adding that file with you stage your files to be
 committed, you can temporarily ignore it by using the following command:
 
-``` bash
+~~~ bash
 git update-index --assume-unchanged file_name.rb
-```
+~~~
 
 If you want to stop ignoring changes in the file, use the following
 command:
 
-``` bash
+~~~ bash
 git update-index --no-assume-unchanged file_name.rb
-```
+~~~
 
 This command can really make life simpler when you are changing a file
 for local development where those changes do not need to be committed.

@@ -14,15 +14,15 @@ Man"` to setup Git options globally, but when setting up multiple options, it is
 easiest to directly edit the settings in a file called `.gitconfig`. If you want
 to start working with a `.gitconfig` file, run:
 
-```
+~~~
 touch ~/.gitconfig
-```
+~~~
 
 to create the file in your home directory. Go ahead and open it up in the editor
 of choice. Below is what my `.gitconfig` looks like. I typically try to keep it
 as simple as possible.
 
-```
+~~~
 [user]
   name = Your Name
   email = youremail@host.com
@@ -32,7 +32,7 @@ as simple as possible.
   ui = true
 [core]
   editor = vim
-```
+~~~
 
 They credential setting for `helper = cache` defaults to a 15 minute remember
 period for credentials. This is helpful for not having to continually type in a

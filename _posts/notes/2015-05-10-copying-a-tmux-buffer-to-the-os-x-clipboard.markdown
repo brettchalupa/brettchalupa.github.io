@@ -20,7 +20,7 @@ A way around this is to use the tmux flow of selecting text in a pane,
 copying it tmux's buffer, and then moving that buffer into the OS X
 clipboard.
 
-``` sh
+~~~ sh
 # enter buffer search/explore
 Control+b [
 # start selection
@@ -29,7 +29,7 @@ space
 enter
 # transfer tmux buffer to OS X clipboard
 tmux show-buffer | pbcopy
-```
+~~~
 
 Now that output can be pasted anywhere by using Command+v.
 
@@ -39,6 +39,6 @@ _Note: This assumes that the key mode in tmux is set to vi._ -
 P.S. To save a few keystrokes, I use an alias for the last step
 called `tmcp`:
 
-``` sh
+~~~ sh
 alias tmcp="tmux show-buffer | pbcopy"
-```
+~~~
