@@ -28,3 +28,8 @@ David Lynch.
 
 This website is my little corner of the web to share what I make and
 what I am up to.
+
+## Contact
+
+The easiest way to get in touch is by emailing me at
+`brett@brettchalupa.com`.

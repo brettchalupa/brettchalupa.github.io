@@ -127,10 +127,6 @@ img {
       text-align: center;
     }
 
-    .nav .more-nav {
-      display: none;
-    }
-
     .nav li {
       display: inline-block;
       padding-left: 8px;
