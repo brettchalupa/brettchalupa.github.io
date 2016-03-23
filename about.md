@@ -6,30 +6,25 @@ permalink: /about/
 
 # About
 
-Hi, I am Brett. I am a human being. I try to live a simple life and
-do what I love. I live in Portland, Oregon, USA. I recently moved to
-Portland after growing up and living on the east coast. I am enjoying
-the change of environment.
+Howdy! I am Brett, and I live in Portland, Oregon. I try to live a
+simple life and pursue my passions. I recently moved to Portland after
+growing up and living in the Northeast.
 
-My job is doing software development for a non-profit organization
-called [charity: water](http://charitywater.org). I primarly build tools
-for charity: water's partners and the internal team. I work remotely. I
-program with Ruby a lot.
+I [build software](/hire/), with a focus on simple solutions and
+sustainable code.
 
-When I am not working, I enjoy making things. From cooking to drawing to
-programming, I enjoy dabbling in a variety of creative hobbies. I used
-to organize [a Ruby conference in Burlington,
-Vermont](http://www.burlingtonrubyconference.com/).
+I enjoy cooking, walking, and reading.
 
-I enjoy reading, writing, and watching films and shows. I really like
-_Twin Peaks_. My favorite author of novels is Haruki Murakami. My
-favorite manga artist is Naoki Urasawa. My favorite film director is
-David Lynch.
+## Online
 
-This website is my little corner of the web to share what I make and
-what I am up to.
+Here are the places where I share what I am up to online:
+
+- [Flickr](https://www.flickr.com/photos/brettchalupa/) - photo archive
+- [GitHub](https://github.com/brettchalupa) - open source software I
+  have written
+- [Twitter](https://twitter.com/brettchalupa) - small updates
 
 ## Contact
 
-The easiest way to get in touch is by emailing me at
+The best way to get in touch is by emailing me at
 `brett@brettchalupa.com`.
