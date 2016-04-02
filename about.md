@@ -19,6 +19,8 @@ I enjoy cooking, walking, and reading.
 
 Here are the places where I share what I am up to online:
 
+- [Tumblr](https://brettchalupa.tumblr.com) - stream of thoughts and
+  creations
 - [Flickr](https://www.flickr.com/photos/brettchalupa/) - photo archive
 - [GitHub](https://github.com/brettchalupa) - open source software I
   have written
