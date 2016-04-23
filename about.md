@@ -10,9 +10,6 @@ Howdy! I am Brett, and I live in Portland, Oregon. I try to live a
 simple life and pursue my passions. I recently moved to Portland after
 growing up and living in the Northeast.
 
-I [build software](/hire/), with a focus on simple solutions and
-sustainable code.
-
 I enjoy cooking, walking, and reading.
 
 ## Online
