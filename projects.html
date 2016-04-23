@@ -7,14 +7,14 @@ permalink: /projects/
 <div id="projects">
   <h1>Projects</h1>
 
-  <p>These are some of projects I have been a part of over the years.</p>
+  <p>These are some of the projects I have worked on over the years.</p>
 
   <ul class="projects">
     {% for project in site.tags.project %}
       <li>
         <a href="{{ project.url }}">{{ project.title }}</a>
         •
-        <span class='excerpt'>{{ project.excerpt}}</span>
+        <span class='organization'>{{ project.organization }}</span>
       </li>
     {% endfor %}
   </ul>
