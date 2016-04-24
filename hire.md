@@ -52,7 +52,7 @@ Much like how I approach building software, my design, process, and
 organizational work is focused on collaboration and simplicity.
 
 My involvement and approach is different for each project. I have my
-go to tools and processes to faciliate building things, but I am also
+go to tools and processes to facilitate building things, but I am also
 happy to use and integrate with existing tools and processes.
 
 ## Let's Do This
