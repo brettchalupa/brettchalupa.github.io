@@ -46,7 +46,7 @@ I truly believe less is more.
 When building software, I want it to work and be maintainable for years
 to come. I practice test driven development, write thorough
 documentation, and build small, simple pieces to form the whole. Because
-software is malleable, iteration is the key to progress.
+software is malleable, iteration is key.
 
 Much like how I approach building software, my design, process, and
 organizational work is focused on collaboration and simplicity.
