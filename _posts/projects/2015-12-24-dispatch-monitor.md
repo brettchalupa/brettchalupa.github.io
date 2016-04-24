@@ -17,4 +17,4 @@ vehicles, water point management for maintenance partners in the field, and
 water flow data calculation.
 
 [Engadget
-article that goes over Dispatch Monitor.](http://www.engadget.com/2016/03/03/charity-water-puts-google-and-vr-to-good-use/)
+article about Dispatch Monitor.](http://www.engadget.com/2016/03/03/charity-water-puts-google-and-vr-to-good-use/)

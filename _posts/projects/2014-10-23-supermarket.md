@@ -12,12 +12,12 @@ website: "https://supermarket.chef.io/"
 excerpt: "Chef's community platform"
 ---
 
-Supermarket is [open source](https://github.com/chef/supermarket), so my
-[commits](https://github.com/chef/supermarket/commits?author=brettchalupa)
-and
-[contributions](https://github.com/chef/supermarket/graphs/contributors).
-are publicly available.
-
 Supermarket hosts cookbooks and tools for the Chef platform. I worked on
 the rewrite of Supermarket with a small team with a focus on test
 coverage and maintainable code.
+
+Supermarket is [open source](https://github.com/chef/supermarket), so my
+[commits](https://github.com/chef/supermarket/commits?author=brettchalupa)
+and
+[contributions](https://github.com/chef/supermarket/graphs/contributors)
+are publicly available.

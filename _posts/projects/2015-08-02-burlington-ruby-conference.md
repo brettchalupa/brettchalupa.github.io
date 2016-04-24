@@ -23,6 +23,4 @@ I worked on attendee and speaker support, budgeting, building the
 website, creating branding, sending emails to the mailing list,
 [tweeting](https://twitter.com/btvrubyconf), hiring vendors, finding
 sponsors, [building a proposal
-app](https://github.com/burlingtonruby/proposals), and mc-ing the event.
-
-Burlington Ruby Conference is a highlight for me.
+app](https://github.com/burlingtonruby/proposals), and hosting the event.
