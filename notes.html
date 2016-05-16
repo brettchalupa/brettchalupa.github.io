@@ -10,9 +10,6 @@ permalink: /notes/
   <p>My thoughts on various topics related to software development, programming,
   and life.</p>
 
-  <p>Lately I have been sharing my writing on
-    <a href='https://medium.com/@brettchalupa'>Medium</a>.</p>
-
   <ul class="posts">
     {% for post in site.tags.note %}
       <li><a href="{{ post.url }}">{{ post.title }}</a> • <span class="date">{{ post.date | date: "%B %d, %Y" }}</span></li>
