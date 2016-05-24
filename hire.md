@@ -64,7 +64,7 @@ am interested in, awesome.
 
 If you are looking to pay me to work with you, I have a sliding scale
 for my rate. If you are a non-profit or self-funded start-up, my rate is
-$50/hr. If you are neither of those, my rate is $75/hr.
+$75/hr. If you are neither of those, my rate is $100/hr.
 
 Sound good? Great. [Send me an email](mailto:brett@brettchalupa.com),
 and let's build something together.
