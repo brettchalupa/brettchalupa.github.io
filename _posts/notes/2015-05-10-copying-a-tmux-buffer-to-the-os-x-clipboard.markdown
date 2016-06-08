@@ -1,8 +1,11 @@
 ---
+title: Copying a tmux Buffer to the OS X Clipboard
+date: 2015-05-10 14:38:00 Z
+tags:
+- note
+- tmux
+- terminal
 layout: post
-title: "Copying a tmux Buffer to the OS X Clipboard"
-date: 2015-05-10 14:38:00
-tags: note tmux terminal
 ---
 
 I use tmux to manage and switch between multiple terminal sessions. tmux

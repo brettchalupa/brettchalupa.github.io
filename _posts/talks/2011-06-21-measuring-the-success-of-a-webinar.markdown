@@ -1,8 +1,10 @@
 ---
+title: Measuring the Success of a Webinar
+date: 2011-06-21 20:00:00 Z
+tags:
+- data
+- talk
 layout: post
-title: "Measuring the Success of a Webinar"
-date: 2011-06-21 20:00
-tags: data talk
 event: Web Analytics Wednesday
 ---
 

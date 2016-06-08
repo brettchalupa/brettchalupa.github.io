@@ -1,7 +1,16 @@
+---
 title: Brett Chalupa
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 name: Brett Chalupa
 highlighter: rouge
 markdown: kramdown
 permalink: :title
 gems:
-  - jemoji
+- jemoji

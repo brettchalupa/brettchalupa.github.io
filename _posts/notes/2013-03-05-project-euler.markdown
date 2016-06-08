@@ -1,8 +1,10 @@
 ---
+title: Project Euler
+date: 2013-03-05 22:00:00 Z
+tags:
+- note
+- programming
 layout: post
-title: "Project Euler"
-date: 2013-03-05 22:00
-tags: note programming
 ---
 
 [Project Euler](http://projecteuler.net) is a collection of challenging programming problems. There

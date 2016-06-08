@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Contact - Brett Chalupa
-permalink: /contact/
+permalink: "/contact/"
+layout: default
 ---
 
 # Contact

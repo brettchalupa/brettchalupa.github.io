@@ -1,8 +1,10 @@
 ---
+title: How To Be a Better Human in the World of Software
+date: 2014-11-17 12:00:00 Z
+tags:
+- note
+- human
 layout: post
-title: "How To Be a Better Human in the World of Software"
-date: 2014-11-17 12:00:00
-tags: note human
 ---
 
 I think the world of software is a special one. Software is this

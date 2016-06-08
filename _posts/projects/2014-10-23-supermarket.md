@@ -1,15 +1,15 @@
 ---
+title: Supermarket
+date: 2014-10-23 00:00:00 Z
+tags:
+- project
 layout: project
-title: "Supermarket"
-date: 2014-10-23 00:00
-draft: false
-tags: project
-organization: "Chef"
-time_period: "January 2014 - October 2014"
-responsibilities: "development, design, and project management"
-technologies: "Ruby on Rails"
-website: "https://supermarket.chef.io/"
-excerpt: "Chef's community platform"
+organization: Chef
+time_period: January 2014 - October 2014
+responsibilities: development, design, and project management
+technologies: Ruby on Rails
+website: https://supermarket.chef.io/
+excerpt: Chef's community platform
 ---
 
 Supermarket hosts cookbooks and tools for the Chef platform. I worked on

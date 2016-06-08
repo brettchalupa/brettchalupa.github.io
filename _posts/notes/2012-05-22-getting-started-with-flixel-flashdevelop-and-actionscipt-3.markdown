@@ -1,8 +1,12 @@
 ---
+title: Getting Started with Flixel, FlashDevelop and Actionscript 3
+date: 2012-05-22 14:00:00 Z
+tags:
+- note
+- flixel
+- as3
+- gamedev
 layout: post
-title: "Getting Started with Flixel, FlashDevelop and Actionscript 3"
-date: 2012-05-22 14:00
-tags: note flixel as3 gamedev
 ---
 
 Prototyping Games with Flixel and FlashDevelop was a simple online workshop that

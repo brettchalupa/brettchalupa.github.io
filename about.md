@@ -1,7 +1,7 @@
 ---
-layout: default
 title: About - Brett Chalupa
-permalink: /about/
+permalink: "/about/"
+layout: default
 ---
 
 # About

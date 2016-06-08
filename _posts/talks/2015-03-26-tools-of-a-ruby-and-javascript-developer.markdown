@@ -1,8 +1,15 @@
 ---
+title: Tools of Ruby & JavaScript Developer
+date: 2015-03-26 20:00:00 Z
+tags:
+- tools
+- cli
+- vim
+- git
+- ag
+- tmux
+- talk
 layout: post
-title: "Tools of Ruby & JavaScript Developer"
-date: 2015-03-26 20:00
-tags: tools cli vim git ag tmux talk
 event: BTVWAG
 ---
 

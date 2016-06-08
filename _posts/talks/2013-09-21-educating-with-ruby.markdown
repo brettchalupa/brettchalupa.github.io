@@ -1,8 +1,11 @@
 ---
+title: Educating with Ruby
+date: 2013-09-21 14:00:00 Z
+tags:
+- ruby
+- talk
+- education
 layout: post
-title: "Educating with Ruby"
-date: 2013-09-21 14:00
-tags: ruby talk education
 event: Vermont Code Camp
 ---
 

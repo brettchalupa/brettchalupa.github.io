@@ -1,8 +1,10 @@
 ---
+title: Git Back Control of Your Code
+date: 2012-10-19 20:00:00 Z
+tags:
+- git
+- talk
 layout: post
-title: "Git Back Control of Your Code"
-date: 2012-10-19 20:00
-tags: git talk
 event: Burlington Developer Gathering
 ---
 

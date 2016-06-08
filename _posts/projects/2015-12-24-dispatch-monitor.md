@@ -1,15 +1,15 @@
 ---
+title: Dispatch Monitor
+date: 2015-12-24 00:00:00 Z
+tags:
+- project
 layout: project
-title: "Dispatch Monitor"
-date: 2015-12-24 00:00
-draft: false
-tags: project
-organization: "charity: water"
-time_period: "July 2015 - December 2016"
-responsibilities: "development"
-technologies: "Ruby on Rails"
-website: "https://www.charitywater.org/"
-excerpt: "Partner and internal tool for water point management"
+organization: 'charity: water'
+time_period: July 2015 - December 2016
+responsibilities: development
+technologies: Ruby on Rails
+website: https://www.charitywater.org/
+excerpt: Partner and internal tool for water point management
 ---
 
 Dispatch Monitor has three main components: map of water points and

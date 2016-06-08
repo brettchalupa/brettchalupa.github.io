@@ -1,8 +1,10 @@
 ---
+title: Simple Ways to Improve Your Day
+date: 2013-03-05 12:25:00 Z
+tags:
+- note
+- emotions
 layout: post
-title: "Simple Ways to Improve Your Day"
-date: 2013-03-05 12:25
-tags: note emotions
 ---
 
 Some days are downers. I try my best to stay positive, but that is

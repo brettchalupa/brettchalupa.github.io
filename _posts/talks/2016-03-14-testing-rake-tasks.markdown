@@ -1,9 +1,13 @@
 ---
+title: Testing Rake Tasks
+date: 2016-03-14 01:00:00 Z
+tags:
+- talk
+- testing
+- ruby
+- rails
+- rake
 layout: post
-title: "Testing Rake Tasks"
-date: 2016-03-14 1:00
-draft: false
-tags: talk testing ruby rails rake
 event: Test Ruby PDX
 ---
 

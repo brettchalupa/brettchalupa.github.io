@@ -1,8 +1,12 @@
 ---
+title: Reflections on the 2015 Burlington Ruby Conference
+date: 2015-08-09 11:00:00 Z
+tags:
+- note
+- ruby
+- community
+- brc
 layout: post
-title: "Reflections on the 2015 Burlington Ruby Conference"
-date: 2015-08-09 11:00:00
-tags: note ruby community brc
 ---
 
 Last weekend was the 4th [Burlington Ruby

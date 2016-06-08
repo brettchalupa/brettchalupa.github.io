@@ -1,8 +1,10 @@
 ---
+title: Applause
+date: 2013-04-07 16:39:00 Z
+tags:
+- note
+- quote
 layout: post
-title: "Applause"
-date: 2013-04-07 16:39
-tags: note quote
 ---
 
 > At the end, one could only applaud those performances, which is what a

@@ -1,15 +1,15 @@
 ---
+title: Burlington Ruby Conference
+date: 2015-08-02 00:00:00 Z
+tags:
+- project
 layout: project
-title: "Burlington Ruby Conference"
-date: 2015-08-02 00:00
-draft: false
-tags: project
-organization: "myself"
-time_period: "January 2013 - August 2015"
-responsibilities: "organizing, design, marketing, and development"
-technologies:
-website: "http://www.burlingtonrubyconference.com/"
-excerpt: "Annual conference in Burlington, VT for Ruby developers"
+organization: myself
+time_period: January 2013 - August 2015
+responsibilities: organizing, design, marketing, and development
+technologies: 
+website: http://www.burlingtonrubyconference.com/
+excerpt: Annual conference in Burlington, VT for Ruby developers
 ---
 
 Burlington Ruby Conference was a single-track, weekend-long gathering of

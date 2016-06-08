@@ -1,8 +1,12 @@
 ---
+title: Learning to lib Again
+date: 2016-02-02 21:00:00 Z
+tags:
+- talk
+- ruby
+- rails
+- lib
 layout: post
-title: "Learning to lib Again"
-date: 2016-02-02 21:00
-tags: talk ruby rails lib
 event: Portland Ruby Brigade
 ---
 

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Let's Build Something Together - Brett Chalupa
-permalink: /hire/
+permalink: "/hire/"
+layout: default
 ---
 
 # Let's Build Something Together

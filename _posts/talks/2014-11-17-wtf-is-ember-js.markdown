@@ -1,8 +1,10 @@
 ---
+title: WTF is Ember.js and Ember CLI?
+date: 2014-11-17 20:00:00 Z
+tags:
+- ember
+- talk
 layout: post
-title: "WTF is Ember.js and Ember CLI?"
-date: 2014-11-17 20:00
-tags: ember talk
 event: WTF.js
 ---
 

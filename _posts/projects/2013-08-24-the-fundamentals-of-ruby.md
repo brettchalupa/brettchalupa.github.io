@@ -1,15 +1,15 @@
 ---
+title: The Fundamentals of Ruby
+date: 2013-08-24 00:00:00 Z
+tags:
+- project
 layout: project
-title: "The Fundamentals of Ruby"
-date: 2013-08-24 00:00
-draft: false
-tags: project
-organization: "Tarrant Institute"
-time_period: "August 2013"
-responsibilities: "teaching"
-technologies: "ruby"
-website: "https://github.com/brettchalupa/the_fundamentals_of_ruby"
-excerpt: "A week-long course teaching kids how to program with Ruby"
+organization: Tarrant Institute
+time_period: August 2013
+responsibilities: teaching
+technologies: ruby
+website: https://github.com/brettchalupa/the_fundamentals_of_ruby
+excerpt: A week-long course teaching kids how to program with Ruby
 ---
 
 I developed the curriculum and taught it at the [Tarrant Code

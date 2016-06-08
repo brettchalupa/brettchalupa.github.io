@@ -1,8 +1,10 @@
 ---
+title: A Simple Git Config
+date: 2013-10-05 20:20:00 Z
+tags:
+- note
+- git
 layout: post
-title: "A Simple Git Config"
-date: 2013-10-05 20:20:00
-tags: note git
 ---
 
 Whenever setting up a new machine, I forget to properly configure Git. Usually

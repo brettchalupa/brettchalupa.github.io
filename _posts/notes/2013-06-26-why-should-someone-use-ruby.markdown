@@ -1,8 +1,10 @@
 ---
+title: Why Should Someone Learn Ruby?
+date: 2013-06-26 16:00:00 Z
+tags:
+- note
+- ruby
 layout: post
-title: "Why Should Someone Learn Ruby?"
-date: 2013-06-26 16:00
-tags: note ruby
 ---
 
 In a recent email about the upcoming [Burlington Girl Develop It Ruby
