@@ -15,6 +15,17 @@ The website of Brett Chalupa. It is built with [Jekyll](http://jekyllrb.com) and
 The site is hosted and served via GitHub Pages. New changes get deployed
 by pushing to `master` branch.
 
+## Plugins
+
+The site makes use of plugins that GitHub Pages supports with Jekyll.
+See the `gems:` section in `_config.yml` for the full list.
+
+- [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) - easy
+  SEO-goodness in the site
+- jemoji - using emojis in the content :sun_with_face:
+- jekyll-sitemap - generating a sitemap
+- jekyll-feed - generating an Atom feed
+
 ## License
 
 The content (posts and pages) are licensed under:
