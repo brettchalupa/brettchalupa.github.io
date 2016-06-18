@@ -11,6 +11,7 @@ collections:
   talks:
     title: Talks
     output: true
+    permalink: ":title"
   uploads:
     title: Uploads
     output: true
