@@ -1,5 +1,5 @@
 ---
-title: Let's Build Something Together - Brett Chalupa
+title: Let's Build Something Together
 permalink: "/hire/"
 layout: default
 ---

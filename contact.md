@@ -1,5 +1,5 @@
 ---
-title: Contact - Brett Chalupa
+title: Contact
 permalink: "/contact/"
 layout: default
 ---

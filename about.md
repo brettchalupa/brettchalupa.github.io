@@ -1,5 +1,5 @@
 ---
-title: About - Brett Chalupa
+title: About
 permalink: "/about/"
 layout: default
 ---

@@ -1,5 +1,15 @@
 ---
 title: Brett Chalupa
+description: Independent full stack web application developer and designer based in Portland, OR
+url: http://www.brettchalupa.com
+logo: /image/brett_chalupa.jpg
+twitter:
+  username: brettchalupa
+social:
+  links:
+    - https://twitter.com/brettchalupa
+author:
+  twitter: brettchalupa
 timezone: America/Los_Angeles
 collections:
   posts:
@@ -24,6 +34,7 @@ gems:
 - jemoji
 - jekyll-sitemap
 - jekyll-feed
+- jekyll-seo-tag
 sass:
   sass_dir: _sass
   style: compressed
