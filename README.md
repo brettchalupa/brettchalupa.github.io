@@ -10,6 +10,11 @@ The website of Brett Chalupa. It is built with [Jekyll](http://jekyllrb.com) and
 3. Start up the Jekyll server - `jekyll serve -w -i`
 4. Make changes
 
+## Hosting & Deploying
+
+The site is hosted and served via GitHub Pages. New changes get deployed
+by pushing to `master` branch.
+
 ## License
 
 The content (posts and pages) are licensed under:
