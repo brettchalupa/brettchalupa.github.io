@@ -27,6 +27,7 @@ p, ul, ol, li, span, blockquote, small {
   font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 16px;
+  line-height: 22px;
 }
 
 pre, code {
@@ -54,6 +55,11 @@ pre, code span {
 
 pre {
   margin-bottom: 20px;
+}
+
+ol,
+ul {
+  margin-bottom: 32px;
 }
 
 ul {
