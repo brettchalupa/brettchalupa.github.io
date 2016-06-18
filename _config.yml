@@ -5,6 +5,15 @@ collections:
   posts:
     title: Posts
     output: true
+    permalink: :title
+  talks:
+    title: Talks
+    permalink: :title
+    output: true
+  projects:
+    title: Projects
+    permalink: :title
+    output: true
   uploads:
     title: Uploads
     output: true

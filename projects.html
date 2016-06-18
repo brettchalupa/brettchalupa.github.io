@@ -10,7 +10,7 @@ layout: default
   <p>These are some of the projects I have worked on over the years.</p>
 
   <ul class="projects">
-    {% for project in site.tags.project %}
+    {% for project in site.projects reversed %}
       <li>
         <a href="{{ project.url }}">{{ project.title }}</a>
         •

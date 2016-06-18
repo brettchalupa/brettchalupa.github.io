@@ -11,13 +11,13 @@ layout: default
   given so far.</p>
 
   <ul class="posts">
-    {% for post in site.tags.talk %}
+    {% for talk in site.talks reversed %}
       <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ talk.url }}">{{ talk.title }}</a>
         •
-        <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
+        <span class="date">{{ talk.date | date: "%B %d, %Y" }}</span>
         •
-        {{ post.event }}
+        {{ talk.event }}
       </li>
     {% endfor %}
   </ul>
