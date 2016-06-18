@@ -8,6 +8,7 @@ collections:
   projects:
     title: Projects
     output: true
+    permalink: ":title"
   talks:
     title: Talks
     output: true
