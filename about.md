@@ -7,7 +7,7 @@ layout: default
 
 # About
 
-Howdy! I am Brett, and I am software developer and designer. I live in Portland, Oregon. I try to live a simple life and pursue my passions. I recently moved to Portland after growing up and living in the Northeast.
+Howdy! My name is Brett, and I live in Portland, Oregon. I try to live a simple life and pursue my passions. I recently moved to Portland after growing up and living in the Northeast.
 
 I enjoy cooking, walking, and reading.
 
