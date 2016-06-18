@@ -19,7 +19,7 @@ collections:
 name: Brett Chalupa
 highlighter: rouge
 markdown: kramdown
-permalink: :title
+permalink: title
 gems:
 - jemoji
 - jekyll-sitemap
