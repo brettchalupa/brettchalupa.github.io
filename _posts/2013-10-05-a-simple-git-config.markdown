@@ -36,7 +36,7 @@ as simple as possible.
   editor = vim
 ~~~
 
-They credential setting for `helper = cache` defaults to a 15 minute remember
+The credential setting for `helper = cache` defaults to a 15 minute remember
 period for credentials. This is helpful for not having to continually type in a
 password every time you need to push or pull.
 
