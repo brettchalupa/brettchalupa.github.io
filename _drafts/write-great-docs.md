@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Write Great Docs
+date: 2016-06-18 12:43:59.794000000 -07:00
 tags:
 - documentation
 - software
 - open source
+layout: post
 description: Why it is important to write great documentation when building software.
 ---
 
