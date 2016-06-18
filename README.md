@@ -7,7 +7,7 @@ The website of Brett Chalupa. It is built with [Jekyll](http://jekyllrb.com) and
 
 1. Clone the repository
 2. Install the dependencies - `bundle install`
-3. Start up the Jekyll server - `jekyll serve -w`
+3. Start up the Jekyll server - `jekyll serve -w -i`
 4. Make changes
 
 ## License
