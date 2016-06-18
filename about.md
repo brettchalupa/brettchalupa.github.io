@@ -1,7 +1,7 @@
 ---
 title: About
-description: Info about Bret and how to get in touch.
 permalink: "/about/"
+description: Info about Bret and how to get in touch.
 layout: default
 ---
 
