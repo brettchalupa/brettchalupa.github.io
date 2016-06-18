@@ -1,5 +1,6 @@
 ---
 title: About
+description: Info about Bret and how to get in touch.
 permalink: "/about/"
 layout: default
 ---
@@ -16,10 +17,9 @@ I enjoy drawing, cooking, walking, and reading.
 
 Here are the places where I share what I am up to online:
 
-- [Tumbr](https://brettchalupa.tumblr.com) - sketches and art
-- [Flickr](https://www.flickr.com/photos/brettchalupa/) - photos
 - [GitHub](https://github.com/brettchalupa) - open source code
 - [Twitter](https://twitter.com/brettchalupa) - small updates
+- [Flickr](https://www.flickr.com/photos/brettchalupa/) - photos
 
 ## Contact
 
