@@ -1,12 +1,13 @@
 ---
 title: Reflections on the 2015 Burlington Ruby Conference
-description: Lessons learned from organizing a Ruby conference in Vermont for four years.
-date: 2015-08-09 11:00:00 Z
+date: 2015-08-09 04:00:00 -07:00
 tags:
 - note
 - ruby
 - community
 - brc
+description: Lessons learned from organizing a Ruby conference in Vermont for four
+  years.
 layout: post
 ---
 
