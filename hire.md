@@ -62,9 +62,7 @@ There are two options for working together: partnership or payment.
 If you are looking to partner with me and the project is something I
 am interested in, awesome.
 
-If you are looking to pay me to work with you, I have a sliding scale
-for my rate. If you are a non-profit or self-funded start-up, my rate is
-$75/hr. If you are neither of those, my rate is $100/hr.
+If you are looking to pay me to work with you, my rate is $100/hr.
 
 Sound good? Great. [Send me an email](mailto:brett@brettchalupa.com),
 and let's build something together.
