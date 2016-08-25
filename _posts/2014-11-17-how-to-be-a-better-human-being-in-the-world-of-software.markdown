@@ -1,6 +1,7 @@
 ---
 title: How To Be a Better Human in the World of Software
-date: 2014-11-17 12:00:00 Z
+date: 2014-11-17 04:00:00 -08:00
+published: false
 tags:
 - note
 - human
