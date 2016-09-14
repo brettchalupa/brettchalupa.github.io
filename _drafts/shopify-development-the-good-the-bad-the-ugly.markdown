@@ -11,6 +11,7 @@ TODO:
 
 - add link to shopify theme dev article
 - add hire call out
+- add description
 
 ## The Good
 
