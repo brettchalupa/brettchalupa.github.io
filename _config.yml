@@ -16,10 +16,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: >
-  Freelance full stack web application developer and designer based in
-  Portland, OR, specializing in Ruby on Rails, JavaScript, Shopify,
-  Ember.js, and more.
+description: |
+  Freelance full stack web application developer and designer based in Portland, OR, specializing in Ruby on Rails, JavaScript, Shopify, Ember.js, and more.
 url: http://www.brettchalupa.com
 logo: "/img/brett_chalupa.jpg"
 twitter:
