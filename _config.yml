@@ -16,6 +16,13 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    description: 
 description: |
   Freelance full stack web application developer and designer based in Portland, OR, specializing in Ruby on Rails, JavaScript, Shopify, Ember.js, and more.
 url: http://www.brettchalupa.com
