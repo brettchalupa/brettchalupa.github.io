@@ -15,6 +15,16 @@ The website of Brett Chalupa. It is built with [Jekyll](http://jekyllrb.com) and
 The site is hosted and served via GitHub Pages. New changes get deployed
 by pushing to `master` branch.
 
+## Authoring Content
+
+[jekyll-compose](https://github.com/jekyll/jekyll-compose) can be used
+to create content more easily, with commands like:
+
+- `bundle exec jekyll post "My New Post"`
+- `bundle exec jekyll draft "My New Draft"`
+
+Content can also be authored using [Siteleaf](http://www.siteleaf.com/).
+
 ## Plugins
 
 The site makes use of plugins that GitHub Pages supports with Jekyll.
