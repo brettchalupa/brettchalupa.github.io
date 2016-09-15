@@ -7,7 +7,8 @@ tags:
 - note
 - shopify
 - workflow
-description: A simple and effective workflow for building and maintaining Shopify themes.
+description: A simple and effective workflow for building and maintaining Shopify
+  themes.
 ---
 
 I have been doing theme development on a few Shopify stores
