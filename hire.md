@@ -6,9 +6,6 @@ layout: default
 
 # Let's Build Something Together
 
-If you are looking for someone to build something together with, I may
-be a good fit.
-
 ## About You
 
 You are trying to do good and believe in what are doing. You are engaged
@@ -34,7 +31,7 @@ I have experience and interest in doing the following: web, API, and iOS
 development, app and brand design, website building, project management,
 event organizing, teaching, training, and speaking.
 
-See [Projects](/projects/) for specifics.
+See [Projects](/projects/) for specific examples.
 
 ### How I Work
 
@@ -57,12 +54,5 @@ happy to use and integrate with existing tools and processes.
 
 ## Let's Do This
 
-There are two options for working together: partnership or payment.
-
-If you are looking to partner with me and the project is something I
-am interested in, awesome.
-
-If you are looking to pay me to work with you, my rate is $100/hr.
-
-Sound good? Great. [Send me an email](mailto:brett@brettchalupa.com),
-and let's build something together.
+Sound good? Awesome! [Send me an email](mailto:brett@brettchalupa.com),
+and let's chat.
