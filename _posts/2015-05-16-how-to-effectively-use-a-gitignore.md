@@ -1,7 +1,7 @@
 ---
 title: How To Effectively Use a .gitignore
 date: 2015-05-20 5:00:00 -07:00
-description: A guide to using .gitignore files
+description: A guide to using .gitignore files.
 tags:
 - git
 ---
