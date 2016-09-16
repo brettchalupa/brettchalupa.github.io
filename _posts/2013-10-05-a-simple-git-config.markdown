@@ -35,6 +35,7 @@ as simple as possible.
   ui = true
 [core]
   editor = vim
+  excludesfile = ~/.gitignore_global
 ~~~
 
 The credential setting for `helper = cache` defaults to a 15 minute remember
@@ -44,6 +45,13 @@ password every time you need to push or pull.
 The color setting for `ui = true` makes working with Git from the command line
 just a little more colorful.
 
-The core setting for `editor = vim` set the default editor for writing messages in Git. You can set this to whatever editor you want. I happen to use vim!
+The core setting for `editor = vim` set the default editor for writing
+messages in Git. You can set this to whatever editor you want.
+
+The `excludesfile` setting tells Git to use the specified file as a
+computer-wide `.gitignore` file, which is great for ignoring files like
+`.DS_Store`. I [wrote an in-depth post on using
+.gitignore](/how-to-effectively-use-a-gitignore) if you are interested in
+learning more about it.
 
 Beyond that, I keep my Git config lean and clean.
