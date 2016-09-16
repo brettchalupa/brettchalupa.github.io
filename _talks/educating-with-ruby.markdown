@@ -1,6 +1,7 @@
 ---
 title: Educating with Ruby
 date: 2013-09-21 14:00:00 Z
+description: A talk Brett Chalupa gave in September 2013 on teaching Ruby to kids.
 tags:
 - ruby
 - talk

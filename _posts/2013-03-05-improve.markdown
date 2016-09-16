@@ -1,5 +1,6 @@
 ---
 title: Simple Ways to Improve Your Day
+description: A list of ways to improve your day if you having a bad one.
 date: 2013-03-05 12:25:00 Z
 tags:
 - note

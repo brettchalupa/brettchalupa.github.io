@@ -1,5 +1,6 @@
 ---
 title: Getting Started with Flixel, FlashDevelop and Actionscript 3
+description: Guide to getting started making Flash games with Flixel.
 date: 2012-05-22 14:00:00 Z
 tags:
 - note

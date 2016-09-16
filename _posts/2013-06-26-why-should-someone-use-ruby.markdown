@@ -1,5 +1,6 @@
 ---
 title: Why Should Someone Learn Ruby?
+description: An overview of reasons to learn the Ruby programming language.
 date: 2013-06-26 16:00:00 Z
 tags:
 - note

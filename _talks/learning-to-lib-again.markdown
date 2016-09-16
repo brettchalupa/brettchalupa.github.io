@@ -1,6 +1,7 @@
 ---
 title: Learning to lib Again
 date: 2016-02-02 21:00:00 Z
+description: A talk Brett Chalupa gave in February 2016 on how to make the most of the lib directory in Rails apps.
 tags:
 - talk
 - ruby

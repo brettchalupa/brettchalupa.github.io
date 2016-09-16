@@ -1,5 +1,6 @@
 ---
 title: Copying a tmux Buffer to the OS X Clipboard
+description: A convenient way to copy tmux content to the clipboard.
 date: 2015-05-10 14:38:00 Z
 tags:
 - note

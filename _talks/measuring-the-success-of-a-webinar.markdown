@@ -1,6 +1,7 @@
 ---
 title: Measuring the Success of a Webinar
 date: 2011-06-21 20:00:00 Z
+description: A talk Brett gave in June 2011 about analyzing the data of a webinar.
 tags:
 - data
 - talk

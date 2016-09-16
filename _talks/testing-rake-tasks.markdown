@@ -1,6 +1,7 @@
 ---
 title: Testing Rake Tasks
 date: 2016-03-14 01:00:00 Z
+description: A talk Brett gave in March 2016 on how to test Rake tasks in Ruby with RSpec.
 tags:
 - talk
 - testing

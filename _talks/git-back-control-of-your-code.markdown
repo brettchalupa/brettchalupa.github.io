@@ -1,6 +1,7 @@
 ---
 title: Git Back Control of Your Code
 date: 2012-10-19 20:00:00 Z
+description: A talk Brett Chalupa gave in October 2012 on using Git.
 tags:
 - git
 - talk

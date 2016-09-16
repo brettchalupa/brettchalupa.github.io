@@ -1,5 +1,6 @@
 ---
 title: Searching for a File in the Terminal Using the find Command
+description: A guide to using the find command to find a file.
 date: 2013-12-30 23:20:00 Z
 tags:
 - note

@@ -1,6 +1,7 @@
 ---
 title: WTF is Ember.js and Ember CLI?
 date: 2014-11-17 20:00:00 Z
+description: A short talk Brett gave in November 2014 explaining what Ember.js is.
 tags:
 - ember
 - talk

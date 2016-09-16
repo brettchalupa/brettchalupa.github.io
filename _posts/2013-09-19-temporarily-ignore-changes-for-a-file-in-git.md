@@ -1,5 +1,6 @@
 ---
 title: Temporarily Ignore Changes for a File in Git
+description: A guide to temporarily ignoring changes to a file that is tracked by Git.
 date: 2013-09-19 23:20:00 Z
 tags:
 - note

@@ -1,6 +1,7 @@
 ---
 title: Tools of Ruby & JavaScript Developer
 date: 2015-03-26 20:00:00 Z
+description: A talk Brett Chalupa gave in March 2015 on the development tools he uses.
 tags:
 - tools
 - cli

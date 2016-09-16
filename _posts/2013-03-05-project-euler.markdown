@@ -1,5 +1,6 @@
 ---
 title: Project Euler
+description: Project Euler is a neat collection of programming challenges.
 date: 2013-03-05 22:00:00 Z
 tags:
 - note

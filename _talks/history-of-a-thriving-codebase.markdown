@@ -1,6 +1,7 @@
 ---
 title: History of a Thriving Codebase
 date: 2014-04-09 20:00:00 Z
+description: A talk Brett Chalupa gave in April 2014 on the importance of creating a useful Git history.
 tags:
 - git
 - talk

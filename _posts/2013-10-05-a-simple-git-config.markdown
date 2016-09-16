@@ -1,5 +1,6 @@
 ---
 title: A Simple Git Config
+description: A simple and clean Git config for people to build upon.
 date: 2013-10-05 13:20:00 -07:00
 tags:
 - note
