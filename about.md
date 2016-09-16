@@ -15,9 +15,10 @@ I enjoy cooking, walking, and reading.
 
 Here are the places where I share what I am up to online:
 
-- [GitHub](https://github.com/brettchalupa) - open source code
-- [Dribbble](https://dribbble.com/brettchalupa) - designs
 - [Twitter](https://twitter.com/brettchalupa) - small updates
+- [YouTube](https://www.youtube.com/channel/UCY3iHJtwVmPlwQOgTvh0H5g) - screencasts on development and design
+- [Dribbble](https://dribbble.com/brettchalupa) - designs
+- [GitHub](https://github.com/brettchalupa) - open source code
 - [Flickr](https://www.flickr.com/photos/brettchalupa/) - photos
 
 ## Contact
