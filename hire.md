@@ -1,5 +1,6 @@
 ---
 title: Let's Build Something Together
+description: Details on how to hire Brett Chalupa for software development and design projects.
 permalink: "/hire/"
 layout: default
 ---
