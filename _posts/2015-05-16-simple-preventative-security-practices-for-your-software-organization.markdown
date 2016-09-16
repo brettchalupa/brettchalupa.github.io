@@ -1,6 +1,6 @@
 ---
 title: Simple Preventative Security Practices for Your Software Organization
-date: 2015-06-16 5:00:00 -07:00
+date: 2015-05-16 5:00:00 -07:00
 tags:
 - security
 - software
