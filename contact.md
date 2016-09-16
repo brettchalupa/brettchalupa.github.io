@@ -1,5 +1,6 @@
 ---
 title: Contact
+description: Contact information for Brett Chalupa.
 permalink: "/contact/"
 layout: default
 ---
