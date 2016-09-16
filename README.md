@@ -23,8 +23,6 @@ to create content more easily, with commands like:
 - `bundle exec jekyll post "My New Post"`
 - `bundle exec jekyll draft "My New Draft"`
 
-Content can also be authored using [Siteleaf](http://www.siteleaf.com/).
-
 ## Plugins
 
 The site makes use of plugins that GitHub Pages supports with Jekyll.
