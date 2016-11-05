@@ -17,14 +17,15 @@
 /* #Site Styles
 ================================================== */
 
+$font-family: 'Lora', serif;
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+  font-family: $font-family;
   font-weight: 400;
 }
 
 p, ul, ol, li, span, blockquote, small {
-  font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+  font-family: $font-family;
   font-weight: 400;
   font-size: 16px;
   line-height: 22px;
