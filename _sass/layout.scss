@@ -1,30 +1,21 @@
-/*
-* Skeleton V1.2
-* Copyright 2011, Dave Gamache
-* www.getskeleton.com
-* Free to use under the MIT license.
-* http://www.opensource.org/licenses/mit-license.php
-* 6/20/2012
-*/
-
-/* Table of Content
-==================================================
-  #Site Styles
-  #Page Styles
-  #Media Queries
-  #Font-Face */
-
-/* #Site Styles
-================================================== */
-
 $font-family: 'Lora', serif;
+$font-color: #4A4A4A;
+
+// General Element Styles
+
+body {
+  color: $font-color;
+  margin: 0;
+}
 
 h1, h2, h3, h4, h5, h6 {
+  color: $font-color;
   font-family: $font-family;
   font-weight: 400;
 }
 
 p, ul, ol, li, span, blockquote, small {
+  color: $font-color;
   font-family: $font-family;
   font-weight: 400;
   font-size: 16px;
@@ -42,10 +33,6 @@ pre.highlight {
 
 pre, code span {
   font-family: Courier New, Courier, monospace;
-}
-
-.page {
-  padding-top: 32px;
 }
 
 .title {
@@ -90,9 +77,6 @@ img {
   font-size: 16px;
 }
 
-/* #Page Styles
-================================================== */
-
 .profile {
   border-radius: 200px;
   height: 162px;
@@ -121,53 +105,32 @@ img {
   }
 }
 
-/* #Media Queries
-================================================== */
-
-  /* Smaller than standard 960 (devices and browsers) */
-  @media only screen and (max-width: 959px) {}
-
-  /* Tablet Portrait size to standard 960 (devices and browsers) */
-  @media only screen and (min-width: 768px) and (max-width: 959px) {}
-
-  /* All Mobile Sizes (devices and browser) */
-  @media only screen and (max-width: 767px) {
-    .title {
-      text-align: center;
-    }
-
-    .nav {
-      text-align: center;
-    }
-
-    .nav li {
-      display: inline-block;
-      padding-left: 8px;
-      padding-right: 8px;
-    }
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+  .title {
+    text-align: center;
   }
 
-  /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
-  @media only screen and (min-width: 480px) and (max-width: 767px) {}
+  .nav {
+    text-align: center;
+  }
 
-  /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
-  @media only screen and (max-width: 479px) {}
+  .nav li {
+    display: inline-block;
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+}
 
+// Layout
 
-/* #Font-Face
-================================================== */
-/*  This is the proper syntax for an @font-face file
-    Just create a "fonts" folder at the root,
-    copy your FontName into code below and remove
-    comment brackets */
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
 
-/*  @font-face {
-      font-family: 'FontName';
-      src: url('../fonts/FontName.eot');
-      src: url('../fonts/FontName.eot?iefix') format('eot'),
-           url('../fonts/FontName.woff') format('woff'),
-           url('../fonts/FontName.ttf') format('truetype'),
-           url('../fonts/FontName.svg#webfontZam02nTh') format('svg');
-      font-weight: normal;
-      font-style: normal; }
-*/
+.wrapper {
+  max-width: 456px;
+  margin: 0 auto;
+}
