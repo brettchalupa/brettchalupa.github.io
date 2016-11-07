@@ -30,6 +30,16 @@ p, ul, ol, li, span, blockquote, small {
   line-height: 22px;
 }
 
+p {
+  &.intro {
+    font-size: 18px;
+  }
+
+  &.small {
+    font-size: 14px;
+  }
+}
+
 a {
   color: $font-color;
   transition: $transition-color;
@@ -91,10 +101,6 @@ img {
   margin: 0 auto;
 }
 
-.emblem {
-  max-width: 200px;
-}
-
 // Header & Footer
 
 header,
@@ -148,14 +154,18 @@ footer {
   }
 }
 
-.colophon {
-  .emblem {
-    max-width: 24px;
-  }
-}
-
 // Content
 
 .content {
-  margin-top: $spacing-unit;
+  margin: $spacing-unit auto;
+}
+
+// Page Layouts
+
+//// Home
+
+#home {
+  .intro {
+    text-align: center;
+  }
 }

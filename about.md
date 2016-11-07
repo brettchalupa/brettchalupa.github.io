@@ -1,27 +1,36 @@
 ---
 title: About
 permalink: "/about/"
-description: Info about Brett and how to get in touch.
+description: Information about Brett and how to get in touch.
 layout: default
 ---
 
 # About
 
-Howdy! My name is Brett, and I live in Portland, Oregon. I try to live a simple life and pursue my passions. I recently moved to Portland after growing up and living in the Northeast.
+<p class='intro'>Cras justo odio, dapibus ac facilisis in, egestas eget
+quam. Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
 
-I enjoy cooking, walking, and reading.
+![Photo of Brett, his mother, and his grandmother](/img/brett_about.jpg)
 
-## Online
+Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh,
+ut fermentum massa justo sit amet risus. Nullam id dolor id nibh
+ultricies vehicula ut id elit. Vestibulum id ligula porta felis euismod
+semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur
+et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis
+consectetur purus sit amet fermentum.
 
-Here are the places where I share what I am up to online:
+Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+Maecenas faucibus mollis interdum. Maecenas sed diam eget risus varius
+blandit sit amet non magna. Cum sociis natoque penatibus et magnis dis
+parturient montes, nascetur ridiculus mus.
+
+## On the Web
 
 - [Twitter](https://twitter.com/brettchalupa) - small updates
-- [YouTube](https://www.youtube.com/channel/UCY3iHJtwVmPlwQOgTvh0H5g) - screencasts on development and design
-- [Dribbble](https://dribbble.com/brettchalupa) - designs
-- [GitHub](https://github.com/brettchalupa) - open source code
+- [Goodreads](https://www.goodreads.com/brettchalupa) - what I have been
+  reading
 - [Flickr](https://www.flickr.com/photos/brettchalupa/) - photos
 
 ## Contact
 
-The best way to get in touch is by emailing me at
-`brett@brettchalupa.com`.
+You can contact me by sending an email to my first name at this domain.

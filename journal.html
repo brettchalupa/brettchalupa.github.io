@@ -1,0 +1,32 @@
+---
+title: Journal
+description: News and musings
+permalink: "/journal/"
+layout: default
+---
+
+<div id="journal">
+  <h1>{{ page.title }}</h1>
+
+  <p class='intro'>{{ page.description }}</p>
+
+  <h2>Highlights</h2>
+
+  <ul class="posts">
+    {% for post in site.tags.featured %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> / <span class="date">{{ post.date | date: "%B %d, %Y" }}</span></li>
+    {% endfor %}
+  </ul>
+
+  <h2>Topics</h2>
+
+  <h2>The Whole List</h2>
+
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a> / <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
