@@ -1,5 +1,13 @@
+// Styles for the site
+
 $font-family: 'Lora', serif;
+$font-family-mono: Courier New, Courier, monospace;
 $font-color: #4A4A4A;
+$font-color-light: lighten(#4A4A4A, 10%);
+
+$spacing-unit: 48px;
+
+$transition-color: color 0.4s ease;
 
 // General Element Styles
 
@@ -22,30 +30,29 @@ p, ul, ol, li, span, blockquote, small {
   line-height: 22px;
 }
 
-pre, code {
-  font-family: Courier New, Courier, monospace;
+a {
+  color: $font-color;
+  transition: $transition-color;
+
+  &:hover,
+  &:focus {
+    color: $font-color-light;
+  }
+}
+
+pre,
+code,
+code span {
+  font-family: $font-family-mono;
   font-size: 16px;
-}
-
-pre.highlight {
-  background-color: rgba(239, 239, 239, 0.3);
-}
-
-pre, code span {
-  font-family: Courier New, Courier, monospace;
-}
-
-.title {
-  font-size: 24px;
-  line-height: 26px;
-}
-
-.title a {
-  text-decoration: none;
 }
 
 pre {
   margin-bottom: 20px;
+
+  &.highlight {
+    background-color: rgba(239, 239, 239, 0.3);
+  }
 }
 
 ol,
@@ -65,64 +72,13 @@ ol {
   padding-left: 16px;
 }
 
-.center {
-  text-align: center;
-}
-
 img {
   max-width: 100%;
 }
 
-.cta {
-  font-size: 16px;
-}
-
-.profile {
-  border-radius: 200px;
-  height: 162px;
-  margin-bottom: 42px;
-  width: 162px;
-}
-
-.intro {
+.center {
   text-align: center;
 }
-
-.intro h1 {
-  margin-bottom: 42px;
-}
-
-.intro h3 {
-  margin-bottom: 42px;
-}
-
-.nav {
-  list-style: none;
-  padding-left: 0;
-
-  li {
-    line-height: 18px;
-  }
-}
-
-/* All Mobile Sizes (devices and browser) */
-@media only screen and (max-width: 767px) {
-  .title {
-    text-align: center;
-  }
-
-  .nav {
-    text-align: center;
-  }
-
-  .nav li {
-    display: inline-block;
-    padding-left: 8px;
-    padding-right: 8px;
-  }
-}
-
-// Layout
 
 .container {
   max-width: 1024px;
@@ -133,4 +89,62 @@ img {
 .wrapper {
   max-width: 456px;
   margin: 0 auto;
+}
+
+// Header
+
+header {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  margin: $spacing-unit / 2 0;
+}
+
+.header-anchor {
+  @extend a;
+
+  text-decoration: none;
+}
+
+.title {
+  align-self: flex-start;
+  font-size: 18px;
+  margin: 0;
+  width: 100%;
+
+  a {
+    @extend .header-anchor;
+  }
+}
+
+.nav {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+  width: 100%;
+}
+
+.nav-item {
+  display: inline-block;
+  font-size: 16px;
+  margin: 0 $spacing-unit / 2;
+
+  &:last-of-type {
+    margin-right: 0;
+  }
+
+  a {
+    @extend .header-anchor;
+  }
+}
+
+// Content
+
+.content {
+  margin-top: $spacing-unit;
 }
