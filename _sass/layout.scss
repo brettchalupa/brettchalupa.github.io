@@ -91,9 +91,14 @@ img {
   margin: 0 auto;
 }
 
-// Header
+.emblem {
+  max-width: 200px;
+}
 
-header {
+// Header & Footer
+
+header,
+footer {
   align-items: center;
   display: flex;
   flex-direction: row;
@@ -106,7 +111,7 @@ header {
   text-decoration: none;
 }
 
-.title {
+.title, .colophon {
   align-self: flex-start;
   font-size: 18px;
   margin: 0;
@@ -140,6 +145,12 @@ header {
 
   a {
     @extend .header-anchor;
+  }
+}
+
+.colophon {
+  .emblem {
+    max-width: 24px;
   }
 }
 
