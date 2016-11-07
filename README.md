@@ -1,7 +1,6 @@
 # www.brettchalupa.com
 
-The website of Brett Chalupa. It is built with [Jekyll](http://jekyllrb.com) and utilizes
-[Skeleton](http://getskeleton.com) on the front-end.
+The website of Brett Chalupa, built with [Jekyll](http://jekyllrb.com).
 
 ## Developing
 
