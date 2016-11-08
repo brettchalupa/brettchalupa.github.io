@@ -5,6 +5,7 @@ date: 2013-12-30 23:20:00 Z
 tags:
 - note
 - terminal
+- archived
 layout: post
 ---
 

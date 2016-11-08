@@ -6,14 +6,9 @@ tags:
 - workflow
 - gamedev
 - github
+- archived
 description: A workflow on how to use git and GitHub for game development.
 ---
-
-TODO:
-
-- figure out the date
-- revise and edit the content
-- set the proper URL
 
 You've made it! Welcome! This is my all-in-one-guide on how to use git and Github, two of the most important tools a programmer has. This guide has some specific parts geared towards game development. I hope that's alright with you!
 

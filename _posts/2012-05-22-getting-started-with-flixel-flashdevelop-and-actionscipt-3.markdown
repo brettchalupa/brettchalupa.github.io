@@ -7,6 +7,7 @@ tags:
 - flixel
 - as3
 - gamedev
+- archived
 layout: post
 ---
 

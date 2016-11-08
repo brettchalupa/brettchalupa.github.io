@@ -6,6 +6,7 @@ tags:
 - ruby
 - community
 - brc
+- archived
 description: Lessons learned from organizing a Ruby conference in Vermont for four
   years.
 layout: post

@@ -1,0 +1,62 @@
+---
+title: Archive
+description: Content that is no longer actively listed on the site, mostly tech related
+permalink: "/archive"
+layout: default
+---
+
+<div id="archive">
+  <h1>{{ page.title }}</h1>
+
+  <p>{{ page.description }}</p>
+
+  <h2>Notes</h2>
+
+  <ul class="posts">
+    {% for post in site.posts %}
+      {% if post.tags contains 'archived' %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+          <br>
+          <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <h2>Writing Published Elsewhere</h2>
+
+  <p>Notes I have written on other sites, mostly about technology.</p>
+
+  <ul class="posts">
+    <li>
+      <a href="http://gofullstack.com/getting-started-with-ember-js/">Getting Started with Ember.js</a>
+      <br>
+      <span class="date">October 27, 2014</span>
+    </li>
+
+    <li>
+      <a href="http://gofullstack.com/how-to-easily-record-gifs-on-mac-os-x-and-windows/">How To Easily Record GIFs on Mac OS X and Windows</a>
+      <br>
+      <span class="date">September 28, 2014</span>
+    </li>
+
+    <li>
+      <a href="http://gofullstack.com/we-switched-our-site-to-jekyll/">We Switched Our Site to Jekyll</a>
+      <br>
+      <span class="date">September 25, 2014</span>
+    </li>
+
+    <li>
+      <a href="http://gofullstack.com/remote-routines-2014-09-12-brian-cobb/">Remote Routines - 2014-09-12 - Brian Cobb</a>
+      <br>
+      <span class="date">September 12, 2014</span>
+    </li>
+
+    <li>
+      <a href="http://gofullstack.com/best-remote-pair-programming-setup/">The Best Remote Pair Programming Setup</a>
+      <br>
+      <span class="date">September 05, 2014</span>
+    </li>
+  </ul>
+</div>

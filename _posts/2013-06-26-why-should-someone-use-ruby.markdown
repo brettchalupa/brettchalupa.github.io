@@ -5,6 +5,7 @@ date: 2013-06-26 16:00:00 Z
 tags:
 - note
 - ruby
+- archived
 layout: post
 ---
 
