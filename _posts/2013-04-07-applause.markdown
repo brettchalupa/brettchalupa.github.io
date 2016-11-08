@@ -5,6 +5,7 @@ tags:
 - note
 - quote
 - featured
+- journal_entry
 layout: post
 ---
 
