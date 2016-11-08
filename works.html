@@ -13,9 +13,13 @@ layout: default
   <ul class='works-list'>
     {% for work in site.works %}
       <li>
-        <h3>{{ work.title }}</h3>
+        <h3><a href="{{ work.url }}">{{ work.title }}</a></h3>
 
-        <p>{{ work.kind }} / {{ work.release }}</p>
+        <p>
+          <span class="category">{{ work.category }}</span>
+          /
+          <span class="period">{{ work.period }}</span>
+        </p>
       </li>
     {% endfor %}
   </ul>

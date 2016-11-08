@@ -10,6 +10,28 @@ layout: default
     <h4>Writer</h4>
   </div>
 
+  <div class='featured-works'>
+    <h2>Featured Works</h2>
+
+    <ul class='posts-list'>
+      {% for work in site.works %}
+        {% if work.tags contains 'featured' %}
+          <li>
+            <h3><a href="{{ work.url }}">{{ work.title }}</a></h3>
+
+            <p>
+              <span class="category">{{ work.category }}</span>
+              /
+              <span class="period">{{ work.period }}</span>
+            </p>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+
+    <p class='small'><a href='/works'>All Works</a></p>
+  </div>
+
   <div class='journal-entries'>
     <h2>Latest Journal Entries</h2>
 
@@ -20,7 +42,6 @@ layout: default
         </li>
       {% endfor %}
     </ul>
-
 
     <p class='small'><a href='/journal'>All Entries</a></p>
   </div>
