@@ -4,6 +4,7 @@ date: 2013-04-07 16:39:00 Z
 tags:
 - note
 - quote
+- featured
 layout: post
 ---
 
