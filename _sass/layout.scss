@@ -169,3 +169,10 @@ footer {
     text-align: center;
   }
 }
+
+// Post / Entry
+.meta {
+  @extend p.small;
+
+  margin: 0;
+}
