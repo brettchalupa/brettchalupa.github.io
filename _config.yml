@@ -24,7 +24,6 @@ defaults:
     layout: post
     description: 
 description: 'Writer'
-status: "Currently working on Aperture"
 url: http://www.brettchalupa.com
 logo: "/img/brett_chalupa.jpg"
 twitter:
