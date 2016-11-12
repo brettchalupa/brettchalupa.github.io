@@ -106,8 +106,7 @@ ol {
 }
 
 li {
-  line-height: 30px;
-  padding-bottom: 4px;
+  padding-bottom: 12px;
 }
 
 img {
@@ -125,7 +124,7 @@ img {
 }
 
 .wrapper {
-  max-width: 456px;
+  max-width: 480px;
   margin: 0 auto;
 }
 
@@ -195,7 +194,12 @@ footer {
 
 .works-list {
   display: flex;
+  justify-content: space-between;
   list-style: none;
+}
+
+.wli {
+  max-width: 240px;
 }
 
 // Page Layouts

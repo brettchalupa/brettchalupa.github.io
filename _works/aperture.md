@@ -1,8 +1,9 @@
 ---
 title: Aperture
-date: 2016-10-01 00:00:00 Z
+date: 2016-11-01 00:00:00 Z
 category: Novel
 tags:
+- book
 - novel
 - featured
 layout: work

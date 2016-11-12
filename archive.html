@@ -10,77 +10,85 @@ layout: default
 
   <p>{{ page.description }}</p>
 
-  <h2>Notes</h2>
+  <div class='section'>
+    <h2>Notes</h2>
 
-  <ul class="posts">
-    {% for post in site.posts %}
-      {% if post.tags contains 'archived' %}
+    <ul class="posts">
+      {% for post in site.posts %}
+        {% if post.tags contains 'archived' %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class='section'>
+    <h2>Talks</h2>
+
+    <p>Technical talks on programming that I gave over the years.</p>
+
+    <ul class="posts">
+      {% for talk in site.talks reversed %}
         <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
+          <a href="{{ talk.url }}">{{ talk.title }}</a>
         </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+      {% endfor %}
+    </ul>
+  </div>
 
-  <h2>Talks</h2>
+  <div class='section'>
+    <h2>Projects</h2>
 
-  <p>Technical talks on programming that I gave over the years.</p>
+    <p>A sampling of technical projects I worked on.</p>
 
-  <ul class="posts">
-    {% for talk in site.talks reversed %}
+    <ul class="projects">
+      {% for project in site.projects reversed %}
+        <li>
+          <a href="{{ project.url }}">{{ project.title }}</a>
+          -
+          <span class='organization'>{{ project.organization }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class='section'>
+    <h2>Writing Published Elsewhere</h2>
+
+    <p>Notes I have written on other sites, mostly about technology.</p>
+
+    <ul class="posts">
       <li>
-        <a href="{{ talk.url }}">{{ talk.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <h2>Projects</h2>
-
-  <p>A sampling of technical projects I worked on.</p>
-
-  <ul class="projects">
-    {% for project in site.projects reversed %}
-      <li>
-        <a href="{{ project.url }}">{{ project.title }}</a>
+        <a href="http://gofullstack.com/getting-started-with-ember-js/">Getting Started with Ember.js</a>
         -
-        <span class='organization'>{{ project.organization }}</span>
+        <span class="date">October 27, 2014</span>
       </li>
-    {% endfor %}
-  </ul>
 
-  <h2>Writing Published Elsewhere</h2>
+      <li>
+        <a href="http://gofullstack.com/how-to-easily-record-gifs-on-mac-os-x-and-windows/">How To Easily Record GIFs on Mac OS X and Windows</a>
+        -
+        <span class="date">September 28, 2014</span>
+      </li>
 
-  <p>Notes I have written on other sites, mostly about technology.</p>
+      <li>
+        <a href="http://gofullstack.com/we-switched-our-site-to-jekyll/">We Switched Our Site to Jekyll</a>
+        -
+        <span class="date">September 25, 2014</span>
+      </li>
 
-  <ul class="posts">
-    <li>
-      <a href="http://gofullstack.com/getting-started-with-ember-js/">Getting Started with Ember.js</a>
-      -
-      <span class="date">October 27, 2014</span>
-    </li>
+      <li>
+        <a href="http://gofullstack.com/remote-routines-2014-09-12-brian-cobb/">Remote Routines - 2014-09-12 - Brian Cobb</a>
+        -
+        <span class="date">September 12, 2014</span>
+      </li>
 
-    <li>
-      <a href="http://gofullstack.com/how-to-easily-record-gifs-on-mac-os-x-and-windows/">How To Easily Record GIFs on Mac OS X and Windows</a>
-      -
-      <span class="date">September 28, 2014</span>
-    </li>
-
-    <li>
-      <a href="http://gofullstack.com/we-switched-our-site-to-jekyll/">We Switched Our Site to Jekyll</a>
-      -
-      <span class="date">September 25, 2014</span>
-    </li>
-
-    <li>
-      <a href="http://gofullstack.com/remote-routines-2014-09-12-brian-cobb/">Remote Routines - 2014-09-12 - Brian Cobb</a>
-      -
-      <span class="date">September 12, 2014</span>
-    </li>
-
-    <li>
-      <a href="http://gofullstack.com/best-remote-pair-programming-setup/">The Best Remote Pair Programming Setup</a>
-      -
-      <span class="date">September 05, 2014</span>
-    </li>
-  </ul>
+      <li>
+        <a href="http://gofullstack.com/best-remote-pair-programming-setup/">The Best Remote Pair Programming Setup</a>
+        -
+        <span class="date">September 05, 2014</span>
+      </li>
+    </ul>
+  </div>
 </div>
