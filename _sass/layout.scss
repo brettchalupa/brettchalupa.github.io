@@ -2,8 +2,10 @@
 
 $font-family: 'Lora', serif;
 $font-family-mono: Courier New, Courier, monospace;
-$font-color: #0A0A0A;
-$font-color-light: lighten(#4A4A4A, 10%);
+$font-color: #4A4A4A;
+$font-color-light: lighten($font-color, 10%);
+$font-weight-normal: 400;
+$font-weight-bold: 700;
 
 $spacing-unit: 48px;
 
@@ -19,13 +21,37 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color: $font-color;
   font-family: $font-family;
-  font-weight: 400;
+  font-weight: $font-weight-bold;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+h5 {
+  font-size: 16px;
+}
+
+h6 {
+  font-size: 14px;
 }
 
 p, ul, ol, li, span, blockquote, small {
   color: $font-color;
   font-family: $font-family;
-  font-weight: 400;
+  font-weight: $font-weight-normal;
   font-size: 16px;
   line-height: 22px;
 }
@@ -67,19 +93,21 @@ pre {
 
 ol,
 ul {
-  margin-bottom: 32px;
+  padding-left: 0;
+  margin: $spacing-unit / 2 0;
 }
 
 ul {
   list-style: disc;
 }
 
-li {
-  padding-bottom: 4px;
-}
-
 ol {
   padding-left: 16px;
+}
+
+li {
+  line-height: 30px;
+  padding-bottom: 4px;
 }
 
 img {
@@ -101,6 +129,10 @@ img {
   margin: 0 auto;
 }
 
+.section {
+  margin-bottom: $spacing-unit;
+}
+
 // Header & Footer
 
 header,
@@ -120,6 +152,7 @@ footer {
 .title, .colophon {
   align-self: flex-start;
   font-size: 18px;
+  font-weight: $font-weight-normal;
   margin: 0;
   width: 100%;
 
@@ -160,13 +193,18 @@ footer {
   margin: $spacing-unit auto;
 }
 
+.works-list {
+  display: flex;
+  list-style: none;
+}
+
 // Page Layouts
 
 //// Home
 
 #home {
   .intro {
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit * 2;
     text-align: center;
   }
 }
