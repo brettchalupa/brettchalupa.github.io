@@ -133,7 +133,11 @@ iframe {
 .container {
   max-width: 1024px;
   margin: 0 auto;
-  padding: 0 40px;
+  padding: 0 $spacing-unit;
+
+  @media (max-width: $breakpoint-sm) {
+    padding: 0 $spacing-unit / 1.5;
+  }
 }
 
 .wrapper {
