@@ -66,6 +66,16 @@ p {
   }
 }
 
+blockquote {
+  font-size: 18px;
+  font-style: italic;
+  line-height: 26px;
+
+  p {
+    @extend blockquote;
+  }
+}
+
 a {
   color: $font-color;
   transition: $transition-color;
