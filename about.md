@@ -7,22 +7,15 @@ layout: default
 
 # About
 
-<p class='intro'>Cras justo odio, dapibus ac facilisis in, egestas eget
-quam. Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+<p class='intro'>Hi, my name is Brett. I'm a storyteller focused on
+writing, and I live in Portland, Oregon.</p>
 
 ![Photo of Brett, his mother, and his grandmother](/img/brett_about.jpg)
 
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh,
-ut fermentum massa justo sit amet risus. Nullam id dolor id nibh
-ultricies vehicula ut id elit. Vestibulum id ligula porta felis euismod
-semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur
-et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis
-consectetur purus sit amet fermentum.
-
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
-Maecenas faucibus mollis interdum. Maecenas sed diam eget risus varius
-blandit sit amet non magna. Cum sociis natoque penatibus et magnis dis
-parturient montes, nascetur ridiculus mus.
+I grew up in the Northeast, living in New Jersey and Vermont, prior to
+moving to the Pacific Northwest. I try to live a simple life and pursue
+my passions, which have been reading, writing, cooking, and walking
+lately.
 
 ## On the Web
 
