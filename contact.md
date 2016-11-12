@@ -7,5 +7,4 @@ layout: default
 
 # Contact
 
-The easiest way to get in touch is by emailing me at
-`brett@brettchalupa.com`.
+You can contact Brett by sending an email to his first name at this domain.
