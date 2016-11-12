@@ -10,4 +10,5 @@ layout: work
 period: In Progress
 ---
 
-NaNoWriMo 2016 novel, currently writing.
+A young college woman accidentally takes a photo of a dead body, which
+starts to unravel the thread of mysteries in a small Vermont town.

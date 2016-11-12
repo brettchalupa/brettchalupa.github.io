@@ -10,4 +10,4 @@ layout: work
 period: In Progress
 ---
 
-A collection of short stories.
+A collection of short stories I have been working on since October 2016.
