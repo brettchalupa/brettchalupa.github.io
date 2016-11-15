@@ -10,5 +10,4 @@ layout: work
 period: In Progress
 ---
 
-A young college woman accidentally takes a photo of a dead body, which
-starts to unravel the thread of mysteries in a small Vermont town.
+A novel initially started for [NaNoWriMo](http://nanowrimo.org/) 2016.
