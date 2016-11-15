@@ -80,7 +80,7 @@ blockquote {
 
 hr {
   border: none; // clear out default border
-  border-top: 1px solid $font-color-light;
+  border-top: 1px solid rgba($font-color-light, 0.5);
 }
 
 a {
