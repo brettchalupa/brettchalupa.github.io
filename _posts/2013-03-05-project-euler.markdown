@@ -5,6 +5,7 @@ date: 2013-03-05 22:00:00 Z
 tags:
 - note
 - programming
+- archived
 layout: post
 ---
 

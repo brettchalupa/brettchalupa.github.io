@@ -1,9 +1,12 @@
 ---
 title: Applause
 date: 2013-04-07 16:39:00 Z
+category: Quote
 tags:
 - note
 - quote
+- featured
+- journal_entry
 layout: post
 ---
 

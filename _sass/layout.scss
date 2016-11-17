@@ -1,172 +1,303 @@
-/*
-* Skeleton V1.2
-* Copyright 2011, Dave Gamache
-* www.getskeleton.com
-* Free to use under the MIT license.
-* http://www.opensource.org/licenses/mit-license.php
-* 6/20/2012
-*/
+// Styles for the site
 
-/* Table of Content
-==================================================
-  #Site Styles
-  #Page Styles
-  #Media Queries
-  #Font-Face */
+$font-family: 'Lora', serif;
+$font-family-mono: Courier New, Courier, monospace;
+$font-color: #4A4A4A;
+$font-color-light: lighten($font-color, 10%);
+$font-weight-normal: 400;
+$font-weight-bold: 700;
 
-/* #Site Styles
-================================================== */
+$spacing-unit: 48px;
 
+$transition-color: color 0.4s ease;
+
+$breakpoint-sm: 767px;
+
+// General Element Styles
+
+body {
+  color: $font-color;
+  margin: 0;
+}
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
-  font-weight: 400;
+  color: $font-color;
+  font-family: $font-family;
+  font-weight: $font-weight-bold;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+h5 {
+  font-size: 16px;
+}
+
+h6 {
+  font-size: 14px;
 }
 
 p, ul, ol, li, span, blockquote, small {
-  font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
-  font-weight: 400;
+  color: $font-color;
+  font-family: $font-family;
+  font-weight: $font-weight-normal;
   font-size: 16px;
   line-height: 22px;
 }
 
-pre, code {
-  font-family: Courier New, Courier, monospace;
-  font-size: 16px;
+p {
+  &.intro {
+    font-size: 18px;
+  }
+
+  &.small {
+    font-size: 14px;
+  }
 }
 
-pre.highlight {
-  background-color: rgba(239, 239, 239, 0.3);
-}
-
-pre, code span {
-  font-family: Courier New, Courier, monospace;
-}
-
-.page {
-  padding-top: 32px;
-}
-
-.title {
-  font-size: 24px;
+blockquote {
+  font-size: 18px;
+  font-style: italic;
   line-height: 26px;
+
+  p {
+    @extend blockquote;
+  }
 }
 
-.title a {
-  text-decoration: none;
+hr {
+  border: none; // clear out default border
+  border-top: 1px solid rgba($font-color-light, 0.5);
+}
+
+a {
+  color: $font-color;
+  transition: $transition-color;
+
+  &:hover,
+  &:focus {
+    color: $font-color-light;
+  }
+}
+
+pre,
+code,
+code span {
+  font-family: $font-family-mono;
+  font-size: 16px;
 }
 
 pre {
   margin-bottom: 20px;
+
+  &.highlight {
+    background-color: rgba(239, 239, 239, 0.3);
+  }
 }
 
 ol,
 ul {
-  margin-bottom: 32px;
+  padding-left: 0;
+  margin: $spacing-unit / 2 0;
 }
 
 ul {
   list-style: disc;
 }
 
-li {
-  padding-bottom: 4px;
-}
-
 ol {
   padding-left: 16px;
+}
+
+li {
+  padding-bottom: 12px;
+}
+
+img,
+iframe {
+  max-width: 100%;
 }
 
 .center {
   text-align: center;
 }
 
-img {
-  max-width: 100%;
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 0 $spacing-unit;
+
+  @media (max-width: $breakpoint-sm) {
+    padding: 0 $spacing-unit / 1.5;
+  }
 }
 
-.cta {
-  font-size: 16px;
+.wrapper {
+  max-width: 480px;
+  margin: 0 auto;
 }
 
-/* #Page Styles
-================================================== */
-
-.profile {
-  border-radius: 200px;
-  height: 162px;
-  margin-bottom: 42px;
-  width: 162px;
+.section {
+  margin-bottom: $spacing-unit;
 }
 
-.intro {
-  text-align: center;
+// Header & Footer
+
+header,
+footer {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  margin: $spacing-unit / 2 0;
+
+  @media (max-width: $breakpoint-sm) {
+    flex-direction: column;
+    text-align: center;
+  }
 }
 
-.intro h1 {
-  margin-bottom: 42px;
+footer {
+  @media (max-width: $breakpoint-sm) {
+    flex-direction: column-reverse;
+  }
+
+  .nav {
+    @media (max-width: $breakpoint-sm) {
+      flex-direction: column;
+      margin-bottom: $spacing-unit / 2;
+    }
+
+    .nav-item {
+      @media (max-width: $breakpoint-sm) {
+        padding: $spacing-unit / 4 0;
+      }
+    }
+  }
 }
 
-.intro h3 {
-  margin-bottom: 42px;
+.header-anchor {
+  @extend a;
+
+  text-decoration: none;
+}
+
+.title, .colophon {
+  align-self: flex-start;
+  font-size: 18px;
+  font-weight: $font-weight-normal;
+  margin: 0;
+  width: 100%;
+
+  @media (max-width: $breakpoint-sm) {
+    margin-bottom: $spacing-unit / 2;
+  }
+
+  a {
+    @extend .header-anchor;
+  }
+}
+
+.colophon {
+  @media (max-width: $breakpoint-sm) {
+    margin-bottom: 0;
+  }
 }
 
 .nav {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
   list-style: none;
+  margin: 0;
   padding-left: 0;
+  width: 100%;
 
-  li {
-    line-height: 18px;
+  @media (max-width: $breakpoint-sm) {
+    justify-content: center;
   }
 }
 
-/* #Media Queries
-================================================== */
+.nav-item {
+  display: inline-block;
+  font-size: 16px;
+  margin: 0 $spacing-unit / 2;
 
-  /* Smaller than standard 960 (devices and browsers) */
-  @media only screen and (max-width: 959px) {}
+  &:last-of-type {
+    margin-right: 0;
 
-  /* Tablet Portrait size to standard 960 (devices and browsers) */
-  @media only screen and (min-width: 768px) and (max-width: 959px) {}
-
-  /* All Mobile Sizes (devices and browser) */
-  @media only screen and (max-width: 767px) {
-    .title {
-      text-align: center;
-    }
-
-    .nav {
-      text-align: center;
-    }
-
-    .nav li {
-      display: inline-block;
-      padding-left: 8px;
-      padding-right: 8px;
+    @media (max-width: $breakpoint-sm) {
+      margin-right: $spacing-unit / 2;
     }
   }
 
-  /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
-  @media only screen and (min-width: 480px) and (max-width: 767px) {}
+  a {
+    @extend .header-anchor;
+  }
+}
 
-  /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
-  @media only screen and (max-width: 479px) {}
+// Content
 
+.content {
+  margin: $spacing-unit auto;
+}
 
-/* #Font-Face
-================================================== */
-/*  This is the proper syntax for an @font-face file
-    Just create a "fonts" folder at the root,
-    copy your FontName into code below and remove
-    comment brackets */
+.works-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style: none;
+}
 
-/*  @font-face {
-      font-family: 'FontName';
-      src: url('../fonts/FontName.eot');
-      src: url('../fonts/FontName.eot?iefix') format('eot'),
-           url('../fonts/FontName.woff') format('woff'),
-           url('../fonts/FontName.ttf') format('truetype'),
-           url('../fonts/FontName.svg#webfontZam02nTh') format('svg');
-      font-weight: normal;
-      font-style: normal; }
-*/
+.wli {
+  max-width: 240px;
+}
+
+// Page Layouts
+
+//// Home
+
+#home {
+  .intro {
+    margin-bottom: $spacing-unit * 2;
+    text-align: center;
+  }
+}
+
+// Post / Entry
+.meta {
+  @extend p.small;
+
+  margin: 0;
+}
+
+//// Posts / Entries
+
+.post-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: $spacing-unit;
+
+  .post-nav-item {
+    width: 50%;
+
+    &.next {
+      text-align: right;
+    }
+  }
+}

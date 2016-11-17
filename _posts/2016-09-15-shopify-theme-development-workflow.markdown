@@ -7,6 +7,7 @@ tags:
 - note
 - shopify
 - workflow
+- archived
 description: A simple and effective workflow for building and maintaining Shopify
   themes.
 ---

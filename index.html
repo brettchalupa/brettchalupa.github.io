@@ -5,13 +5,36 @@ layout: default
 
 <div id="home">
   <div class="intro">
-    <img class="profile" src="/img/brett_chalupa.jpg" />
+    <h1>Brett Chalupa</h1>
 
-    <h1>Hi, my name is Brett.</h1>
+    <h4>Writer</h4>
+  </div>
 
-    <p>
-      I am an independent developer and designer focused on building
-      simple and sustainable software for the web.
-    </p>
+  <div class='section featured-works'>
+    <h2>Featured Works</h2>
+
+    <ul class='works-list'>
+      {% for work in site.works reversed %}
+        {% if work.tags contains 'featured' %}
+          {% include work-list-item.html %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+
+    <p class='small'><a href='/works'>All Works</a></p>
+  </div>
+
+  <div class='section journal-entries'>
+    <h2>Latest Journal Entries</h2>
+
+    <ul class='posts-list'>
+      {% for post in site.tags.journal_entry, limit: 3 %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a> / <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <p class='small'><a href='/journal'>All Entries</a></p>
   </div>
 </div>

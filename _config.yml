@@ -13,6 +13,10 @@ collections:
     title: Talks
     output: true
     permalink: ":title"
+  works:
+    title: Works
+    output: true
+    permalink: ":title"
   uploads:
     title: Uploads
     output: true
@@ -23,9 +27,7 @@ defaults:
   values:
     layout: post
     description: 
-description: 'Freelance full stack web application developer and designer based in
-  Portland, OR, specializing in Ruby on Rails, JavaScript, Shopify, Ember.js, and
-  more.'
+description: 'Independent writer based in Portland, Oregon, focused on telling stories'
 url: http://www.brettchalupa.com
 logo: "/img/brett_chalupa.jpg"
 twitter:

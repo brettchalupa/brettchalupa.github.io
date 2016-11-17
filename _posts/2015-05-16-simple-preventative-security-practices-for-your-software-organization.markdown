@@ -5,6 +5,7 @@ tags:
 - security
 - software
 - management
+- archived
 description: A few simple and easy steps to take to improve the security of your team.
 ---
 

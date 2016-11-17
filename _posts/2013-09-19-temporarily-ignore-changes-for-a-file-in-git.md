@@ -5,6 +5,7 @@ date: 2013-09-19 23:20:00 Z
 tags:
 - note
 - git
+- archived
 layout: post
 ---
 
