@@ -279,13 +279,12 @@ iframe {
 }
 
 // Post / Entry
-.meta {
+
+.post-meta {
   @extend p.small;
 
   margin: 0;
 }
-
-//// Posts / Entries
 
 .post-nav {
   display: flex;
