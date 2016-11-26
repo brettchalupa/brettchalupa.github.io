@@ -287,16 +287,13 @@ iframe {
 }
 
 .post-nav {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
   margin-top: $spacing-unit;
+  text-align: center;
 
   .post-nav-item {
-    width: 50%;
-
-    &.next {
-      text-align: right;
-    }
+    display: block;
+    margin-bottom: $spacing-unit / 2;
+    text-align: center;
+    width: 100%;
   }
 }

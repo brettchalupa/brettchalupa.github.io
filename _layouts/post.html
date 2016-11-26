@@ -16,6 +16,14 @@ layout: default
 
 
 <div class='post-nav'>
+  {% if page.next.url %}
+    {% if page.next.tags contains 'journal_entry' %}
+      <a class="next post-nav-item" href="{{page.next.url}}">
+        {{page.next.title}} &raquo;
+      </a>
+    {% endif %}
+  {% endif %}
+
   {% if page.previous.url %}
     {% if page.previous.tags contains 'journal_entry' %}
       <a class="prev post-nav-item" href="{{page.previous.url}}">
@@ -24,11 +32,4 @@ layout: default
     {% endif %}
   {% endif %}
 
-  {% if page.next.url %}
-    {% if page.next.tags contains 'journal_entry' %}
-      <a class="next post-nav-item" href="{{page.next.url}}">
-        {{page.next.title}} &raquo;
-      </a>
-    {% endif %}
-  {% endif %}
 </div>
