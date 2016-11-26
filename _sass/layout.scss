@@ -156,8 +156,8 @@ iframe {
 
 // Header & Footer
 
-header,
-footer {
+.site-header,
+.site-footer {
   align-items: center;
   display: flex;
   flex-direction: row;
@@ -169,7 +169,7 @@ footer {
   }
 }
 
-footer {
+.site-footer {
   @media (max-width: $breakpoint-sm) {
     flex-direction: column-reverse;
   }
