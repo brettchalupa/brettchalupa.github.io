@@ -16,9 +16,11 @@ layout: default
     <ul class="posts">
       {% for post in site.posts %}
         {% if post.tags contains 'archived' %}
-          <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-          </li>
+          {% unless post.tags contains 'peaceful_respite' %}
+            <li>
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+          {% endunless %}
         {% endif %}
       {% endfor %}
     </ul>
@@ -50,6 +52,22 @@ layout: default
           -
           <span class='organization'>{{ project.organization }}</span>
         </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class='section'>
+    <h2>Peaceful Respite</h2>
+
+    <p>Content from Peaceful Respite, a website about video games I ran briefly during 2015.</p>
+
+    <ul class="posts">
+      {% for post in site.posts reversed %}
+        {% if post.tags contains 'peaceful_respite' %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+        {% endif %}
       {% endfor %}
     </ul>
   </div>
