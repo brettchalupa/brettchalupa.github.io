@@ -9,10 +9,10 @@ time_period: September 2012 - January 2014
 responsibilities: development and design
 technologies: Ruby on Rails
 website: http://www.adventuretimegamejam.com/
-excerpt: Game jam platform
+excerpt: A defunct game jam platform that hosted over a dozen game jams.
 ---
 
-Over 12 individual BMOs were deployed and modified for specific game
+Over a dozen BMOs were deployed and modified for specific game
 jams. Over 1000 games were submitted and are actively hosted through
 BMO. BMO was my first major side project.
 
