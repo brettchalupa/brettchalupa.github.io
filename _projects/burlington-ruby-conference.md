@@ -8,7 +8,7 @@ organization: myself
 time_period: January 2013 - August 2015
 responsibilities: organizing, design, marketing, and development
 technologies: 
-website: http://www.burlingtonrubyconference.com/
+website: http://burlingtonruby.github.io/conference/
 excerpt: Annual conference in Burlington, VT for Ruby developers
 ---
 
