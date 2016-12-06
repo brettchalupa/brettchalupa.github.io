@@ -14,7 +14,7 @@ small consulting firm that specializes in building software.
 I live in Portland, Oregon.
 </p>
 
-![Photo of Brett, his mother, and his grandmother](/img/brett_about.jpg)
+![Photo of Brett](/img/brett_about.jpg)
 
 Prior to moving to the Pacific Northwest, I grew up in the Northeast,
 living in New Jersey and Vermont. I try to live a simple life and
