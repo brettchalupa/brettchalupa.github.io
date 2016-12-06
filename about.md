@@ -24,10 +24,10 @@ I really enjoy Haruki Murakami's novels and David Lynch's films.
 
 ## On the Web
 
-- [Twitter](https://twitter.com/brettchalupa) - small updates
-- [Goodreads](https://www.goodreads.com/brettchalupa) - what I have been
+- [Twitter](https://twitter.com/brettchalupa) &ndash; small updates
+- [Goodreads](https://www.goodreads.com/brettchalupa) &ndash; what I have been
   reading
-- [Flickr](https://www.flickr.com/photos/brettchalupa/) - photos
+- [Flickr](https://www.flickr.com/photos/brettchalupa/) &ndash; photos
 
 ## Contact
 
