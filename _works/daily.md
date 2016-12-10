@@ -15,3 +15,4 @@ A daily podcast show on [Bumpers](https://bumpers.fm/brett) where I tell stories
 Episode list:
 
 - [Episode 001 - Sneaky Photographer](https://bumpers.fm/e/b14v0pv2jgvg02rqohpg)
+- [Episode 002 - Self-Conscious Tweeter](https://bumpers.fm/e/b15lrthmr9a002vkmlhg)
