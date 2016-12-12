@@ -32,7 +32,7 @@ The editing experience is the best I have ever used in audio software before. It
 
 The iPhone app has weekly prompts to give people inspiration for what to talk about, if needed. They are interesting to think about, and I like listening to different people’s answers. It is one of the main ways I have found different folks’ profiles. A couple questions so far have been: “Would you survive the zombie apocalypse?” and “Who is your idol (and why)?”
 
-It would be nice to be able to edit the title and description of a bumper to fix typos—although maybe not being able to is intentional, similar how tweets are not editable.
+It would be nice to be able to edit the title and description of a bumper to fix typos—although maybe not being able to is intentional, similar to how tweets are not editable.
 
 ## Listening 
 
