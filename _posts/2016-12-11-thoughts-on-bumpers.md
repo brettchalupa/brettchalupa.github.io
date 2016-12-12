@@ -50,7 +50,7 @@ All-in-all, the listening experiences on the web app and iPhone app are pretty g
 
 ## My Favorite Bumpers
 
-A highlight of Bumpers is the variety of voices on it. People’s bumpers range from funny to serious. It breaks the traditional podcast episode structure, which tend to be an hour long (or even more). While I enjoy longer podcast episodes, it is a commitment that feels best suited for long commutes, doing chores, or going on long walks. Bumpers, on the other hand, have a much lower barrier to entry to create and consume, which I think leads to more voices and opinions. It feels like a really healthy thing for the medium.
+A highlight of Bumpers is the variety of voices on it. People’s bumpers range from funny to serious. It breaks the traditional podcast episode structure, which tend to be an hour long (or even more). While I enjoy longer podcast episodes, it is a commitment that feels best suited for commutes, doing chores, or going on long walks. Bumpers, on the other hand, have a much lower barrier to entry to create and consume, which I think leads to more voices and opinions. It feels like a really healthy thing for the medium.
 
 Here are my favorite bumpers thus far.
 
