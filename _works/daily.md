@@ -18,3 +18,4 @@ Episode list:
 - [Episode 002 - Self-Conscious Tweeter](https://bumpers.fm/e/b15lrthmr9a002vkmlhg)
 - [Episode 003 - Star Wars Memories](https://bumpers.fm/e/b1674togm6cg02ujgu50)
 - [Episode 004 - The Chalupa Foundation&trade;](https://bumpers.fm/e/b16ucboet0g002v6pv4g)
+- [Episode 005 - Hobbiton](https://bumpers.fm/e/b17ds9dcvco002ihjmgg)
