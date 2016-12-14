@@ -20,3 +20,4 @@ Episode list:
 - [Episode 004 - The Chalupa Foundation&trade;](https://bumpers.fm/e/b16ucboet0g002v6pv4g)
 - [Episode 005 - Hobbiton](https://bumpers.fm/e/b17ds9dcvco002ihjmgg)
 - [Episode 006 - Full Yellow Tuxedo](https://bumpers.fm/e/b1840elq34m002moh1sg)
+- [Episode 007 - Tough Guy Values](https://bumpers.fm/e/b18t6ijsvtig02k9hr80)
