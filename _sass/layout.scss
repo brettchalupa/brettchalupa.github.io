@@ -264,7 +264,9 @@ iframe {
 }
 
 .wli {
+  box-sizing: border-box;
   max-width: 240px;
+  padding-right: $spacing-unit / 4;
 }
 
 // Page Layouts
