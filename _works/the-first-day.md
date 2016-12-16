@@ -20,3 +20,7 @@ The first day of the journey of a young woman making her way to her parents' hom
 [Read _The First Day_.](/published/the-first-day)
 
 Written during November and December 2016, _The First Day_ is an experiment with interactive fiction. It was built using [Twine](https://twinery.org/).
+
+Additional info:
+
+- [_The First Day_ on the Interactive Fiction Database (IFDB)](http://ifdb.tads.org/viewgame?id=gqbpnss7hjorchrb)
