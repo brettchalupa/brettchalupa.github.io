@@ -265,8 +265,12 @@ iframe {
 
 .wli {
   box-sizing: border-box;
-  max-width: 240px;
   padding-right: $spacing-unit / 4;
+  width: 50%;
+
+  @media (max-width: $breakpoint-sm) {
+    width: 100%;
+  }
 }
 
 // Page Layouts
