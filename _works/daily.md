@@ -7,10 +7,12 @@ tags:
 - podcast
 - featured
 layout: work
-period: December 2016 — Current
+period: December 2016
 ---
 
-A daily podcast show on [Bumpers](https://bumpers.fm/brett) where I tell stories and talk about what has been going on.
+A [Bumpers](https://bumpers.fm/brett) experiment where I told stories
+and shared my thoughts on various topics every day. The show was retired
+after nine episodes.
 
 Episode list:
 
@@ -22,3 +24,4 @@ Episode list:
 - [Episode 006 - Full Yellow Tuxedo](https://bumpers.fm/e/b1840elq34m002moh1sg)
 - [Episode 007 - Tough Guy Values](https://bumpers.fm/e/b18t6ijsvtig02k9hr80)
 - [Episode 008 - Shift of Maturity](https://bumpers.fm/e/b19i9mjjumh005bv23t0)
+- [Episode 009 - Rogue One](https://bumpers.fm/e/b1a76o7ufdfg02stha8g)
