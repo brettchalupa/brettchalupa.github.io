@@ -1,10 +1,13 @@
 ---
 layout: post
 title: A Twin Peaks Premonition
+description: Brett has a dream about Twin Peaks on the night a new teaser got released.
+date: 2016-12-19 9:10:00 PST
 category: Random
 tags:
 - Twin Peaks
 - David Lynch
+- journal_entry
 ---
 
 Whoa, talk about wild. Last night I had a dream about season three of Twin Peaks. It was strange and dark, and it didn't make any sense. Laura Palmer and Audrey Horne were in it, but grown up. There were new characters, and they were younger. And there was a close up shot of a man's nose, mouth, and left eye. He had stubble on his face. I think it was BOB. 
