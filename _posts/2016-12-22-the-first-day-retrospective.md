@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-Last week I released [_The First Day_](/the-first-day), my first piece of fiction that I have shared publicly. It is also my first work of interactive fiction (a.k.a. choose your own adventure story). Both had me feeling excited and nervous, but now I feel proud and excited to finish my next project.
+Last week I released [_The First Day_](/the-first-day), my first piece of fiction that I have shared publicly. It is also my first work of interactive fiction (a.k.a. choose your own adventure story). Both had me feeling excited and nervous. Since releasing it, I feel proud about _The First Day_ and happy with how it turned out.
 
 _The First Day_ got its start after [I finished NaNoWriMo 2016](/nanowrimo-2016-reflections). My first post-NaNoWriMo project was a short film script titled _Driftwood_. It was a nice change of pace from writing a novel, and I enjoyed learning about how film scripts are structured. I fully intend to produce the short film in 2017. Once I finished the first draft of _Driftwood_, I started writing _The First Day_.
 
