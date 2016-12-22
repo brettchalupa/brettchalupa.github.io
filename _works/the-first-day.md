@@ -23,4 +23,5 @@ Written during November and December 2016, _The First Day_ is an experiment with
 
 Additional info:
 
+- [_The First Day_ Retrospective](the-first-day-retrospective)
 - [_The First Day_ on the Interactive Fiction Database (IFDB)](http://ifdb.tads.org/viewgame?id=gqbpnss7hjorchrb)
