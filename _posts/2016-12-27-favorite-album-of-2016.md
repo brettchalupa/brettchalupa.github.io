@@ -3,6 +3,7 @@ layout: post
 title: Favorite Album of 2016
 date: 2016-12-27 7:45:00 PST
 category: Music
+description: Brett writes about his favorite music album of 2016, Xiu Xiu’s Plays the Music of Twin Peaks, as well as other highlights from the year.
 tags:
 - Xiu Xiu
 - Twin Peaks
