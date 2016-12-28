@@ -31,7 +31,7 @@ Here are some of the books on my wishlist that I’d like to read during the cha
 - _Moshi Moshi_ by Banana Yoshimoto
 - _The Sympathizer_ by Viet Thanh Nguyen
 - _The Girls_ by Emma Cline
-- _Ancillary Justic_ by Ann Leckie
+- _Ancillary Justice_ by Ann Leckie
 - _Kindred_ by Octavia E Butler
 - _The People in the Trees_ by Hanya Yanagihara
 - _The Portrait of Dorian Gray_ by Oscar Wilde
