@@ -9,6 +9,8 @@ tags:
 - Books
 - Music
 - Movies
+- Manga
+- Xiu Xiu
 - Blade Runner
 - Earthsea
 - Ursula K. Le Guin
