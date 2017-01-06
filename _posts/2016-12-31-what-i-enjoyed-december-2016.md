@@ -50,7 +50,7 @@ With a few days off for the holidays, two days flying, and the weather getting c
 
 I truly watched Blade Runner for the first time and was blown away. The music, the set design, the pacing, I can’t say enough good things about it all. I get why it is considered such a classic now. It has revived a sci-fi flame inside of me that burnt out a few years back.
 
-I am working on writing a longer piece about _Blade Runner_, which I will share here when it is done.
+[I shared my thoughts in more detail in the “I Finally Watched Blade Runner” journal entry.](/i-finally-watched-blade-runner)
 
 ### _Manchester by the Sea_
 
