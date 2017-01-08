@@ -24,11 +24,15 @@ I really enjoy Haruki Murakami's novels and David Lynch's films.
 
 ## On the Web
 
-- [Twitter](https://twitter.com/brettchalupa) &ndash; small updates
+- [Ello](https://ello.co/brettchalupa) &ndash; regular thoughts and
+  updates, less polished than [my Journal](/journal/)
 - [Goodreads](https://www.goodreads.com/brettchalupa) &ndash; what I have been
   reading
 - [Flickr](https://www.flickr.com/photos/brettchalupa/) &ndash; photos
+- [Twitter](https://twitter.com/brettchalupa) &ndash; occasional small updates
 
 ## Contact
 
-You can contact me by sending an email to my first name at this domain.
+My email is: [brettchalupa@gmail.com](mailto:brettchalupa@gmail.com)
+
+For additional contact info, see [the Contact page](/contact/).
