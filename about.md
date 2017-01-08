@@ -22,9 +22,6 @@ pursue my passions, which are writing, reading, cooking, and walking.
 
 I really enjoy Haruki Murakami's novels and David Lynch's films.
 
-Curious about the licensing terms of my works? Checkout [the
-License page](/license) for more details.
-
 ## On the Web
 
 - [Ello](https://ello.co/brettchalupa) &ndash; regular thoughts and
@@ -39,3 +36,8 @@ License page](/license) for more details.
 My email is: [brettchalupa@gmail.com](mailto:brettchalupa@gmail.com)
 
 For additional contact info, see [the Contact page](/contact/).
+
+## License
+
+Curious about the licensing terms of my works? Checkout [the
+License page](/license) for more details.
