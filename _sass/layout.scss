@@ -207,6 +207,10 @@ iframe {
 
   a {
     @extend .header-anchor;
+
+    &.license-link {
+      text-decoration: underline;
+    }
   }
 }
 

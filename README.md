@@ -35,4 +35,7 @@ See the `gems:` section in `_config.yml` for the full list.
 
 ## License
 
-Copyright (c) 2011-2016 Brett Chalupa
+All content and code are copyright (c) 2011-2017 Brett Chalupa
+
+[See the License page](http://www.brettchalupa.com/license) for the full
+details on how the code and content are licensed.
