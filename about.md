@@ -24,7 +24,7 @@ my love of it has only grown since, so much so that I started to write
 my own stories in September 2015.
 
 Since then I have been working on small and medium-sized projects, and I
-aim to self-published my first novel in the middle of 2017. I
+aim to self-publish my first novel in the middle of 2017. I
 want to support myself with my writing, and I am diligently working
 towards that goal.
 
