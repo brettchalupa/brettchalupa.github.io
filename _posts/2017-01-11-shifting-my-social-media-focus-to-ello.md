@@ -17,7 +17,7 @@ I increasingly feel like social media is not for me. I don’t get it. I underst
 
 Many people, myself included, will tell you that the Golden Age of Twitter was five years ago. Once it reached a wide, general audience, it fell off the cliff. I see a lot of anger, bitterness, and spitefulness now. The character limit, while good in a lot of ways, doesn’t always fit with what I want to share. It’s not flexible enough.
 
-Facebook is where I am friends with high school classmates, family, and the few close friends I have made over the years. It feels like it’s not the right audience for posting thoughts on the challenges I am facing with writing. I feel shiver at the thought of my childhood friend’s father commenting on my writing. _It’s too close to home, and it’s too near the bone._
+Facebook is where I am friends with high school classmates, family, and the few close friends I have made over the years. It feels like it’s not the right audience for posting thoughts on the challenges I am facing with writing. I shiver at the thought of my childhood friend’s father commenting on my writing. _It’s too close to home, and it’s too near the bone._
 
 Medium feels too preachy and #thoughtleader-y. It is well designed, but it rubs me the wrong way. Maybe I should give Medium another try since it is focused on writing? Snapchat is too ephemeral. Instagram is fine, but photos and videos aren’t my thing. There are some good communities on Reddit, but it is more centered around topics instead of individuals.
 
