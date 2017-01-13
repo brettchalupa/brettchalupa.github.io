@@ -3,9 +3,8 @@ title: Alder
 date: 2016-10-01 00:00:00 Z
 category: Short Story Collection
 tags:
-- novel
-- short story collection
-- featured
+- Novel
+- Short Story Collection
 layout: work
 period: In Progress
 ---
