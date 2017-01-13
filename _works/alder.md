@@ -10,4 +10,4 @@ layout: work
 period: In Progress
 ---
 
-A collection of short stories I have been working on since October 2016.
+A collection of short stories I have been working on since October 2016. My current plan is to begin releasing each one every month at some point in 2017.
