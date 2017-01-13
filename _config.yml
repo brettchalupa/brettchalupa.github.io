@@ -17,16 +17,25 @@ collections:
     title: Works
     output: true
     permalink: ":title"
+  brief_moments:
+    title: Brief Moments of Life
+    output: true
+    permalink: ":title"
   uploads:
     title: Uploads
     output: true
 defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    description: 
+  - scope:
+      path: ''
+      type: posts
+    values:
+      layout: post
+      description: 
+  - scope:
+      path: ''
+      type: brief_moments
+    values:
+      layout: chapter
 description: 'Independent writer based in Portland, Oregon, focused on telling stories'
 url: http://www.brettchalupa.com
 logo: "/img/brett_chalupa.jpg"
