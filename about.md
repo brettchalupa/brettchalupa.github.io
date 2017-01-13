@@ -32,8 +32,8 @@ I currently make my living doing software development. I run <a
 href='http://www.monoso.co'>Monoso</a>, small consulting firm that
 specializes in building web applications. I have been building software
 for over a decade, and while I enjoy it, I daydream about doing creative
-work all day long. My prior technical writing and talks can be found in [the
-Archive](/archive/).
+work all day long. My prior technical writing and talks can be found in
+the [Archive](/archive/).
 
 I really enjoy Haruki Murakami's novels and David Lynch's films.
 I love getting lost in dark and mysterious worlds.
@@ -51,7 +51,7 @@ I love getting lost in dark and mysterious worlds.
 
 My email is: [brettchalupa@gmail.com](mailto:brettchalupa@gmail.com)
 
-For additional contact info, see [the Contact page](/contact/).
+For additional contact info, see the [Contact](/contact/) page.
 
 ## License
 
