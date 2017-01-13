@@ -2,6 +2,7 @@
 title: Alder
 date: 2016-10-01 00:00:00 Z
 category: Short Story Collection
+description: A work-in-progress collection of short stories by Brett Chalupa.
 tags:
 - Novel
 - Short Story Collection

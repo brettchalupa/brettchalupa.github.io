@@ -1,6 +1,7 @@
 ---
 title: Brief Moments of Life
 date: 2017-01-12
+description: A collection of very short fictional stories about life by Brett Chalupa, with new stories published weekly.
 category: Short Story Collection
 tags:
 - Novel

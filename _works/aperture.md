@@ -1,6 +1,7 @@
 ---
 title: Aperture
 date: 2016-11-01 00:00:00 Z
+description: A work-in-progress novel written by Brett Chalupa.
 category: Novel
 tags:
 - book
