@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+{% assign work = site.works | where: "collection_label", page.collection | first %}
+
+<span class='chapter__work-title'>
+  <a href="{{ work.url }}">{{ work.title }}</a>
+</span>
+
+<h1 class='chapter__title'>{{ page.title }}</h1>
+
+<div class='chapter'>
+  {{ content }}
+</div>
+
+<hr>
+
+{% if page.soundcloud_id %}
+<p>Listen to the audio version:</p>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ page.soundcloud_id }}&amp;color=2f2f2f&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+{% endif %}
+
+{% comment %}
+Outputs title of associated collection kind, e.g. Stories,
+Chapters, Episodes, etc.
+{% endcomment %}
+
+<div class='post-nav'>
+  {% if page.next.url %}
+    <a class="next post-nav-item" href="{{page.next.url}}">
+      {{page.next.title}} &raquo;
+    </a>
+  {% endif %}
+
+  {% if page.previous.url %}
+    <a class="prev post-nav-item" href="{{page.previous.url}}">
+      &laquo; {{page.previous.title}}
+    </a>
+  {% endif %}
+</div>
+
+{% assign collection = site.collections | where: "label", page.collection | first %}
+
+{% if collection.docs.size > 1 %}
+  <h4>Table of Contents</h4>
+
+  <ul>
+    {% for item in collection.docs %}
+      {% if item.title == page.title %}
+        <li class='current-chapter'>
+          {{ item.title }}
+        </li>
+      {% else %}
+        <li>
+          <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endif %}
+
+<p>Collected in <a href="{{ work.url }}">{{ work.title }}</a></p>

@@ -307,3 +307,15 @@ iframe {
     width: 100%;
   }
 }
+
+// Chapter
+
+.chapter__work-title {
+  color: $font-color-light;
+  font-size: 14px;
+  font-style: italic;
+}
+
+.chapter__title {
+  margin-top: $spacing-unit / 12;
+}
