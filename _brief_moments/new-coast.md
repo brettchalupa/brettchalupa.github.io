@@ -1,6 +1,6 @@
 ---
 title: New Coast
-description: A young man storms out on his girlfriend during an argument.
+description: A very short story about a young man storming out on his girlfriend during an argument.
 date: 2017-01-12
 image: /uploads/brief-moments/new-coast-cover.jpg
 tags:
