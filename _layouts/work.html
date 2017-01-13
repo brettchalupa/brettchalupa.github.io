@@ -38,4 +38,19 @@ layout: default
       {% endfor %}
     </ul>
   {% endif %}
+
+  {% comment %}
+  Render additional links for the work
+  {% endcomment %}
+  {% if page.additional_links.size > 0 %}
+    <hr>
+
+    <h2>Additional Info</h2>
+
+    <ul>
+      {% for link in page.additional_links %}
+        <li><a href='{{ link.url }} '>{{ link.title }}</a>
+      {% endfor %}
+    </ul>
+  {% endif %}
 </div>
