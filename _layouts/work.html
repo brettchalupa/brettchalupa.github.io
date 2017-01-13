@@ -12,4 +12,30 @@ layout: default
   </p>
 
   {{ content }}
+
+  {% comment %}
+  Find and loop through the entries of the work if there is an
+  associated collection, a set `collection_label`. This is useful for
+  display the chapters of a novel, stories of a collection, or episodes
+  of a show.
+  {% endcomment %}
+  {% if page.collection_label %}
+    {% assign collection = site.collections | where: "label", page.collection_label | first %}
+
+    {% comment %}
+    Outputs title of associated collection kind, e.g. Stories,
+    Chapters, Episodes, etc.
+    {% endcomment %}
+    {% if page.collection_kind %}
+      <h2>{{ page.collection_kind }}</h2>
+    {% endif %}
+
+    <ul>
+      {% for item in collection.docs %}
+        <li>
+          <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
 </div>
