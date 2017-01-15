@@ -2,6 +2,7 @@
 title: Razor Blade
 description: A man intrudes, and a woman defends herself with a razor blade.
 date: 2017-01-15
+image: /uploads/brief-moments/razor-blade-cover.png
 tags:
 - Contemporary
 - Thriller
