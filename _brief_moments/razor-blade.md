@@ -5,6 +5,7 @@ date: 2017-01-15
 tags:
 - Contemporary
 - Thriller
+soundcloud_id: 302853644
 ---
 
 She pulled out a razor blade, the kind one would find in a box cutter, and held it up in the air, ready to strike at a moment’s notice.
