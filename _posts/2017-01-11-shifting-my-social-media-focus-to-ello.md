@@ -1,7 +1,7 @@
 ---
 title: Shifting My Social Media Focus to Ello
 date: 2017-01-11 15:00:00 PST
-description:
+description: Thoughts on Brett's experience using Ello for a week and why he's going to keep using it.
 category: Thoughts
 tags:
 - Social Media
