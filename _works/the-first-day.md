@@ -6,8 +6,8 @@ date: 2016-12-15 09:00:00 PST
 category: Interactive Fiction
 image: /uploads/the-first-day-cover.png
 tags:
-- twine
-- interactive fiction
+- Twine
+- Interactive Fiction
 - featured
 layout: work
 period: December 2016
