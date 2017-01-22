@@ -13,6 +13,13 @@ tags:
 period: January 2017
 image: /uploads/latency-cover.png
 layout: short_story
+additional_links:
+  - title: Introduction journal entry
+    url: http://www.brettchalupa.com/introducing-latency
+  - title: Listen on SoundCloud
+    url: https://soundcloud.com/brettchalupa/latency
+  - title: Listen on YouTube
+    url: https://www.youtube.com/watch?v=0tb-VlwPA-4
 ---
 
 Wednesday started like every other day for Martin. He woke up, brushed his teeth, took a shower, made oatmeal for breakfast, and started his work. Martin worked from home, and he was content. He had his daily routine, and he knew what to expect each day.
