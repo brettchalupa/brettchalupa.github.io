@@ -12,7 +12,6 @@ tags:
 - Writing
 ---
 
-
 ![Latency Cover](/uploads/latency-cover.png)
 
 Today I released [“Latency.”](/latency) It’s a short story about a man named Martin who witnesses a kidnapping and tries to help.
