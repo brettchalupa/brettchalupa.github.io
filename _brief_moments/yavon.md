@@ -2,7 +2,7 @@
 title: Yavon
 description: A very short story about a couple who purchases an android.
 date: 2017-01-29
-image: /uploads/brief-moments/yavon-cover.jpg
+image: /uploads/brief-moments/yavon-cover.png
 tags:
 - Sci-Fi
 - Gender
