@@ -26,4 +26,4 @@ additional_links:
 
 Brief Moments of Life is a collection of very short stories by Brett Chalupa. Concise and emotional, each story offers a glimpse into the life of each character.
 
-New stories are published weekly, and they will collected into a book upon completion
+New stories are published weekly, and they will collected into a book upon completion.
