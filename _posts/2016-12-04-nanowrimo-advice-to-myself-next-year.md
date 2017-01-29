@@ -7,6 +7,7 @@ tags:
 - journal_entry
 - nanowrimo
 - nanowrimo_2016
+- On Writing
 layout: post
 ---
 
