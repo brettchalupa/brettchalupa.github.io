@@ -7,6 +7,7 @@ category: On Writing
 tags:
 - On Writing
 - Design
+- Books
 - journal_entry
 - featured
 image: /uploads/great-book-cover-collage-1.jpg
