@@ -6,6 +6,7 @@ image: /uploads/brief-moments/falling-cover.png
 tags:
 - Surreal
 - Abstract
+soundcloud_id: 306281242
 ---
 
 I walked down the hallway. It was bright, and I wasn’t sure where I was going. Not that there were many choices. It was either back or forward. There were doors, but they didn’t have numbers on them. I tried to turn the handle of the first few, but they didn’t even wiggle. There were no light fixtures hanging from the ceiling, but it radiated a pure light that illuminated the hallway. The floor was cream colored and was unified like a single never-ending sheet of paper.

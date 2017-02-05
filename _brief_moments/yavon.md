@@ -6,6 +6,7 @@ image: /uploads/brief-moments/yavon-cover.png
 tags:
 - Sci-Fi
 - Gender
+soundcloud_id: 306280790
 ---
 
 “Sweetie, the guide here says, ‘Do not refer to your new Yoshima Series III Android with any pronoun other than it. The use of any other pronoun could cause your new Yoshima Series III Android to malfunction.’”
