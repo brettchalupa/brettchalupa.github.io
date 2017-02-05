@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What Makes a Book Cover Great
+date: 2017-02-05 11:30 PST
 description: Thoughts and analysis on what makes an appealing and beautiful book cover.
 category: On Writing
 tags:
