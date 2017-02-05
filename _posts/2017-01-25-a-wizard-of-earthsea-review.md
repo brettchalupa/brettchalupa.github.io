@@ -41,3 +41,5 @@ The afterword in the edition I read was written 44 years after the book was init
 If you’re at all interested in fantasy, I highly recommend reading _A Wizard of Earthsea_. It’s a classic for a reason, and it holds up well.
 
 I enjoy reading one author’s works at a time. I read most of Haruki Murakami’s works back-to-back, and I can tell the same is happening with  Ursula K. Le Guin. She has published dozens of books, so I’ll be busy for a while. Up next is _The Left Hand of Darkness_, which is not part of the Earthsea series. I also started reading her book on writing, _Steering the Craft_, which I have learned quite a bit from already. I’ll return to Earthsea afterward, and I’m looking forward to it.
+
+Update: I recorded [a video review](https://www.youtube.com/watch?v=CbHlgASwPNM), which is slightly different and more improvised.
