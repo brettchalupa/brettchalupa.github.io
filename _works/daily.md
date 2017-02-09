@@ -5,7 +5,6 @@ category: Podcast
 description: A daily podcast show on Bumpers where Brett tells stories and talks about what has been going on.
 tags:
 - Podcast
-- featured
 layout: work
 period: December 2016
 ---
