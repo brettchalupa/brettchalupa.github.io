@@ -291,6 +291,11 @@ iframe {
   .intro {
     margin-bottom: $spacing-unit * 2;
     text-align: center;
+
+    .profile-photo {
+      border-radius: 1000px;
+      max-width: 150px;
+    }
   }
 }
 
