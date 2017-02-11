@@ -58,3 +58,5 @@ For additional contact info, see the [Contact](/contact/) page.
 
 Curious about the licensing terms of my works? Checkout [the
 License page](/license) for more details.
+
+For a high-resolution profile photo, [use this image](https://www.flickr.com/photos/brettchalupa/31332288711). It has been dedicated to the public domain.
