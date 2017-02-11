@@ -42,10 +42,11 @@ I love getting lost in dark and mysterious worlds.
 
 - [Ello](https://ello.co/brettchalupa) &ndash; regular thoughts and
   updates, less polished than [my Journal](/journal/)
-- [Goodreads](https://www.goodreads.com/brettchalupa) &ndash; what I have been
-  reading
-- [Flickr](https://www.flickr.com/photos/brettchalupa/) &ndash; photos
 - [Twitter](https://twitter.com/brettchalupa) &ndash; occasional small updates
+- [YouTube](https://www.youtube.com/channel/UC68s8MiLnOjqPLz2QcNtr8g) &ndash; regular videos and audio versions of my stories
+- [Goodreads](https://www.goodreads.com/brettchalupa) &ndash; what I have been reading
+- [Facebook](https://www.facebook.com/Brett-Chalupa-607963962732935/) &ndash; weekly project updates
+- [Flickr](https://www.flickr.com/photos/brettchalupa/) &ndash; photos
 
 ## Contact
 
