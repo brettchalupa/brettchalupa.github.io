@@ -2,7 +2,7 @@
 layout: post
 title: New Story - Lunar Space Colony
 description: A brief introduction to the Lunar Space Colony story.
-date: 2017-02-08 18:45 PST
+date: 2017-02-12 14:00 PST
 category: Works
 tags:
 - Fiction
