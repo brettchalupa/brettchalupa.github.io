@@ -29,7 +29,7 @@ additional_links:
 
 Bri tapped her armband and brought up the email:
 
-> Bri,<span class="Apple-converted-space"> </span>
+> Bri,
 > 
 > I am so pleased to share this news with you. Your references checked out, and we want to offer you the job on the Lunar Space Colony. Here are the details:
 > 
