@@ -68,7 +68,7 @@ Eternally early, Bri had four hours until boarding began. There wasn’t another
 
 -
 
-Bri couldn’t look away as the shuttle began to approach the colony orbiting around the Moon. The colony was cylindrical with half of the lateral region covered with alternating rows of dark tinted glass and solar panels and the other half covered in a solid white metal. The moon looked massive hovering behind the colony with its faint gray glow.
+Bri couldn’t look away as the shuttle began to approach the colony orbiting the Moon. The colony was cylindrical with half of the lateral region covered with alternating rows of dark tinted glass and solar panels and the other half covered in a solid white metal. The moon looked massive hovering behind the colony with its faint gray glow.
 
 The shuttle flew to the top of the colony, and two large mechanical arms reached out and pulled it into the bay. She saw a person in a spacesuit float by the window, leading a large hose toward the shuttle. Bri’s eyes got dry from not blinking—she didn’t want to miss an instant. Once the shuttle docked, Bri shuffled off with the rest of the passengers into the terminal.
 
@@ -84,15 +84,13 @@ A man stood waiting. Small circular glasses sat on his dark nose. He was frail a
 
 “Shall we?” Preston asked as he extended his arm down the hallway. He walked as slow as he talked, but Bri didn’t mind. She was still soaking in the sights and sounds of being on the colony she had spent so much time admiring from Earth. Preston led the way through the spaceport as they continued to converse.
 
-To the left of the exit was the luggage claim area. Sitting side-by-side was Bri’s luggage and Toto. She walked up to Toto and held down its power button until it beeped three times. Toto’s arms and legs unfolded, and it rotated back and forth to survey the room.
+To the left of the exit was the luggage claim area. Sitting side-by-side was Bri’s luggage and Toto. She walked up to Toto and held down its power button until it beeped three times. Toto’s arms and legs unfolded, and it rotated its back and forth to survey the room.
 
 “You must be Toto,” Preston said. “I’ve heard a lot about you from Bri during her interviews.”
 
 “You are correct. I am Toto. Based on 200 points of photographic matching data, you are Preston.”
 
 Preston nodded and said, “You’re a sharp one, Toto.”
-
--
 
 Preston drove Bri to her new apartment, about 15 minutes from the spaceport. Bri’s eyes were glued to the colony. It looked like the Earth she had only seen in photos—green, vibrant, full of life. She wiped away tears from her eyes when she saw the Moon, Earth, and Sun through the colony’s ceiling.
 
