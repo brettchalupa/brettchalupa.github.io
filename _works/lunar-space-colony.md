@@ -14,6 +14,13 @@ tags:
 period: February 2017
 image: /uploads/lunar-space-colony-cover.png
 layout: short_story
+additional_links:
+  - title: Introduction journal entry
+    url: http://www.brettchalupa.com/new-story-lunar-space-colony
+  - title: Listen on SoundCloud
+    url: https://soundcloud.com/brettchalupa/lunar-space-colony
+  - title: Listen on YouTube
+    url: https://www.youtube.com/watch?v=N7jJbb4tpTQ
 ---
 
 “Bri, you just received an email from Preston at the United Space Federation. The subject line is: ‘In regards to your application at the Lunar Space Colony.’ Would you like me to read the message?” asked Toto, Bri’s custom built android.

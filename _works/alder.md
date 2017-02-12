@@ -15,3 +15,4 @@ _Alder_ is a collection of short stories I have been working on since October 20
 _Alder_ consists of the following stories:
 
 - [Latency](http://www.brettchalupa.com/latency)
+- [Lunar Space Colony](http://www.brettchalupa.com/lunar-space-colony)
