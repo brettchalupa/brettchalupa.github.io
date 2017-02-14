@@ -213,7 +213,7 @@ with the names of the files.
 
 - [Thoughtbot's Shopify Theme
   Development](https://robots.thoughtbot.com/shopify-theme-development)
-  post was a good reference when I exploring different approaches to
+  post was a good reference when I was exploring different approaches to
   theme development.
 - The [Shopify docs on theme
   customization](https://help.shopify.com/themes/customization) are
