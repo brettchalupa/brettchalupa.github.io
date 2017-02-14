@@ -18,7 +18,7 @@ Prior to moving to the Pacific Northwest, I grew up in the Northeast,
 living in New Jersey and Vermont. I try to live a simple life and
 pursue my passions, which are writing, reading, cooking, and walking.
 
-Growing up I barely read, but that all changed when read _1Q84_ by
+Growing up I barely read, but that all changed when I read _1Q84_ by
 Haruki Murakami in 2013. My mind was opened to fictional literature, and
 my love of it has only grown since, so much so that I started to write
 my own stories in September 2015.
@@ -29,7 +29,7 @@ want to support myself with my writing, and I am diligently working
 towards that goal.
 
 I currently make my living doing software development. I run <a
-href='http://www.monoso.co'>Monoso</a>, small consulting firm that
+href='http://www.monoso.co'>Monoso</a>, a small consulting firm that
 specializes in building web applications. I have been building software
 for over a decade, and while I enjoy it, I daydream about doing creative
 work all day long. My prior technical writing and talks can be found in
@@ -56,7 +56,7 @@ For additional contact info, see the [Contact](/contact/) page.
 
 ## License
 
-Curious about the licensing terms of my works? Checkout [the
+Curious about the licensing terms of my works? Check out [the
 License page](/license) for more details.
 
 For a high-resolution profile photo, [use this image](https://www.flickr.com/photos/brettchalupa/31332288711). It has been dedicated to the public domain.

@@ -19,6 +19,6 @@ into quite a few fights._
 
 This is some gameplay from the Indivisible prototype, a game that is
 raising money via crowdfunding. Interested in playing the prototype or
-supporting the project? Checkout
+supporting the project? Check out
 [http://support-indivisible.com](http://support-indivisible.com) to get
 the free prototype and learn more about the project.
