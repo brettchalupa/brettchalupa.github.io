@@ -18,7 +18,7 @@ If you’ve never watched the show and are interested in what all of the hubbub 
 
 ![Twin Peaks Beginner’s Guide with Owl Logo](/uploads/twin-peaks-guide.png)
 
-## What is _Twin Peaks_
+## What is _Twin Peaks_?
 
 _Twin Peaks_ is first-and-foremost a television series. It tells the story of Dale Cooper, a handsome and just FBI agent, who travels to the quaint town of Twin Peaks in northeast Washington to investigate the murder of Laura Palmer, the local high school sweetheart whose body was found washed ashore.
 
