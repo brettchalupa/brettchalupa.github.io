@@ -60,7 +60,7 @@ In preparation for _Forget_, I bought _Fabulous Muscles_ at the very beginning o
 
 ## Podcasts
 
-### [5by5 Movies: Glengarry Glenross](http://5by5.tv/movies/2)
+### [5by5 Movies: Glengarry Glen Ross](http://5by5.tv/movies/2)
 
-An in-depth analysis by two of my favorite podcasters, Merlin Mann and Dan Benjamin, about a great movie, Glengarry Glenross. If you’ve seen the movie before, it’s worth the listen. It made me appreciate the film in a new way.
+An in-depth analysis by two of my favorite podcasters, Merlin Mann and Dan Benjamin, about a great movie, Glengarry Glen Ross. If you’ve seen the movie before, it’s worth the listen. It made me appreciate the film in a new way.
 
