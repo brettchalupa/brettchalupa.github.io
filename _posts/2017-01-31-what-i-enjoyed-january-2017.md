@@ -1,6 +1,6 @@
 ---
 title: What I Enjoyed, January 2017
-description: Thoughts on the books, films, and music I enjoyed in December 2017—A Wizard of Earthsea, Game of Thrones, and more.
+description: Thoughts on the books, films, and music I enjoyed in February 2017—A Wizard of Earthsea, Game of Thrones, and more.
 date: 2017-01-31 18:30:00 PST
 category: Enjoyed
 tags:
