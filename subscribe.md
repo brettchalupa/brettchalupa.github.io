@@ -9,8 +9,6 @@ layout: default
 
 If you’re interested in keeping up with my writing and creative projects, there are a few ways to subscribe.
 
-{% include newsletter.html %}
-
 ## Journal & RSS
 
 I update [my journal](/journal/) at least once a week with thoughts, project updates, monthly reflections on what I enjoyed last month, and what I have been learning.
