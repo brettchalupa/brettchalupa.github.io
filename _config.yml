@@ -36,7 +36,7 @@ defaults:
       type: brief_moments
     values:
       layout: chapter
-description: 'Independent writer based in Portland, Oregon, focused on telling stories'
+description: 'Writer, designer, and software developer based in Portland, Oregon.'
 url: http://www.brettchalupa.com
 logo: "/img/brett_chalupa.jpg"
 twitter:
