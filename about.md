@@ -8,8 +8,7 @@ layout: default
 # About
 
 <p class='intro'>
-Hi, my name is Brett. I'm a storyteller focused on writing. I live in
-Portland, Oregon.
+Hi, my name is Brett. I'm a storyteller focused on writing and videography. I live in Portland, Oregon.
 </p>
 
 ![Photo of Brett](/img/brett_about.jpg)
