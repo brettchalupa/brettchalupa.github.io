@@ -40,8 +40,7 @@ I love getting lost in dark and mysterious worlds.
 
 ## On the Web
 
-- [Ello](https://ello.co/brettchalupa) &ndash; regular thoughts and
-  updates, less polished than [my Journal](/journal/)
+- [Ello](https://ello.co/brettchalupa) &ndash; regular thoughts and updates, less polished than [my Journal](https://journal.brettchalupa.com)
 - [Twitter](https://twitter.com/brettchalupa) &ndash; occasional small updates
 - [YouTube](https://www.youtube.com/channel/UC68s8MiLnOjqPLz2QcNtr8g) &ndash; regular videos and audio versions of my stories
 - [Goodreads](https://www.goodreads.com/brettchalupa) &ndash; what I have been reading

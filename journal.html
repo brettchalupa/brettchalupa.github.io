@@ -8,47 +8,11 @@ layout: default
 <div id="journal">
   <h1>{{ page.title }}</h1>
 
+  <p>My journal has moved to <a href='https://journal.brettchalupa.com'>journal.brettchalupa.com</a>.</p>
+
   <p class='intro'>{{ page.description }}</p>
 
-  <!-- Highlights are commented out until there is more content
-  <h2>Highlights</h2>
-
-  <ul class='posts-list'>
-    {% for post in site.tags.featured %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a> / <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
-      </li>
-    {% endfor %}
-  </ul>
-  -->
-
-  <!-- Topics are commented out until there is enough content to have them be useful
-  <h2>Topics</h2>
-
-  <ul class='topics-list'>
-    <li>
-      <a href='/anecdotes/'>Anecdotes</a>
-    </li>
-
-    <li>
-      <a href='/news/'>News</a>
-    </li>
-
-    <li>
-      <a href='/process/'>Process</a>
-    </li>
-
-    <li>
-      <a href='/thoughts/'>Thoughts</a>
-    </li>
-  </ul>
-  -->
-
   <div class='section'>
-    <!-- Commented out until there are more page sections
-    <h2>The Whole List</h2>
-    -->
-
     <ul class='posts-list'>
       {% for post in site.posts %}
         {% unless post.tags contains 'archived' %}
