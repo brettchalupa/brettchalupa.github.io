@@ -8,24 +8,24 @@ layout: default
 # About
 
 <p class='intro'>
-Hi, my name is Brett. I'm a storyteller focused on writing and videography. I live in Portland, Oregon.
+Hi, my name is Brett. I'm a storyteller focused on writing and filmmaking. I live in Portland, Oregon.
 </p>
 
 ![Photo of Brett](/img/brett_about.jpg)
 
 Prior to moving to the Pacific Northwest, I grew up in the Northeast,
 living in New Jersey and Vermont. I try to live a simple life and
-pursue my passions, which are writing, reading, cooking, and walking.
+pursue my passions, which are writing, filmmaking, reading, cooking, and
+walking.
 
 Growing up I barely read, but that all changed when I read _1Q84_ by
 Haruki Murakami in 2013. My mind was opened to fictional literature, and
 my love of it has only grown since, so much so that I started to write
-my own stories in September 2015.
+my own stories in September 2015. Since then I have been working on
+small and medium-sized projects.
 
-Since then I have been working on small and medium-sized projects, and I
-aim to self-publish my first novel in the middle of 2017. I
-want to support myself with my writing, and I am diligently working
-towards that goal.
+In 2017 I started to create short films and video essays. I'm currently
+working on my next short film.
 
 I currently make my living doing software development. I run <a
 href='http://www.monoso.co'>Monoso</a>, a small consulting firm that
@@ -39,8 +39,10 @@ I love getting lost in dark and mysterious worlds.
 
 ## On the Web
 
+- [Letterboxd](https://letterboxd.com/brettchalupa) &ndash; what films I've been watching
 - [Ello](https://ello.co/brettchalupa) &ndash; regular thoughts and updates, less polished than [my Journal](https://journal.brettchalupa.com)
 - [Twitter](https://twitter.com/brettchalupa) &ndash; occasional small updates
+- [Vimeo](https://vimeo.com/brettchalupa) &ndash; polished video projects
 - [YouTube](https://www.youtube.com/channel/UC68s8MiLnOjqPLz2QcNtr8g) &ndash; regular videos and audio versions of my stories
 - [Goodreads](https://www.goodreads.com/brettchalupa) &ndash; what I have been reading
 - [Facebook](https://www.facebook.com/Brett-Chalupa-607963962732935/) &ndash; weekly project updates
