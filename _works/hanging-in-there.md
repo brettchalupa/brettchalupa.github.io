@@ -13,10 +13,11 @@ period: July 2017
 ---
 
 
-_Hanging in There_ is my first short film. It was written, planned, shot, and edited from May to July 2017.
+_Hanging in There_ is my first short film. It was written, planned, shot, and edited from May to July 2017. [Gahlord Dewald](http://gahlorddewald.com) made the music.
+
+_Dylan finds himself unable to leave his apartment, but he's hanging in there._
 
 Watch _Hanging in There_:
 
 <iframe src="https://player.vimeo.com/video/224795028" width="480" height="270" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 
