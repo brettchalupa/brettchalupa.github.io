@@ -302,7 +302,7 @@ iframe {
 // Post / Entry
 
 .post-meta {
-  @extend p.small;
+  @extend .small;
 
   margin: 0;
 }
