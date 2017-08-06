@@ -13,6 +13,8 @@ period: July 2017
 additional_links:
   - title: Retrospective journal entry
     url: https://journal.brettchalupa.com/2017/07/14/hanging-in-there-retrospective/
+  - title: IMDB
+    url: http://www.imdb.com/title/tt7134426/
 ---
 
 
