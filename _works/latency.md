@@ -17,7 +17,7 @@ additional_links:
   - title: Introduction journal entry
     url: http://www.brettchalupa.com/introducing-latency
   - title: Listen on SoundCloud
-    url: https://soundcloud.com/brettchalupa/latency
+    url: https://soundcloud.com/gather_around/latency
   - title: Listen on YouTube
     url: https://www.youtube.com/watch?v=0tb-VlwPA-4
 ---

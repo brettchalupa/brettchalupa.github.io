@@ -15,7 +15,7 @@ additional_links:
   - title: Listen on Google Play Music
     url: https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/I5ywuf67qsf32qlxmlwstxntk7q?t%3DGather_Around%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16
   - title: Listen on SoundCloud
-    url: https://soundcloud.com/brettchalupa
+    url: https://soundcloud.com/gather_around
   - title: Listen on Pocket Casts
     url: http://pca.st/ijkd
   - title: Listen on Overcast

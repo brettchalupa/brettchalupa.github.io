@@ -18,7 +18,7 @@ additional_links:
   - title: Read on Wattpad
     url: https://www.wattpad.com/story/95821053-brief-moments-of-life
   - title: Listen on SoundCloud
-    url: https://soundcloud.com/brettchalupa/sets/brief-moments-of-life
+    url: https://soundcloud.com/gather_around/sets/brief-moments-of-life
   - title: Listen on YouTube
     url: https://www.youtube.com/playlist?list=PLRm5b9tF58dHL-mdxuVttdAo-5arQ9Q0r
 ---

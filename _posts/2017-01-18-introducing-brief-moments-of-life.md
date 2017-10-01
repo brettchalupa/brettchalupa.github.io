@@ -27,6 +27,6 @@ The stories can also be read and listened to elsewhere online:
 
 - [Ello](https://ello.co/brettchalupa) — I publish each story in full on Ello, along with other daily updates.
 - [Wattpad](https://www.wattpad.com/story/95821053-brief-moments-of-life) — I put up each story as a section on Wattpad.
-- [SoundCloud](https://soundcloud.com/brettchalupa/sets/brief-moments-of-life) or [YouTube](https://www.youtube.com/playlist?list=PLRm5b9tF58dHL-mdxuVttdAo-5arQ9Q0r) — The audio versions can be listened to on either SoundCloud or YouTube.
+- [SoundCloud](https://soundcloud.com/gather_around/sets/brief-moments-of-life) or [YouTube](https://www.youtube.com/playlist?list=PLRm5b9tF58dHL-mdxuVttdAo-5arQ9Q0r) — The audio versions can be listened to on either SoundCloud or YouTube.
 
 I'm excited to see where this experiment goes.

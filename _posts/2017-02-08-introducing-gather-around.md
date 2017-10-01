@@ -21,7 +21,7 @@ Each short story is its own episode, which seems fitting. I have two upcoming no
 
 I am going to keep the feed strictly fiction. No ads, just stories.
 
-It was easy to setup since I have [been uploading the narrated stories to SoundCloud](https://soundcloud.com/brettchalupa). All I had to do was figure out the name, create the cover, and submit the RSS feed to places like iTunes and Google Play Music. Like most of my projects, I am viewing it as an experiment and will see how it goes.
+It was easy to setup since I have [been uploading the narrated stories to SoundCloud](https://soundcloud.com/gather_around). All I had to do was figure out the name, create the cover, and submit the RSS feed to places like iTunes and Google Play Music. Like most of my projects, I am viewing it as an experiment and will see how it goes.
 
 If you’re interested in subscribing, here are the various places it is available:
 
