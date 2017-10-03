@@ -8,45 +8,42 @@ layout: default
 # About
 
 <p class='intro'>
-Hi, my name is Brett. I'm a storyteller focused on writing and filmmaking. I live in Portland, Oregon.
+Hi, my name is Brett. I'm a storyteller focused on making comics. I live in Portland, Oregon.
 </p>
 
 ![Photo of Brett](/img/brett_about.jpg)
 
 Prior to moving to the Pacific Northwest, I grew up in the Northeast,
 living in New Jersey and Vermont. I try to live a simple life and
-pursue my passions, which are writing, filmmaking, reading, cooking, and
+pursue my passions. I enjoy drawing, writing, film, reading, cooking, and
 walking.
 
-Growing up I barely read, but that all changed when I read _1Q84_ by
-Haruki Murakami in 2013. My mind was opened to fictional literature, and
-my love of it has only grown since, so much so that I started to write
-my own stories in September 2015. Since then I have been working on
-small and medium-sized projects.
+I'm currently working on a graphic novel tenatively titled _Modus
+Operandi_ about a woman who goes looking for a missing cat. I also make
+a weekly webcomic called [Waves](http://waves.brettchalupa.com).
 
-In 2017 I started to create short films and video essays. I'm currently
-working on my next short film.
-
-I currently make my living doing software development. I run <a
+I make my living doing software development. I run <a
 href='http://www.monoso.co'>Monoso</a>, a small consulting firm that
 specializes in building web applications. I have been building software
 for over a decade, and while I enjoy it, I daydream about doing creative
-work all day long. My prior technical writing and talks can be found in
+work full-time. My prior technical writing and talks can be found in
 the [Archive](/archive/).
 
-I really enjoy Haruki Murakami's novels and David Lynch's films.
+I spend my free time watching films, reading manga and novels, and playing the
+occassional video game (Fire Emblem is my favorite series). The creators
+I most look up to are Haruki Murakami, David Lynch, and Tsutomu Nihei.
 I love getting lost in dark and mysterious worlds.
 
 ## On the Web
 
-- [Letterboxd](https://letterboxd.com/brettchalupa) &ndash; what films I've been watching
-- [Ello](https://ello.co/brettchalupa) &ndash; regular thoughts and updates, less polished than [my Journal](https://journal.brettchalupa.com)
+- [Journal](https://journal.brettchalupa.com) &ndash; regular updates on what I've been working on and enjoying
+- [Tumblr](https://brettchalupa.tumblr.com) &ndash; illustrations and comics
+- [Instagram](https://instagram.com/brettchalupadraws) &ndash; sketches
 - [Twitter](https://twitter.com/brettchalupa) &ndash; occasional small updates
-- [Vimeo](https://vimeo.com/brettchalupa) &ndash; polished video projects
-- [YouTube](https://www.youtube.com/channel/UC68s8MiLnOjqPLz2QcNtr8g) &ndash; regular videos and audio versions of my stories
-- [Goodreads](https://www.goodreads.com/brettchalupa) &ndash; what I have been reading
-- [Facebook](https://www.facebook.com/Brett-Chalupa-607963962732935/) &ndash; weekly project updates
 - [Flickr](https://www.flickr.com/photos/brettchalupa/) &ndash; photos
+- [YouTube](https://www.youtube.com/channel/UC68s8MiLnOjqPLz2QcNtr8g) &ndash; videos
+- [Letterboxd](https://letterboxd.com/brettchalupa) &ndash; what films I've been watching
+- [Goodreads](https://www.goodreads.com/brettchalupa) &ndash; what novels I've been reading
 
 ## Contact
 
