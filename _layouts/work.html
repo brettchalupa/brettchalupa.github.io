@@ -56,3 +56,21 @@ layout: default
     </ul>
   {% endif %}
 </div>
+
+<div class='post-nav'>
+  {% if page.next.url %}
+    {% unless page.next.tags contains 'hidden' %}
+      <a class="next post-nav-item" href="{{page.next.url}}">
+        {{page.next.title}} &raquo;
+      </a>
+    {% endunless %}
+  {% endif %}
+
+  {% if page.previous.url %}
+    {% unless page.previous.tags contains 'hidden' %}
+      <a class="prev post-nav-item" href="{{page.previous.url}}">
+        &laquo; {{page.previous.title}}
+      </a>
+    {% endunless %}
+  {% endif %}
+</div>
