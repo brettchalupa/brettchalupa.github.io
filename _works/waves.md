@@ -13,6 +13,8 @@ period: September 2017 - Current
 additional_links:
   - title: Read on Tapas
     url: https://tapas.io/series/waves
+  - title: Subscribe via RSS
+    url: http://waves.brettchalupa.com/rss
   - title: Introduction journal entry
     url: https://journal.brettchalupa.com/2017/10/01/an-introduction-to-waves/
 ---
