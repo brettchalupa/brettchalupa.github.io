@@ -49,7 +49,7 @@ name: Brett Chalupa
 highlighter: rouge
 markdown: kramdown
 permalink: ":title"
-gems:
+plugins:
 - jemoji
 - jekyll-sitemap
 - jekyll-feed
