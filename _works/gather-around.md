@@ -7,7 +7,7 @@ tags:
 - Podcast
 - Fiction
 layout: work
-period: January 2017 - Current
+period: January 2017 - February 2017
 image: /uploads/gather-around.png
 additional_links:
   - title: Listen on iTunes
@@ -28,7 +28,7 @@ additional_links:
 
 ![Gather Around Cover](/uploads/gather-around.png)
 
-_Gather Around_ is a podcast of the narrated versions of my stories. There’s a new story every week. No ads, just fiction.
+_Gather Around_ is a podcast of the narrated versions of my stories.
 
 It currently features stories from:
 

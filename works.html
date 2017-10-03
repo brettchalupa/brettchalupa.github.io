@@ -12,7 +12,9 @@ layout: default
 
   <ul class='works-list'>
     {% for work in site.works reversed %}
-      {% include work-list-item.html %}
+      {% unless work.tags contains 'hidden' %}
+        {% include work-list-item.html %}
+      {% endunless %}
     {% endfor %}
   </ul>
 </div>
