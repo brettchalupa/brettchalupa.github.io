@@ -7,6 +7,7 @@ tags:
 - Podcast
 layout: work
 period: December 2016
+image: /uploads/daily-cover.png
 ---
 
 A [Bumpers](https://bumpers.fm/brett) experiment where I told stories
