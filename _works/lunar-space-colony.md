@@ -17,6 +17,8 @@ layout: short_story
 additional_links:
   - title: Introduction journal entry
     url: http://www.brettchalupa.com/new-story-lunar-space-colony
+  - title: Read on Tapas
+    url: https://tapas.io/series/lunar-space-colony
   - title: Listen on SoundCloud
     url: https://soundcloud.com/gather_around/lunar-space-colony
   - title: Listen on YouTube
