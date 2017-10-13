@@ -67,7 +67,7 @@ is not anything too intensive, but being comfortable with common
 commands will help.
 
 The first step is to install and setup [Theme
-Kit](http://themekit.cat/install/). Theme Kit is a cross-platform
+Kit](https://shopify.github.io/themekit/). Theme Kit is a cross-platform
 command line tool for Shopify theme development. It is written in Go,
 which means it has no external dependencies, like Ruby Shopify command
 line too, and is fast. Follow the install and setup instructions to get
