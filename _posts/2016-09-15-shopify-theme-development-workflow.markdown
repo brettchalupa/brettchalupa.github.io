@@ -21,6 +21,8 @@ You can watch a screencast of the workflow or keep on reading.
 src="https://www.youtube-nocookie.com/embed/1xWFsYmBoX0?rel=0&amp;showinfo=0"
 frameborder="0" allowfullscreen></iframe>
 
+_If you're interested in more software development screencasts, I started [a new channel](https://www.youtube.com/channel/UCQXaIyeRqHjK9EK41b8J3yQ)._
+
 ## Requirements
 
 I wanted Shopify development to be as close to my normal workflow as
