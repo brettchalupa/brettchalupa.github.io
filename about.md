@@ -8,7 +8,7 @@ layout: default
 # About
 
 <p class='intro'>
-Hi, my name is Brett. I'm a storyteller focused on making comics. I live in Portland, Oregon.
+Hi, my name is Brett. I'm a software developer, designer, and comic artist. I live in Portland, Oregon.
 </p>
 
 ![Photo of Brett](/img/brett_about.jpg)
@@ -18,15 +18,14 @@ living in New Jersey and Vermont. I try to live a simple life and
 pursue my passions. I enjoy drawing, writing, film, reading, cooking, and
 walking.
 
-I'm currently working on a graphic novel tenatively titled _Modus
-Operandi_ about a woman who goes looking for a missing cat. I also make
-a weekly webcomic called [Waves](http://waves.brettchalupa.com).
+I currently publish a weekly webcomic called
+[Waves](http://waves.brettchalupa.com) and write about video games at
+[Peaceful Respite](http://www.peacefulrespite.com).
 
 I make my living doing software development. I run <a
 href='http://www.monoso.co'>Monoso</a>, a small consulting firm that
 specializes in building web applications. I have been building software
-for over a decade, and while I enjoy it, I daydream about doing creative
-work full-time. My prior technical writing and talks can be found in
+for over a decade. My prior technical writing and talks can be found in
 the [Archive](/archive/).
 
 I spend my free time watching films, reading manga and novels, and playing the
