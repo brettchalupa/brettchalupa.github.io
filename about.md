@@ -8,7 +8,7 @@ layout: default
 # About
 
 <p class='intro'>
-Hi, my name is Brett. I'm a software developer, designer, and comic artist. I live in Portland, Oregon.
+Hi, my name is Brett. I'm a software developer, writer, and comic artist. I live in Portland, Oregon.
 </p>
 
 ![Photo of Brett](/img/brett_about.jpg)
@@ -28,16 +28,15 @@ specializes in building web applications. I have been building software
 for over a decade. My prior technical writing and talks can be found in
 the [Archive](/archive/).
 
-I spend my free time watching films, reading manga and novels, and playing the
-occassional video game (Fire Emblem is my favorite series). The creators
-I most look up to are Haruki Murakami, David Lynch, and Tsutomu Nihei.
-I love getting lost in dark and mysterious worlds.
+I spend my free time watching films, reading manga and
+novels, and playing video games. I'm a fan of David Lynch, Japanese
+video games, Haruki Murakami, and indie rock.
 
 ## On the Web
 
 - [Journal](https://journal.brettchalupa.com) &ndash; regular updates on what I've been working on and enjoying
 - [Tumblr](https://brettchalupa.tumblr.com) &ndash; illustrations and comics
-- [Instagram](https://instagram.com/brettchalupadraws) &ndash; sketches
+- [Instagram](https://instagram.com/brettchalupadraws) &ndash; sketches &amp; doodles
 - [Twitter](https://twitter.com/brettchalupa) &ndash; occasional small updates
 - [Flickr](https://www.flickr.com/photos/brettchalupa/) &ndash; photos
 - [YouTube](https://www.youtube.com/channel/UC68s8MiLnOjqPLz2QcNtr8g) &ndash; videos
