@@ -15,22 +15,17 @@ Hi, my name is Brett. I'm a software developer, writer, and comic artist. I live
 
 Prior to moving to the Pacific Northwest, I grew up in the Northeast,
 living in New Jersey and Vermont. I try to live a simple life and
-pursue my passions. I enjoy drawing, writing, film, reading, cooking, and
-walking.
+pursue my passions. I enjoy drawing, writing, film, reading, cooking,
+and walking. I'm a fan of the works by Haruki Murakami, David Lynch, and
+Tsutomu Nihei.
 
 I currently publish a weekly webcomic called
-[Waves](http://waves.brettchalupa.com) and write about video games at
-[Peaceful Respite](http://www.peacefulrespite.com).
+[Waves](http://waves.brettchalupa.com). I'm also working on an
+unannounced graphic novel.
 
-I make my living doing software development. I run <a
-href='http://www.monoso.co'>Monoso</a>, a small consulting firm that
-specializes in building web applications. I have been building software
-for over a decade. My prior technical writing and talks can be found in
-the [Archive](/archive/).
+I make my living doing software development. My technical portfolio and
+resources can be viewed at the [Monoso website](http://www.monoso.co).
 
-I spend my free time watching films, reading manga and
-novels, and playing video games. I'm a fan of David Lynch, Japanese
-video games, Haruki Murakami, and indie rock.
 
 ## On the Web
 
