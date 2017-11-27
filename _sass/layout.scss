@@ -17,6 +17,7 @@ $breakpoint-sm: 767px;
 
 body {
   color: $font-color;
+  font-family: $font-family;
   margin: 0;
 }
 
@@ -135,6 +136,15 @@ li {
 img,
 iframe {
   max-width: 100%;
+}
+
+figure {
+  margin: 0 0 60px 0;
+}
+
+figcaption {
+  margin-top: 10px;
+  text-align: center;
 }
 
 .center {
