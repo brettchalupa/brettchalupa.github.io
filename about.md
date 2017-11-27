@@ -30,13 +30,9 @@ resources can be viewed at the [Monoso website](http://www.monoso.co).
 ## On the Web
 
 - [Journal](https://journal.brettchalupa.com) &ndash; regular updates on what I've been working on and enjoying
-- [Tumblr](https://brettchalupa.tumblr.com) &ndash; illustrations and comics
-- [Instagram](https://instagram.com/brettchalupadraws) &ndash; sketches &amp; doodles
-- [Twitter](https://twitter.com/brettchalupa) &ndash; occasional small updates
+- [Tumblr](https://brettchalupa.tumblr.com) &ndash; illustrations & comics
+- [Twitter](https://twitter.com/brettchalupa) &ndash; small updates
 - [Flickr](https://www.flickr.com/photos/brettchalupa/) &ndash; photos
-- [YouTube](https://www.youtube.com/channel/UC68s8MiLnOjqPLz2QcNtr8g) &ndash; videos
-- [Letterboxd](https://letterboxd.com/brettchalupa) &ndash; what films I've been watching
-- [Goodreads](https://www.goodreads.com/brettchalupa) &ndash; what novels I've been reading
 
 ## Contact
 
