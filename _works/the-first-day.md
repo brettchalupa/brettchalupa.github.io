@@ -8,7 +8,6 @@ image: /uploads/the-first-day-cover.png
 tags:
 - Twine
 - Interactive Fiction
-- featured
 layout: work
 period: December 2016
 ---
