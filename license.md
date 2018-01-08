@@ -7,7 +7,7 @@ layout: default
 
 # License
 
-All content and code are copyright (c) 2011-2017 Brett Chalupa
+All content and code are copyright (c) 2011-2018 Brett Chalupa
 
 The terms below explain how my works and this website are licensed for
 those who want to make use of either.
