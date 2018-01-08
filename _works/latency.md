@@ -9,6 +9,7 @@ tags:
 - Prose
 - Fiction
 - Writing
+- hidden
 period: January 2017
 image: /uploads/latency-cover.png
 layout: short_story
