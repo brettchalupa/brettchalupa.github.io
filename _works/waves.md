@@ -1,6 +1,6 @@
 ---
 title: Waves
-description: A webcomic about nothing in particular. New strips every Friday.
+description: A webcomic about nothing in particular.
 layout: work
 date: 2017-09-15 09:00:00 PST
 category: Webcomic
@@ -10,7 +10,7 @@ tags:
 - Comic
 - featured
 layout: work
-period: September 2017 - Current
+period: September 2017 - December 2017
 additional_links:
   - title: Read on Tapas
     url: https://tapas.io/series/waves
@@ -22,10 +22,9 @@ additional_links:
 
 [![Waves Logo](/uploads/waves-logo.png)](http://waves.brettchalupa.com)
 
-Waves is a weekly humor webcomic. New strips are published every Friday.
+Waves is a weekly humor webcomic.
 
 The initial strip was drawn in 2016, but the comic began in earnest in
-September 2017. The first series is currently underway with the target
-goal of 20 strips.
+September 2017. The initial run of the comic finished in December 2017.
 
 [Read Waves](http://waves.brettchalupa.com)
