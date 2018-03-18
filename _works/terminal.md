@@ -20,6 +20,8 @@ additional_links:
 
 An atmospheric sci-fi vignette.
 
+Black and white, 9 pages long, a few bonus pages.
+
 _Terminal_ is my first comic. I made from January through March 2018. I
 learned a lot and had a blast making it.
 
