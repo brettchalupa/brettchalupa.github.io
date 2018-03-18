@@ -8,7 +8,6 @@ image: /uploads/waves-logo.png
 tags:
 - Webcomic
 - Comic
-- featured
 layout: work
 period: September 2017 - December 2017
 additional_links:
