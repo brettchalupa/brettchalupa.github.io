@@ -12,6 +12,8 @@ tags:
 layout: work
 period: March 2018
 additional_links:
+  - title: Retrospective journal entry
+    url: https://journal.brettchalupa.com/2018/03/31/terminal-retrospective/
   - title: Download on Gumroad
     url: https://gum.co/terminal-comic
 ---
