@@ -25,7 +25,7 @@ additional_links:
 A young woman with a third eye and her mentor are on the run.
 
 Inspired by shonen battle manga, Lavender is 24-page action fantasy
-comic made in 24 hours.
+comic that was made in 24 hours.
 
 _Lavender_ is my second finished comic. It's the result of taking on a
 24-Hour Comic Challenge on June 22nd & 23rd, 2018.
