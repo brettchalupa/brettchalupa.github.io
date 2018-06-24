@@ -12,6 +12,8 @@ tags:
 layout: work
 period: June 2018
 additional_links:
+  - title: Retrospective journal entry
+    url: http://journal.brettchalupa.com/2018/06/24/lavender-my-first-24-hour-comic/
   - title: Download on Itch
     url: https://brettchalupa.itch.io/lavender
   - title: Download on Gumroad
@@ -38,5 +40,3 @@ I also recorded time-lapse footage and check-in videos during the challenge:
 src="https://www.youtube-nocookie.com/embed/BbdjO3MW6WU?rel=0"
 frameborder="0" allow="autoplay; encrypted-media"
 allowfullscreen></iframe>
-
-[Learn more about the challenge, how it went, and _Lavender_ in the retrospective journal entry.](http://journal.brettchalupa.com/2018/06/24/lavender-my-first-24-hour-comic/)
