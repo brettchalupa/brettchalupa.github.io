@@ -7,7 +7,6 @@ image: /uploads/inktober-2017-cover.png
 tags:
 - Illustration
 - Ink
-- featured
 layout: work
 period: October 2017
 ---
