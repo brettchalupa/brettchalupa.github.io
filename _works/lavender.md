@@ -14,6 +14,8 @@ period: June 2018
 additional_links:
   - title: Retrospective journal entry
     url: http://journal.brettchalupa.com/2018/06/24/lavender-my-first-24-hour-comic/
+  - title: Read on Tapas
+    url: https://tapas.io/series/Lavender-Comic
   - title: Download on Itch
     url: https://brettchalupa.itch.io/lavender
   - title: Download on Gumroad
