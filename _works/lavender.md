@@ -16,6 +16,8 @@ additional_links:
     url: http://journal.brettchalupa.com/2018/06/24/lavender-my-first-24-hour-comic/
   - title: Read on Tapas
     url: https://tapas.io/series/Lavender-Comic
+  - title: Read on WEBTOON
+    url: https://www.webtoons.com/en/challenge/lavender/list?title_no=198151
   - title: Download on Itch
     url: https://brettchalupa.itch.io/lavender
   - title: Download on Gumroad
