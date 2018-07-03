@@ -8,7 +8,6 @@ image: /uploads/terminal-logo.png
 tags:
 - Minicomic
 - Comic
-- featured
 layout: work
 period: March 2018
 additional_links:
