@@ -31,10 +31,9 @@ viewed at the [Monoso website](http://www.monoso.co).
 ## On the Web
 
 - [Journal](https://journal.brettchalupa.com) &ndash; regular updates on what I've been working on and enjoying
-- [Tumblr](https://brettchalupa.tumblr.com) &ndash; illustrations & comics
-- [Instagram](https://instagram.com/brettchalupadraws) &ndash; doodles & drawings
+- [Instagram](https://instagram.com/brettchalupa) &ndash; doodles & drawings
 - [Twitter](https://twitter.com/brettchalupa) &ndash; small updates
-- [Flickr](https://www.flickr.com/photos/brettchalupa/) &ndash; photos
+- [Tumblr](https://brettchalupa.tumblr.com) &ndash; illustrations & comics
 
 ## Contact
 
