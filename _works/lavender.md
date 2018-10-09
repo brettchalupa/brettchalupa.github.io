@@ -38,6 +38,8 @@ Black and white, 24 pages long.
 
 [Read _Lavender_ (heads up, there's some violence).](https://brettsjournal.files.wordpress.com/2018/06/lavender.pdf)
 
+[Buy a print copy.](https://shop.brettchalupa.com/product/lavender)
+
 I also recorded time-lapse footage and check-in videos during the challenge:
 
 <iframe width="560" height="315"

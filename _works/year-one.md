@@ -20,7 +20,7 @@ additional_links:
 [![Year One cover](/uploads/year-one-cover.png)](https://brettsjournal.files.wordpress.com/2018/10/year-one.pdf))
 
 I collected my favorite illustrations and single-page comics from my first year
-of making comics seriously into an artbook called _Year One_.
+of making comics into an artbook called _Year One_.
 
 [Download _Year
 One_.](https://brettsjournal.files.wordpress.com/2018/10/year-one.pdf)
