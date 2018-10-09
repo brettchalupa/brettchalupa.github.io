@@ -8,9 +8,8 @@ image: /uploads/lunar-space-colony-comic-cover.jpg
 tags:
 - Comic
 - Webcomic
-- featured
 layout: work
-period: July 2018 - Current
+period: July 2018 - August 2018
 additional_links:
   - title: Read on Tapas
     url: https://tapas.io/series/Lunar-Space-Colony-Comic
@@ -24,6 +23,6 @@ additional_links:
 
 Bri, an engineer, starts a new life onboard a colony orbiting the Moon.
 
-_Lunar Space Colony_ is a a weekly sci-fi comic. New episodes release every Tuesday.
+_Lunar Space Colony_ is a a weekly sci-fi comic. It is currently on hiatus.
 
 [Read _Lunar Space Colony_](https://lsc.brettchalupa.com)
