@@ -44,4 +44,4 @@ Here are my three favorite illustrations from the challenge:
 
 [View more of the illustrations and my reflections on my journal.](https://journal.brettchalupa.com/2018/10/31/inktober-2018/)
 
-[Or download the PDF with all of the illustrations directly.](https://journal.brettchalupa.com/2018/10/31/inktober-2018://brettsjournal.files.wordpress.com/2018/10/inktober-2018-brett-chalupa.pdf)
+[Or download the PDF with all of the illustrations directly.](https://brettsjournal.files.wordpress.com/2018/10/inktober-2018-brett-chalupa.pdf)
