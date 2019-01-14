@@ -5,7 +5,6 @@ category: Artbook
 description: Comics and illustrations from my first year of making comics.
 image: /uploads/year-one-cover.png
 tags:
-- featured
 - Illustration
 - Artbook
 layout: work
