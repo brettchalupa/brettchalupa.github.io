@@ -31,7 +31,7 @@ viewed at the [Monoso website](http://www.monoso.co).
 ## On the Web
 
 - [Journal](https://journal.brettchalupa.com) &ndash; regular updates on what I've been working on and enjoying
-- [ello](https://ello.co/brettchalupa) &ndash; doodles & drawings
+- [Ello](https://ello.co/brettchalupa) &ndash; doodles & drawings
 
 ## License
 
