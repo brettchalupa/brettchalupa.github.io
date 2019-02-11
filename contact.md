@@ -7,4 +7,4 @@ layout: default
 
 # Contact
 
-My email is: [brettchalupa@gmail.com](mailto:brettchalupa@gmail.com)
+There's no great way to get in touch at this time.

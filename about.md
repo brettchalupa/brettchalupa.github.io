@@ -31,15 +31,7 @@ viewed at the [Monoso website](http://www.monoso.co).
 ## On the Web
 
 - [Journal](https://journal.brettchalupa.com) &ndash; regular updates on what I've been working on and enjoying
-- [Instagram](https://instagram.com/brettchalupa) &ndash; doodles & drawings
-- [Twitter](https://twitter.com/brettchalupa) &ndash; small updates
-- [Tumblr](https://brettchalupa.tumblr.com) &ndash; illustrations & comics
-
-## Contact
-
-My email is: [brettchalupa@gmail.com](mailto:brettchalupa@gmail.com)
-
-For additional contact info, see the [Contact](/contact/) page.
+- [ello](https://ello.co/brettchalupa) &ndash; doodles & drawings
 
 ## License
 
