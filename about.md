@@ -26,7 +26,7 @@ works that explore the possibilities of the future.
 I make my living doing software development. I work at [Big
 Cartel](https://www.bigcartel.com), building software to help creative
 people sell their art work. My technical portfolio and resources can be
-viewed at the [Monoso website](http://www.monoso.co).
+viewed at the [Monoso website](https://monoso.brettchalupa.com).
 
 ## On the Web
 
