@@ -8,6 +8,7 @@ image: /uploads/lunar-space-colony-comic-cover.jpg
 tags:
 - Comic
 - Webcomic
+- hidden
 layout: work
 period: July 2018 - August 2018
 additional_links:

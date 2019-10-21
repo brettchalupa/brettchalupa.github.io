@@ -7,6 +7,7 @@ tags:
 - Novel
 - Short Story Collection
 - Flash Fiction
+- hidden
 collection_label: brief_moments
 collection_kind: Stories
 layout: work

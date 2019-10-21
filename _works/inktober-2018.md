@@ -5,7 +5,6 @@ category: Artbook
 description: 31 space-themed ink illustrations from October 2018.
 image: /uploads/inktober-2018-cover.png
 tags:
-- featured
 - Ink
 - Illustration
 - Artbook

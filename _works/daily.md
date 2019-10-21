@@ -5,10 +5,14 @@ category: Podcast
 description: A daily podcast show on Bumpers where Brett tells stories and talks about what has been going on.
 tags:
 - Podcast
+- hidden
 layout: work
 period: December 2016
 image: /uploads/daily-cover.png
 ---
+
+_Note: Bumpers, the host of this experiment, is no longer functioning. The
+episodes sadly aren't available for listening._
 
 A [Bumpers](https://bumpers.fm/brett) experiment where I told stories
 and shared my thoughts on various topics every day. The show was retired

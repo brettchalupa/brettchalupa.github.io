@@ -10,6 +10,7 @@ tags:
 - Fiction
 - Writing
 - Sci-Fi
+- featured
 period: February 2017
 image: /uploads/lunar-space-colony-cover.png
 layout: short_story

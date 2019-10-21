@@ -8,7 +8,6 @@ image: /uploads/lavender-cover.jpg
 tags:
 - Comic
 - 24 Hour Comic
-- featured
 layout: work
 period: June 2018
 additional_links:

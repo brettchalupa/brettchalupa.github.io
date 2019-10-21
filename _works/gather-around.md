@@ -6,6 +6,7 @@ description: A podcast of fictional stories written and narrated by Brett Chalup
 tags:
 - Podcast
 - Fiction
+- hidden
 layout: work
 period: January 2017 - February 2017
 image: /uploads/gather-around.png
