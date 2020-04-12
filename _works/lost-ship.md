@@ -1,7 +1,7 @@
 ---
 title: Lost Ship
 date: 2019-01-14 00:00:00 Z
-category: Minicomic
+category: Comic
 description: A short sci-fi comic about a small crew searching for a lost ship.
 image: /uploads/lost-ship-cover.png
 tags:
@@ -10,7 +10,7 @@ tags:
 - Minicomic
 - Sci-Fi
 layout: work
-period: January 2019
+period: Jan 2019
 additional_links:
   - title: Related journal entries
     url: https://journal.brettchalupa.com/tag/lost-ship/

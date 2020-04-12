@@ -7,7 +7,7 @@ tags:
 - Podcast
 - hidden
 layout: work
-period: December 2016
+period: Dec 2016
 image: /uploads/daily-cover.png
 ---
 

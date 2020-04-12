@@ -3,13 +3,13 @@ title: Terminal
 description: An atmospheric sci-fi minicomic.
 layout: work
 date: 2018-03-18 00:00:00 PDT
-category: Minicomic
+category: Comic
 image: /uploads/terminal-logo.png
 tags:
 - Minicomic
 - Comic
 layout: work
-period: March 2018
+period: Mar 2018
 additional_links:
   - title: Retrospective journal entry
     url: https://journal.brettchalupa.com/2018/03/31/terminal-retrospective/

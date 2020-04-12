@@ -3,14 +3,14 @@ title: Lunar Space Colony
 description: A weekly slice-of-life sci-fi webcomic.
 layout: work
 date: 2018-07-03 00:00:00 PDT
-category: Webcomic
+category: Comic
 image: /uploads/lunar-space-colony-comic-cover.jpg
 tags:
 - Comic
 - Webcomic
 - hidden
 layout: work
-period: July 2018 - August 2018
+period: Jul 2018 - Aug 2018
 additional_links:
   - title: Journal entries
     url: https://journal.brettchalupa.com/tag/lunar-space-colony/

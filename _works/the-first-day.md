@@ -10,7 +10,7 @@ tags:
 - Interactive Fiction
 - featured
 layout: work
-period: December 2016
+period: Dec 2016
 ---
 
 [![The First Day Cover](/uploads/the-first-day-cover.png)](/published/the-first-day)

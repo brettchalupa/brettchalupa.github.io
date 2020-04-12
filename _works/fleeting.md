@@ -7,10 +7,10 @@ collection_label: short_stories
 collection_kind: Stories
 image: /uploads/fleeting-cover.jpg
 layout: work
+period: Jan 2017 - Current
 tags:
 - Writing
 - featured
-period: January 2017 - Current
 ---
 
 ![Fleeting Cover](/uploads/fleeting-cover.jpg)

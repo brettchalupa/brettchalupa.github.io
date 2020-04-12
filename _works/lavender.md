@@ -3,13 +3,13 @@ title: Lavender
 description: An action fantasy comic made in 24 hours.
 layout: work
 date: 2018-06-24 00:00:00 PDT
-category: 24-Hour Comic
+category: Comic
 image: /uploads/lavender-cover.jpg
 tags:
 - Comic
 - 24 Hour Comic
 layout: work
-period: June 2018
+period: Jun 2018
 additional_links:
   - title: Retrospective journal entry
     url: http://journal.brettchalupa.com/2018/06/24/lavender-my-first-24-hour-comic/

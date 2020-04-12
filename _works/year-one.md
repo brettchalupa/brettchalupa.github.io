@@ -8,7 +8,7 @@ tags:
 - Illustration
 - Artbook
 layout: work
-period: September 2017 - August 2018
+period: Sep 2017 - Aug 2018
 additional_links:
   - title: Download on Itch
     url: https://brettchalupa.itch.io/year-one

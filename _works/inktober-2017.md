@@ -4,11 +4,11 @@ date: 2017-11-01 00:00:00 Z
 category: Art
 description: 31 ink illustrations from October 2017.
 image: /uploads/inktober-2017-cover.png
+period: Oct 2017
+layout: work
 tags:
 - Illustration
 - Ink
-layout: work
-period: October 2017
 ---
 
 ![Inktober 2017 Cover](/uploads/inktober-2017-cover.png)

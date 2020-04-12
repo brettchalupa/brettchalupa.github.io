@@ -9,7 +9,7 @@ tags:
 - Illustration
 - Artbook
 layout: work
-period: October 2018
+period: Oct 2018
 additional_links:
   - title: Download the artbook on Itch
     url: https://brettchalupa.itch.io/inktober-2018

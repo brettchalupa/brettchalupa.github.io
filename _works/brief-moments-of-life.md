@@ -10,7 +10,7 @@ collection_label: brief_moments
 collection_kind: Stories
 layout: work
 image: /uploads/brief-moments-of-life-cover.png
-period: January 2017 - Current
+period: Jan 2017 - Current
 additional_links:
   - title: Read on Wattpad
     url: https://www.wattpad.com/story/95821053-brief-moments-of-life

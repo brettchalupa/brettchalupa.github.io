@@ -3,13 +3,13 @@ title: Waves
 description: A webcomic about nothing in particular.
 layout: work
 date: 2017-09-15 09:00:00 PST
-category: Webcomic
+category: Comic
 image: /uploads/waves-logo.png
 tags:
 - Webcomic
 - Comic
 layout: work
-period: September 2017 - December 2017
+period: Sep 2017 - Dec 2017
 additional_links:
   - title: Read on Tapas
     url: https://tapas.io/series/waves

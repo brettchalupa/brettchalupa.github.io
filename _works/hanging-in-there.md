@@ -8,7 +8,7 @@ image: /uploads/hanging-in-there-cover.jpg
 tags:
 - Video
 layout: work
-period: July 2017
+period: Jul 2017
 additional_links:
   - title: Retrospective journal entry
     url: https://journal.brettchalupa.com/2017/07/14/hanging-in-there-retrospective/

@@ -8,7 +8,7 @@ tags:
 - Fiction
 - hidden
 layout: work
-period: January 2017 - February 2017
+period: Jan 2017 - Feb 2017
 image: /uploads/gather-around.png
 additional_links:
   - title: Listen on iTunes
