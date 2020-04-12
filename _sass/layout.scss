@@ -350,13 +350,23 @@ figcaption {
 // Prose
 
 .prose {
-  margin: $spacing-unit 0;
+  margin: $spacing-unit / 2 0;
 
   p {
     line-height: 26px;
-    margin: 6px 0;
+    margin: 0 0;
     text-align: justify;
     text-indent: 32px;
+
+  }
+
+  > p:first-child {
+    text-indent: 0;
+
+    &::first-letter {
+      font-weight: bold;
+      font-size: 24px;
+    }
   }
 
   blockquote p {
@@ -387,6 +397,23 @@ figcaption {
 
 .current-chapter {
   font-weight: $font-weight-bold;
+}
+
+.chapter__toc {
+  margin: 48px 0 12px;
+  text-align: center;
+
+  ul {
+    list-style: none;
+  }
+}
+
+.chapter__collected-in {
+  text-align: center;
+
+  a {
+    font-style: italic;
+  }
 }
 
 // Gumroad newsletter, copied from their embed snippet and modified as

@@ -4,10 +4,6 @@ layout: default
 
 {% assign work = site.works | where: "collection_label", page.collection | first %}
 
-<span class='chapter__work-title'>
-  <a href="{{ work.url }}">{{ work.title }}</a>
-</span>
-
 <h1 class='chapter__title'>{{ page.title }}</h1>
 
 <div class='chapter prose'>
@@ -40,21 +36,25 @@ Chapters, Episodes, etc.
 {% assign collection = site.collections | where: "label", page.collection | first %}
 
 {% if collection.docs.size > 1 %}
-  <h4>Table of Contents</h4>
+  <div class="chapter__toc">
+    <hr>
 
-  <ul>
-    {% for item in collection.docs %}
-      {% if item.title == page.title %}
-        <li class='current-chapter'>
-          {{ item.title }}
-        </li>
-      {% else %}
-        <li>
-          <a href="{{ item.url }}">{{ item.title }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+    <h4>Table of Contents</h4>
+
+    <ul>
+      {% for item in collection.docs %}
+        {% if item.title == page.title %}
+          <li class='current-chapter'>
+            {{ item.title }}
+          </li>
+        {% else %}
+          <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
 {% endif %}
 
-<p>Collected in <a href="{{ work.url }}">{{ work.title }}</a></p>
+<p class="chapter__collected-in">Collected in <a href="{{ work.url }}">{{ work.title }}</a></p>
