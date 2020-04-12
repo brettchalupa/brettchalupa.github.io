@@ -11,7 +11,7 @@ soundcloud_id: 302430690
 
 Dale drove across the country in his two-wheel drive sedan. He was escaping from everything—his girlfriend, his shitty job, his hometown. He figured running away would fix everything.
 
--
+<div class="section-break">***</div>
 
 “You're a bitch, you know that, right?”
 
@@ -21,7 +21,7 @@ Dale threw the snow globe they got from his mother for Christmas across the room
 
 Dale pulled over at rest stop on I-80, just past Omaha. It was 11:12 P.M. He used the bathroom, purchased a granola bar from the vending machine, and got back on the road. Outside of Lincoln, there was barely a soul on the road. The flashing of the roadside reflectors put Dale into a trance.
 
--
+<div class="section-break">***</div>
 
 “You think I'm the problem? Here's your new problem, I'm out of here.”
 
@@ -29,7 +29,7 @@ Dale rushed into the bedroom and grabbed his duffle bag. He threw in a few sets 
 
 “Don't try to call.”
 
--
+<div class="section-break">***</div>
 
 He reached Cheyenne in the morning and pulled over for a cup of coffee and a pack of cigarettes. Dale quit smoking when they met three years ago.
 
