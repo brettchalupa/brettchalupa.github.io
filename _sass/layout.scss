@@ -350,7 +350,7 @@ figcaption {
 // Prose
 
 .prose {
-  margin: $spacing-unit / 2 0;
+  margin: $spacing-unit / 2 0 $spacing-unit;
 
   p {
     line-height: 26px;
