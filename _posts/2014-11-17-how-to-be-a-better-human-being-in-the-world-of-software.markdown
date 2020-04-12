@@ -75,6 +75,4 @@ active in your efforts.
 
 _Thank you for reading. If you have any comments, questions, or suggestions,
 [please let
-me know on Twitter](https://twitter.com/brettchalupa). This work is licensed
-under a [Creative Commons Attribution-ShareAlike 4.0 International
-License](http://creativecommons.org/licenses/by-sa/4.0/)._
+me know on Twitter](https://twitter.com/brettchalupa)._
