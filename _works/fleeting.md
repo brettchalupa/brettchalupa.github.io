@@ -11,6 +11,9 @@ period: Jan 2017 - Current
 tags:
 - Writing
 - featured
+additional_links:
+  - title: Read on Wattpad
+    url: https://www.wattpad.com/user/brettchalupa
 ---
 
 ![Fleeting Cover](/uploads/fleeting-cover.jpg)
