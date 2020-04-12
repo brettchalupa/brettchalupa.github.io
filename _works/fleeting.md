@@ -13,7 +13,7 @@ tags:
 - featured
 additional_links:
   - title: Read on Wattpad
-    url: https://www.wattpad.com/user/brettchalupa
+    url: https://www.wattpad.com/story/220283220-fleeting-short-stories
 ---
 
 ![Fleeting Cover](/uploads/fleeting-cover.jpg)
