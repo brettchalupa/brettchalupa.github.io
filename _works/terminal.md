@@ -6,7 +6,6 @@ date: 2018-03-18 00:00:00 PDT
 category: Minicomic
 image: /uploads/terminal-logo.png
 tags:
-- featured
 - Minicomic
 - Comic
 layout: work
