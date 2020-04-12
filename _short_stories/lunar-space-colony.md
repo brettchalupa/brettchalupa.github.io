@@ -1,24 +1,11 @@
 ---
 title: Lunar Space Colony
 date: 2017-02-12 11:00:00 PST
-category: Short Story
 description: A short story about a mechanical engineer named Bri who starts a new job on a space colony that orbits the Moon. She soon discovers something is a bit off.
 tags:
-- Short Story
-- Alder
-- Prose
-- Fiction
-- Writing
 - Sci-Fi
-- featured
-period: February 2017
 image: /uploads/lunar-space-colony-cover.png
-layout: short_story
 additional_links:
-  - title: Introduction journal entry
-    url: http://www.brettchalupa.com/new-story-lunar-space-colony
-  - title: Read on Tapas
-    url: https://tapas.io/series/lunar-space-colony
   - title: Listen on SoundCloud
     url: https://soundcloud.com/gather_around/lunar-space-colony
   - title: Listen on YouTube
@@ -65,7 +52,7 @@ Bri continued to pace around the room as she rattled off everything she needed t
 
 “Are you kidding me, Toto? Of course you’re coming with me. I already got it cleared with Preston.”
 
--
+<div class="section-break">***</div>
 
 Bri checked in with the spaceport security and was given clearance to board the craft. She handed her suitcase over to the woman behind the check-in counter and then knelt down in front of Toto.
 
@@ -75,7 +62,7 @@ Bri checked in with the spaceport security and was given clearance to board the 
 
 Eternally early, Bri had four hours until boarding began. There wasn’t another soul in the terminal yet. She found a seat by the window and watched the maintenance crew prepare the shuttle. She took a deep breath and shut her eyes.
 
--
+<div class="section-break">***</div>
 
 Bri couldn’t look away as the shuttle began to approach the colony orbiting the Moon. The colony was cylindrical with half of the lateral region covered with alternating rows of dark tinted glass and solar panels and the other half covered in a solid white metal. The moon looked massive hovering behind the colony with its faint gray glow.
 
@@ -111,11 +98,11 @@ The apartment was one of fifty units in the five-story tall building, which was 
 
 “On behalf of everyone at the United Space Federation, welcome to the Lunar Space Colony. We’re happy to have you.”
 
--
+<div class="section-break">***</div>
 
 The two days before starting her new job were filled with lots of sleep and exploring the neighborhood. Every person she walked by waved at her. Bri waved back. They all walked slowly, like Preston. The LSC was filled with an eerie contentment that clashed with the dire circumstances of Earth’s degradation.
 
--
+<div class="section-break">***</div>
 
 Bri showed up for her first day on the job at 0645 UTC and was directed to wait in the lobby for Preston. She took a seat and flicked through the news on her armband. Bri decided to leave Toto at home for her first day. She stood up as she saw Preston approaching and greeted him.
 
@@ -129,7 +116,7 @@ Bri showed up for her first day on the job at 0645 UTC and was directed to wait 
 
 “It’ll take a few weeks to fully understand how the Basement works. It’s responsible for nearly every critical function of the colony, from artificial gravity to maintaining our orbit around the Moon.”
 
-Bri couldn’t tell if the elevator was in motion or at a standstill. Soon enough, the doors opened. The Basement was a series of well-lit metallic hallways with no windows. Preston lead the way through the Basement, which was chillier than the residential division the colony. Bri recognized most of the machinery, but some of the space-specific equipment was new to her.
+Bri couldn’t tell if the elevator was in motion or at a standstill. Soon enough, the doors opened. The Basement was a series of well-lit metallic hallways with no windows. Preston led the way through the Basement, which was chillier than the residential division the colony. Bri recognized most of the machinery, but some of the space-specific equipment was new to her.
 
 “There’s a lot going on down here,” Bri said.
 
@@ -141,7 +128,7 @@ Bri couldn’t tell if the elevator was in motion or at a standstill. Soon enoug
 
 Bri nodded her head in silence.
 
--
+<div class="section-break">***</div>
 
 A month had passed, and Bri was learning the ropes quickly. Nearly all of her work was preventative maintenance, which was where all new engineers started on the colony. In her off hours, she spent her time drafting up plans for how to build her own parts to replace those already in use. Bri’s specialty was improving the efficiency of machines.
 
@@ -157,7 +144,7 @@ Bri laughed. “The strangest thing is that I’ve started to notice it happenin
 
 “I am afraid you never programmed me to analyze your emotions, so I can’t help you with that,” Toto said.
 
--
+<div class="section-break">***</div>
 
 “Bri, you look malnourished. Have you been eating and drinking?” Preston asked.
 

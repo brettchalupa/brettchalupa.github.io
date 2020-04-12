@@ -1,7 +1,6 @@
 ---
 title: Latency
 date: 2017-01-22 06:00:00 PST
-category: Short Story
 description: A short story about a man named Martin who witnesses a kidnapping and tries to help.
 tags:
 - Short Story
@@ -9,13 +8,9 @@ tags:
 - Prose
 - Fiction
 - Writing
-- hidden
 period: January 2017
 image: /uploads/latency-cover.png
-layout: short_story
 additional_links:
-  - title: Introduction journal entry
-    url: http://www.brettchalupa.com/introducing-latency
   - title: Listen on SoundCloud
     url: https://soundcloud.com/gather_around/latency
   - title: Listen on YouTube
@@ -26,9 +21,9 @@ Wednesday started like every other day for Martin. He woke up, brushed his teeth
 
 After finishing work on any given day, Martin would work out. His exercise consisted of fifty push-ups, fifty sit-ups, and thirty minutes of light jogging on the treadmill in his living room. Dinner was next, followed by a shower.
 
-To end the day, Martin would watch his favorite webcam model’s 9 P.M. show. Her name, well username, was Bunny69\. Martin didn’t care much for animals, but he thought she was cute like a bunny and found the name fitting.
+To end the day, Martin would watch his favorite webcam model’s 9 P.M. show. Her name, well username, was Bunny\. Martin didn’t care much for animals, but he thought she was cute like a bunny and found the name fitting.
 
-He had been watching Bunny69’s webcam streams for over two years. Martin budgeted $200 every month to donate to Bunny. He never second-guessed the charge on his credit card bill.
+He had been watching Bunny’s webcam streams for over two years. Martin budgeted $200 every month to donate to Bunny. He never second-guessed the charge on his credit card bill.
 
 Bunny streamed every day of the week except on Friday and Saturday. Martin would spend his Friday and Saturday nights reading and watching movies. “Time off is a good thing,” he told himself.
 
@@ -86,7 +81,7 @@ Martin gave her his address.
 
 “Stay where you are. An officer will be over soon,” said the operator as she hung up.
 
--
+<div class="section-break">***</div>
 
 There was a knock on Martin’s door 45 minutes later.
 
@@ -100,7 +95,7 @@ Officer Robbins was in his forties and close to retirement. He was just shy of s
 
 Martin explained what he witnessed.
 
-“Let me get this straight. You saw this girl, Bunny, uh, 69, get kidnapped in the middle of a video stream online? Are you sure this wasn’t a staged event to get more viewers to make some extra cash or something?”
+“Let me get this straight. You saw this Bunny get kidnapped in the middle of a video stream online? Are you sure this wasn’t a staged event to get more viewers to make some extra cash or something?”
 
 Martin paused for a moment. “To be honest, I hadn’t thought of that.”
 
@@ -116,7 +111,7 @@ They sat on the couch as Martin went into detail about the camgirl website, what
 
 _A good night’s sleep? What a joke_, Martin thought as he got ready for bed. He fell right asleep.
 
--
+<div class="section-break">***</div>
 
 There was a dog laying in a field. Martin wasn’t sure what breed of dog it was. He was never a fan of dogs. It was the size of a small bear, with a silver coat of hair.
 
@@ -140,7 +135,7 @@ When Martin reached the forest, he saw the dog laying in front of a tree.
 
 Martin didn’t know what to do. He didn’t have much of a choice. He walked into the forest, and when he looked back, the dog was gone.
 
--
+<div class="section-break">***</div>
 
 Martin’s alarm clock went off at 6:00 A.M. He hit snooze for the first time since buying the clock. _Maybe it really was staged?_ he thought. Martin got out of bed and made it through his day.
 
@@ -150,7 +145,7 @@ He tried to find the contact info of the camgirl website, but it was nowhere to 
 
 “Who the fuck is this, calling me at 10 o’clock at night?” asked the man who picked up the phone.
 
-“Hi, my name is Martin. Last night I witnessed a young girl, with the username Bunny69, get kidnapped during her stream on your site.”
+“Hi, my name is Martin. Last night I witnessed a young girl, with the username Bunny, get kidnapped during her stream on your site.”
 
 “Another call about this fucking Bunny? Jesus Christ! Enough about it already. You’re the tenth person today. I’ve got nothing to say about what happened other than the police are handling it.”
 
@@ -180,7 +175,7 @@ The call ended.
 
 Martin got ready for bed and stared at the ceiling until he fell asleep.
 
--
+<div class="section-break">***</div>
 
 Martin shivered as he walked through the forest. The sunlight barely made it through the trees. He kept walking forward, following the dirt path. The trees eventually began to clear. In the center of the clearing was a circular grove.
 

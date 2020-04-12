@@ -21,6 +21,10 @@ collections:
     title: Brief Moments of Life
     output: true
     permalink: ":title"
+  short_stories:
+    title: Short Stories
+    output: true
+    permalink: ":title"
   uploads:
     title: Uploads
     output: true
@@ -34,6 +38,11 @@ defaults:
   - scope:
       path: ''
       type: brief_moments
+    values:
+      layout: chapter
+  - scope:
+      path: ''
+      type: short_stories
     values:
       layout: chapter
 description: 'Writer, comic artist, and software developer based in Michigan.'
