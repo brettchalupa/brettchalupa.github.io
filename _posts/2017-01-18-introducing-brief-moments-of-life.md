@@ -4,7 +4,7 @@ date: 2017-01-18 18:00:00 PST
 layout: post
 category: Works
 description: Brett shares information Brief Moments of Life, a collection of very short stories, and how it came about.
-image: /uploads/brief-moments-of-life-cover.png
+image: /uploads/brief-moments-of-life-cover.jpg
 tags:
 - journal_entry
 - Brief Moments of Life
@@ -17,7 +17,7 @@ Whenever I stumble across an idea, I write it down. Sometimes it's just a senten
 
 I view each story as a spark. Maybe it'll light a flame that turns into a full novel. Or it may just burn out and be done. Either way, I want to share them. The topics of the stories are varied, but the single common thread a glimpse into a moment of life for the characters in the story. The stories don't follow traditional story arcs, and there's barely any context.
 
-![Brief Moments of Life Cover](/uploads/brief-moments-of-life-cover.png)
+![Brief Moments of Life Cover](/uploads/brief-moments-of-life-cover.jpg)
 
 As I publish each story, I will record an accompanying audio version, as I have done with the first two. Recording the audio versions has been a positive experience. Narrating the stories lets me better explore the way in which things are said, beyond the words. It’s a sort of pilot program for recording the audio versions of my novels.
 

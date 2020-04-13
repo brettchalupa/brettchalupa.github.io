@@ -9,11 +9,13 @@ tags:
 collection_label: brief_moments
 collection_kind: Stories
 layout: work
-image: /uploads/brief-moments-of-life-cover.png
+image: /uploads/brief-moments-of-life-cover.jpg
 period: Jan 2017 - Current
 additional_links:
   - title: Read on Wattpad
     url: https://www.wattpad.com/story/95821053-brief-moments-of-life
 ---
+
+![Brief Moments of Life Cover](/uploads/brief-moments-of-life-cover.jpg)
 
 Flash fiction, short short stories, and experimental writing across genres and style with new pieces published regularly.
