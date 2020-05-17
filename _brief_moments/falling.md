@@ -23,6 +23,6 @@ I crawled into the square hole and inched my way forward. My head scraped along 
 
 I reached forward with my right hand and then my left, and there was nothing to catch them. Before I realized the bottom fell out, my weight shifted forward and I fell down head-first. I grasped for the walls, but there were none in reach.
 
-I can’t remember how long I fell. It eventually felt like I wasn’t falling at all, as is falling became the new normal and standing on solid ground was foreign.
+I can’t remember how long I fell. It eventually felt like I wasn’t falling at all, as if falling became the new normal and standing on solid ground was foreign.
 
 That’s when it hit me. You knew the whole time, but you didn’t tell me. It all made sense. I don’t blame you; I probably would have done the same thing. But I can’t forgive you.
