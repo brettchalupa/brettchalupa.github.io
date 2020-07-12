@@ -24,11 +24,11 @@ November was a pretty good month of reading aside from being busy with [NaNoWriM
 
 I made it out to the theater once in November to see _Doctor Strange_, which I wasn’t crazy about. The special effects made me nauseous and the story didn’t really grip me, and I had trouble understanding Benedict Cumberbatch’s American-English accent.
 
-At home, Abagail and I watched two films on Thanksgiving, and I watched a short on Vimeo that caught my eye.
+I watched two films on Thanksgiving, and I watched a short on Vimeo that caught my eye.
 
 - _Oh Lucy!_ — A clever and well shot short film about a Japanese woman who starts taking English lessons. The plot premise was, I thought, clever, and the ending was sweet. I watched it on [Vimeo on Demand](https://vimeo.com/ondemand/ohlucy/120430261), and it is definitely worth the $0.99 rental.
 - _The Royal Tenenbaums_ — This was the second time I watched this movie, and I think it was even better the second time around. It has great acting, solid humor, a clever plot, and spot on music. The set and costume design, like other earlier Wes Anderson films, feels more restrained (for the better). The colors, clothing, and set design are still elaborate and quirky, but it isn’t too extreme. I particularly liked Bill Murray’s character and the boy he was studying.
-- _Inherent Vice_ — I had been wanting to watch this film for a few months, but for some reason it hadn’t yet happened. Abagail and I decided to go for it on Thanksgiving night, and we were glad we did. The plot is a bit difficult to follow, but the characters, especially Doc, were great. I think I’ll check out the book it is based on. My friend [Paul](https://twitter.com/paulsearle) told me the director’s other movies are good too, so I’ll have to give them a go.
+- _Inherent Vice_ — I had been wanting to watch this film for a few months, but for some reason it hadn’t yet happened. I decided to go for it on Thanksgiving night, and I'm were glad I did. The plot is a bit difficult to follow, but the characters, especially Doc, were great. I think I’ll check out the book it is based on. My friend [Paul](https://twitter.com/paulsearle) told me the director’s other movies are good too, so I’ll have to give them a go.
 
 
 ## Music
