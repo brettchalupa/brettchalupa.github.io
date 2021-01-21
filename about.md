@@ -31,7 +31,7 @@ Lynch, William Gibson, and Tsutomu Nihei.
 
 ## Newsletter
 
-[Subscribe to my monthly newsletter.](https://brettchalupa.substack.com) I
+[Subscribe to my monthly newsletter.](https://brettchalupa.substack.com/welcome) I
 share my latest stories and other writing through my newsletter at the end of
 the each month. In lieu of social media, it's a way for us to connect.
 
