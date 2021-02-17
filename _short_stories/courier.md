@@ -32,7 +32,7 @@ _Fuck it!_ I keep my trajectory straight and steady, right toward the Class B ba
 
 I barely make my way into the port, puttering along with a harpoon stuck into the top of Starfish and the line trailing along. The fish that got away. The port’s finest mechanics are working on fixing Starfish up right now.
 
-I finished delivering the package on foot. No issues there. You don’t fuck with a courier with a black eye and a small suitcase. I collected my fee, plus a little extra for the trouble. Now I’m here, enjoying this nice glass of hex in this fine establishment.
+I finish delivering the package on foot. No issues there. You don’t fuck with a courier with a black eye and a small suitcase. I collect my fee, plus a little extra for the trouble. Now I’m here, enjoying this nice glass of hex in this fine establishment.
 
 <div class="section-break">***</div>
 
