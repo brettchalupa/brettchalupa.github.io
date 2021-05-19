@@ -29,12 +29,6 @@ films.
 Some of my favorite creators are Haruki Murakami, Ursula K. Le Guin, David
 Lynch, William Gibson, and Tsutomu Nihei.
 
-## Newsletter
-
-[Subscribe to my monthly newsletter.](https://brettchalupa.substack.com/welcome) I
-share my latest stories and other writing through my newsletter at the end of
-the each month. In lieu of social media, it's a way for us to connect.
-
 ## On the Web
 
 - [Journal](https://journal.brettchalupa.com) &ndash; what I'm working on and thinking about
