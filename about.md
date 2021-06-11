@@ -8,7 +8,7 @@ layout: default
 # About
 
 <p class='intro'>
-Hi, my name is Brett. I'm a software developer and writer. I live in Pennsylvania.
+Hi, my name is Brett. I'm a software developer, adventurer, and creator. I live in Pennsylvania.
 </p>
 
 ![Photo of Brett](/img/brett_about.jpg)
@@ -22,9 +22,15 @@ I make my living doing software development. I work at [Big
 Cartel](https://www.bigcartel.com), building software to help creative people
 sell their art.
 
-I'm focused on writing fiction, but I've dabbled in different creative
-pursuits over the years, from recording audio to drawing comics to making short
-films.
+When I'm not working my day job, I enjoy getting into the outdoors and
+documenting my adventures. Lately that's been through making videos, taking
+photos, and writing field reports.
+
+I've also dabbled with writing fiction, drawing comics, and making short films
+over the years.
+
+I love food, and I've eaten a plant-based, vegan diet for over six years.
+Cooking is a true joy for me.
 
 Some of my favorite creators are Haruki Murakami, Ursula K. Le Guin, David
 Lynch, William Gibson, and Tsutomu Nihei.
@@ -32,5 +38,6 @@ Lynch, William Gibson, and Tsutomu Nihei.
 ## On the Web
 
 - [Journal](https://journal.brettchalupa.com) &ndash; what I'm working on and thinking about
+- [YouTube](https://youtube.com/c/brettchalupa) &ndash; my videos
 - [Goodreads](https://www.goodreads.com/user/show/25307704-brett-chalupa) &ndash; my book log
 - [Letterboxd](https://letterboxd.com/brettchalupa/) &ndash; my film log

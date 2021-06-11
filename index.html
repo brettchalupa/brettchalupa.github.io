@@ -5,24 +5,20 @@ layout: default
 
 <div id="home">
   <div class="intro">
-    <img alt='Profile photo of Brett' src='/img/brett_chalupa.jpg' class='profile-photo'>
+    <img alt='Photo of Brett holding a water filter in a stream' src='/img/brett_chalupa.jpg' class='profile-photo'>
 
     <h1>Brett Chalupa</h1>
 
-    <h4>day: software developer,<br>night: writer</h4>
-  </div>
+    <p class="tagline">Professional software developer,<br>hobbyist adventurer and creator</p>
 
-  <div class='section featured-works'>
-    <h2>Featured Works</h2>
+    <h2>Featured Video</h2>
 
-    <ul class='works-list'>
-      {% for work in site.works reversed %}
-        {% if work.tags contains 'featured' %}
-          {% include work-list-item.html %}
-        {% endif %}
-      {% endfor %}
-    </ul>
+    <p>I've been focused on making videos lately, and here my latest—a backpacking trip on the Old Loggers Path.</p>
 
-    <p class='small'><a href='/works'>All Works</a></p>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iT2vjcjE09Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <h2>Journal</h2>
+
+    <p>I share updates about what I've been up to on <a href="https://journal.brettchalupa.com/">my journal</a>, including trip photos, reviews, and essays.</p>
   </div>
 </div>

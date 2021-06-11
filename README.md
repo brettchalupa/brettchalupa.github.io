@@ -6,7 +6,7 @@ The website of Brett Chalupa, built with [Jekyll](http://jekyllrb.com).
 
 1. Clone the repository
 2. Install the dependencies - `bundle install`
-3. Start up the Jekyll server and show drafts - `jekyll serve -w -i -D`
+3. Start up the Jekyll server and show drafts - `bundle exec jekyll serve -w -i -D`
 4. Make changes
 
 ## Hosting & Deploying
@@ -35,7 +35,7 @@ See the `gems:` section in `_config.yml` for the full list.
 
 ## License
 
-All content and code are copyright (c) 2011-2017 Brett Chalupa
+All content and code are copyright (c) 2011-2021 Brett Chalupa
 
 [See the License page](http://www.brettchalupa.com/license) for the full
 details on how the code and content are licensed.
