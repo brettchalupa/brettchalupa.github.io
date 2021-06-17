@@ -20,7 +20,7 @@ watching movies.
 
 I make my living doing software development. I work at [Big
 Cartel](https://www.bigcartel.com), building software to help creative people
-sell their art.
+sell their art. [View my coding screencasts and blog posts.](https://code.brettchalupa.com)
 
 When I'm not working my day job, I enjoy getting into the outdoors and
 documenting my adventures. Lately that's been through making videos, taking
