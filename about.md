@@ -8,7 +8,7 @@ layout: default
 # About
 
 <p class='intro'>
-Hi, my name is Brett. I'm a software developer, creator, and outdoor enthusiast. I live in Pennsylvania.
+Hi, my name is Brett. I'm a software developer, creator, and adventurer. I live in Pennsylvania.
 </p>
 
 ![Photo of Brett](/img/brett_about.jpg)
