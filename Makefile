@@ -1,2 +1,2 @@
 up:
-	bundle exec jekyll serve -w -D
+	bundle exec jekyll serve -w -D -l -o
