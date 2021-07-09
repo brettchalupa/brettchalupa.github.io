@@ -8,7 +8,10 @@
 $font-family: 'Vollkorn', serif;
 $font-family-mono: Courier New, Courier, monospace;
 $font-color: #4A4A4A;
-$font-color-light: lighten($font-color, 10%);
+$font-color--focus: lighten($font-color, 10%);
+$font-color--dark: #fcfcfc;
+$font-color-dark--focus: darken($font-color--dark, 10%);
+$background--dark: #0A0A0A;
 $font-weight-normal: 400;
 $font-weight-bold: 700;
 
@@ -24,12 +27,21 @@ body {
   color: $font-color;
   font-family: $font-family;
   margin: 0;
+
+  @media (prefers-color-scheme: dark) {
+    color: $font-color--dark;
+    background: $background--dark;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: $font-color;
   font-family: $font-family;
   font-weight: $font-weight-bold;
+
+  @media (prefers-color-scheme: dark) {
+    color: $font-color--dark;
+  }
 }
 
 h1 {
@@ -63,7 +75,6 @@ h6 {
 }
 
 p, ul, ol, li, span, blockquote, small {
-  color: $font-color;
   font-family: $font-family;
   font-weight: $font-weight-normal;
   font-size: 16px;
@@ -92,16 +103,28 @@ blockquote {
 
 hr {
   border: none; // clear out default border
-  border-top: 1px solid rgba($font-color-light, 0.2);
+  border-top: 1px solid rgba($font-color--focus, 0.2);
+
+  @media (prefers-color-scheme: dark) {
+    border-top: 1px solid rgba($font-color-dark--focus, 0.2);
+  }
 }
 
 a {
   color: $font-color;
   transition: $transition-color;
 
+  @media (prefers-color-scheme: dark) {
+    color: $font-color--dark;
+  }
+
   &:hover,
   &:focus {
-    color: $font-color-light;
+    color: $font-color--focus;
+
+    @media (prefers-color-scheme: dark) {
+      color: $font-color-dark--focus;
+    }
   }
 }
 
@@ -398,11 +421,15 @@ figcaption {
 
 .chapter__work-title {
   display: inline-block;
-  color: $font-color-light;
+  color: $font-color--focus;
   font-size: 14px;
   font-style: italic;
   text-align: center;
   width: 100%;
+
+  @media (prefers-color-scheme: dark) {
+    color: $font-color-dark--focus;
+  }
 }
 
 .chapter__title {
@@ -476,6 +503,10 @@ figcaption {
     border-radius: 6px;
     transition: background .3s;
 
+    @media (prefers-color-scheme: dark) {
+      background: #292929;
+    }
+
     h2 {
       width: 100%;
       font-size: 20px;
@@ -495,8 +526,12 @@ figcaption {
     }
 
     &:focus, &:hover {
-      background: #cfcfcf;
+      background: #b1b1b1;
       transition: background .3s;
+
+      @media (prefers-color-scheme: dark) {
+        background: #575757;
+      }
     }
   }
 
