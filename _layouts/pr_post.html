@@ -14,9 +14,7 @@ layout: default
 
   <div class="post-content" itemprop="articleBody">
     {% if page.youtube_id %}
-      <div class="video-wrapper">
-        <iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/{{ page.youtube_id }}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-      </div>
+      <bc-youtube-video token="{{ page.youtube_id }}"></bc-youtube-video>
     {% endif %}
 
     {% if page.soundcloud_id %}

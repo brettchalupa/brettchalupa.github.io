@@ -19,4 +19,4 @@ to using lib, examples of when to use lib, and how to test code in lib.
 
 Here is the video of the talk:
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/aia82Chh3uI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<bc-youtube-video token="aia82Chh3uI"></bc-youtube-video>
