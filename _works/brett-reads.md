@@ -28,5 +28,7 @@ Episodes are also published as an audio-only podcast to various popular podcast 
 
 - [Web](https://anchor.fm/brettreads)
 - [RSS](https://anchor.fm/s/6573f644/podcast/rss)
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/brett-reads/id1579741967)
 - [Spotify](https://open.spotify.com/show/4BOhztz3c8HH9e6EsMj6hH)
 - [PocketCasts](https://pca.st/fkb78i0r)
+- [Overcast](https://overcast.fm/itunes1579741967/brett-reads)
