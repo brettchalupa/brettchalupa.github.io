@@ -423,6 +423,15 @@ figcaption {
     text-align: center;
     margin: 24px 0;
   }
+
+  &.poem {
+    > p:first-child {
+      &::first-letter {
+        font-weight: normal;
+        font-size: inherit;
+      }
+    }
+  }
 }
 
 // Chapter
