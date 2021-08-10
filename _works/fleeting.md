@@ -18,6 +18,6 @@ additional_links:
 
 ![Fleeting Cover](/uploads/fleeting-cover.jpg)
 
-An ongoing collection of short stories. My goal is to publish at least one new story a month.
+An ongoing collection of short stories.
 
 A space package deliveryman recounts a particularly challenging assignment, a young engineer heads to work on a colony in orbit of the moon, a recluse witnesses a murder through his computer screen, and so on.
