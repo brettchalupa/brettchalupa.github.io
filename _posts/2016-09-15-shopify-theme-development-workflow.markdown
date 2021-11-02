@@ -17,7 +17,9 @@ recently, and I have come up with a workflow that has been working well.
 
 You can watch a screencast of the workflow or keep on reading.
 
-<bc-youtube-video token="1xWFsYmBoX0"></bc-youtube-video>
+<iframe width="700" height="394"
+src="https://www.youtube-nocookie.com/embed/1xWFsYmBoX0?rel=0&amp;showinfo=0"
+frameborder="0" allowfullscreen></iframe>
 
 _If you're interested in more software development screencasts, I started [a new channel](https://www.youtube.com/channel/UCQXaIyeRqHjK9EK41b8J3yQ)._
 

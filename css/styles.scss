@@ -135,19 +135,11 @@ code span {
   font-size: 16px;
 }
 
-.highlight {
-  background: none;
-}
-
 pre {
   margin-bottom: 20px;
 
   &.highlight {
-    border-radius: 4px;
-    padding: 12px;
-    overflow: scroll;
-    background-color:white;
-    color: initial;
+    background-color: rgba(239, 239, 239, 0.3);
   }
 }
 
