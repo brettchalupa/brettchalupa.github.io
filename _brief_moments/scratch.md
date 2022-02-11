@@ -16,7 +16,7 @@ With my mind off forward progress, my thoughts returned solely to the scratch on
 
 The burning feeling didn't lessen from the disinfectant---it intensified. I held my hand close to my cheek, and the radiant heat felt like a lighter set at the wrong angle when the flame catches your thumb for a brief moment. I twisted my arm back and slipped out my water bottle. I unscrewed the cap and poured the last of my water onto my face to try to wash the wound and cool it off, but it only made it worse. The disinfectant washed away, and I screamed at the pain from the water in the wound.
 
-I started counting to ten and starting back at one while I hiked onward. I sang the song stuck in my head out loud. I thought about people and places I hadn't thought of in years. I thought about my family. I thought about my ex-wife. I thought about every single stupid thing I've done in my life. But none of it took my attention away from the scratch on my cheek.
+I started counting to ten and starting back at one while I hiked onward. I sang the song stuck in my head out loud. I thought about people and places I hadn't thought of in years. I thought about my family. I thought about the separation. I thought about every single stupid thing I've done in my life. But none of it took my attention away from the scratch on my cheek.
 
 Sweat ran down my face and into the wound. The salt was the worst.
 
