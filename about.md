@@ -8,7 +8,7 @@ layout: default
 # About
 
 <p class='intro'>
-Hi, my name is Brett. I'm a software developer, creator, and adventurer. I live in Pennsylvania.
+Hi, my name is Brett. I'm a software developer and creative person (with a focus on writing). I live in Pennsylvania.
 </p>
 
 ![Photo of Brett](/img/brett_about.jpg)
@@ -32,12 +32,22 @@ Cooking is a true joy for me.
 Some of my favorite creators are Haruki Murakami, Ursula K. Le Guin, David
 Lynch, William Gibson, and Tsutomu Nihei.
 
-A perfect day off for me would be waking up and working on creative projects for a little bit—writing or editing videos. Then I'd go on a long trail run. Afterward, I'd cook a nice meal, go for a walk, and wind down with a book!
+A perfect day off for me would be waking up and working on creative projects
+for a little bit. Then I'd go on a long trail run. Afterward, I'd cook a nice
+meal, go for a walk around town, and wind down with a book while listening to a
+jazz record. (Am I a walking, talking, breathing cliché?)
+
+## Follow Along
+
+If you're interesting in keeping up with what I'm working on in terms of creative projects, my email newsletter is the best place to subscribe and follow along.
+
+<div class="substack-iframe">
+  <iframe src="https://brettchalupa.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+</div>
 
 ## Around the Web
 
 - [Journal](https://journal.brettchalupa.com) &ndash; what I'm working on and thinking about
-- [Brett Codes](https://code.brettchalupa.com) &ndash; dev website
-- [Twitter](https://twitter.com/brettchalupa) &ndash; small updates
+- [Brett Codes](https://code.brettchalupa.com) &ndash; programming website
 - [Goodreads](https://www.goodreads.com/user/show/25307704-brett-chalupa) &ndash; my book log
 - [Letterboxd](https://letterboxd.com/brettchalupa/) &ndash; my film log
