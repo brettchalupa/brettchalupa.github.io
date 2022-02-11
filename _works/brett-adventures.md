@@ -5,10 +5,10 @@ description: Outdoor videos
 category: Video
 image: /uploads/brett-adventures-cover.jpg
 layout: work
-period: Apr 2021 - Current
+period: Apr 2021 - Oct 20221
 tags:
 - Video
-- featured
+- hidden
 ---
 
 ![Brett Adventures Cover](/uploads/brett-adventures-cover.jpg)

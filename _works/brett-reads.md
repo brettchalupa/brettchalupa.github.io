@@ -5,11 +5,11 @@ description: Book reviews
 category: Video, Audio
 image: /uploads/brett-reads-cover.jpg
 layout: work
-period: Jul 2021 - Current
+period: Jul 2021 - Oct 2021
 tags:
 - Video
 - Audio
-- featured
+- hidden
 ---
 
 ![Brett Reads Cover](/uploads/brett-reads-cover.jpg)
