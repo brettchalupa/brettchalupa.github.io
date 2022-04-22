@@ -292,13 +292,13 @@ figcaption {
 .nav-item {
   display: inline-block;
   font-size: 16px;
-  margin: 0 $spacing-unit / 2;
+  margin: 0 $spacing-unit / 4;
 
   &:last-of-type {
     margin-right: 0;
 
     @media (max-width: $breakpoint-sm) {
-      margin-right: $spacing-unit / 2;
+      margin-right: $spacing-unit / 4;
     }
   }
 
