@@ -8,7 +8,7 @@ layout: default
 # About
 
 <p class='intro'>
-Hi, my name is Brett. I'm a software developer and creative person (with a focus on writing). I live in Pennsylvania.
+Hi, my name is Brett. I'm a software developer and creative person (with a focus on making games). I live in Pennsylvania.
 </p>
 
 ![Photo of Brett](/img/brett_about.jpg)
@@ -22,32 +22,15 @@ I make my living doing software development. I really enjoy sharing what I've
 learned by making [screencasts and blog posts](https://code.brettchalupa.com).
 
 When I'm not working with code, I enjoy exploring the outdoors, reading, and
-working on creative projects. Running has become a significant part of my life.
-I mostly run on trails. I dabble with writing fiction, drawing comics, and
-making short films.
+working on creative projects. I dabble with making games, writing fiction, and
+drawing comics.
 
-I love food, and I've eaten a plant-based, vegan diet for over six years.
+I love food, and I've eaten a plant-based, vegan diet for over eight years.
 Cooking is a true joy for me.
 
 Some of my favorite creators are Haruki Murakami, Ursula K. Le Guin, David
 Lynch, William Gibson, and Tsutomu Nihei.
 
-A perfect day off for me would be waking up and working on creative projects
-for a little bit. Then I'd go on a long trail run. Afterward, I'd cook a nice
-meal, go for a walk around town, and wind down with a book while listening to a
-jazz record. (Am I a walking, talking, breathing cliché?)
-
 ## Follow Along
 
-If you're interesting in keeping up with what I'm working on in terms of creative projects, my email newsletter is the best place to subscribe and follow along.
-
-<div class="substack-iframe">
-  <iframe src="https://brettchalupa.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-</div>
-
-## Around the Web
-
-- [Journal](https://journal.brettchalupa.com) &ndash; what I'm working on and thinking about
-- [Brett Codes](https://code.brettchalupa.com) &ndash; programming website
-- [Goodreads](https://www.goodreads.com/user/show/25307704-brett-chalupa) &ndash; my book log
-- [Letterboxd](https://letterboxd.com/brettchalupa/) &ndash; my film log
+If you're interesting in keeping up with what I'm working on in terms of creative projects, [my email newsletter](https://buttondown.email/brettchalupa) is the best place to subscribe and follow along.
