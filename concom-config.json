@@ -1,0 +1,9 @@
+{
+	"types": [
+		"blog",
+		"work",
+		"adjust",
+		"chore"
+	],
+	"breaking_changes": false
+}
