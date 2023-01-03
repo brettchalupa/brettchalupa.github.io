@@ -3,6 +3,7 @@ title: Moved to Wordpress
 description: Where future journal entries will live.
 date: 2017-07-25 17:17:00 PST
 category: Meta
+draft: true
 tags:
 - archived
 - journal_entry
