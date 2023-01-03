@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Creative Roadmap for 2023
+description: "What I am hoping to accomplish in the new year with my game development efforts."
 date: 2023-01-03 16:38 -0500
 tags:
 - game dev
