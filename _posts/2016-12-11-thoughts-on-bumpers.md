@@ -4,6 +4,7 @@ description: My thoughts and feelings on Bumpers after using it for a few days, 
 date: 2016-12-11 17:00:00 PST
 Category: Thoughts
 tags:
+- archived
 - journal_entry
 - bumpers
 - podcast

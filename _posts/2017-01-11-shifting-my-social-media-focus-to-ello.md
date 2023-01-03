@@ -4,6 +4,7 @@ date: 2017-01-11 15:00:00 PST
 description: Thoughts on Brett's experience using Ello for a week and why he's going to keep using it.
 category: Thoughts
 tags:
+- archived
 - Social Media
 - Ello
 - Creativity

@@ -5,6 +5,7 @@ layout: post
 category: Works
 description: Brett shares his plan for editing his novel Aperture and how it has been going so far.
 tags:
+- archived
 - NaNoWriMo
 - NaNoWriMo 2016
 - Aperture

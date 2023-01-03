@@ -1,11 +1,10 @@
 ---
 layout: pr_post
-title: "Review: Dark Souls"
+title: "Dark Souls Review"
 subtitle: "A well designed gem"
 date: 2015-12-20 15:30:00 -0800
 tags:
 - peaceful_respite
-- archived
 - review
 - dark souls
 - ps3

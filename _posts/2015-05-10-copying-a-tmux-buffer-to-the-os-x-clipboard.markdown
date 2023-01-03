@@ -6,6 +6,7 @@ tags:
 - note
 - tmux
 - terminal
+- programming
 - archived
 layout: post
 ---

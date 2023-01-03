@@ -5,7 +5,7 @@ date: 2013-10-05 13:20:00 -07:00
 tags:
 - note
 - git
-- archived
+- programming
 layout: post
 ---
 

@@ -4,6 +4,7 @@ description: Thoughts and feelings on how NaNoWriMo 2016 is going three weeks in
 date: 2016-11-21 16:20:00 PST
 category: On Writing
 tags:
+- archived
 - journal_entry
 - nanowrimo
 - nanowrimo_2016

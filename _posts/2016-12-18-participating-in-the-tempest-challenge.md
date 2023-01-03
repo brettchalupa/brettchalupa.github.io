@@ -4,6 +4,7 @@ description: Brett commits to reading books that fit The Tempest Challenge throu
 date: 2016-12-18 14:00:00 PST
 category: Reading
 tags:
+- archived
 - journal_entry
 - reading
 - books

@@ -4,6 +4,7 @@ description: Reflections and statistics on finishing the first draft of my NaNoW
 date: 2016-11-27 21:45:00 PST
 category: On Writing
 tags:
+- archived
 - journal_entry
 - nanowrimo
 - nanowrimo_2016

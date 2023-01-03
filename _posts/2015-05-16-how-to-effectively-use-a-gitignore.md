@@ -4,7 +4,7 @@ date: 2015-05-20 5:00:00 -07:00
 description: A guide on how to effectively to use .gitignore files for Git projects.
 tags:
 - git
-- archived
+- programming
 ---
 
 When working with a Git repository, you usually want to ignore files
@@ -18,7 +18,7 @@ of files to ignore.
 
 There are three common ways to use a .gitignore:
 
-*   Project specific
+* Project specific
 * Directory specific
 * Globally for the user
 

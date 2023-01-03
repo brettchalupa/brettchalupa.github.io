@@ -4,6 +4,7 @@ category: Books
 date: 2016-12-28 13:00:00 PST
 description: Brett shares his thoughts on the novel _Drive_ by James Sallis.
 tags:
+- archived
 - journal_entry
 - Review
 - Books

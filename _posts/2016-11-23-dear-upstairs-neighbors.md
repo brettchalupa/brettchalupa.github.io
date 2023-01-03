@@ -4,6 +4,7 @@ description: A simple plea for my upstairs neighbors.
 date: 2016-11-23 14:50:00 PST
 category: Satire
 tags:
+- archived
 - journal_entry
 - plea
 - humor
