@@ -7,7 +7,7 @@ collection_label: short_stories
 collection_kind: Stories
 image: /uploads/fleeting-cover.jpg
 layout: work
-period: Jan 2017 - Current
+period: Jan 2017
 tags:
 - Writing
 - featured

@@ -5,7 +5,7 @@ description: Periodic zine collecting my stories
 category: Zine
 image: /uploads/ersatz-cover.jpg
 layout: work
-period: Apr 2022 - Present
+period: Apr 2022
 tags:
 - Writing
 - Illustration
