@@ -22,15 +22,12 @@ This v0.1 release is my progress so far—just a basic Snake game with custom gr
 
 _Slither_ is dedicated to the public domain and is an educational freeware project.
 
-Ideas for what's could come:
+Ideas for what I'll work on next:
 
 - More polish
-- Grid display
 - Tutorial
-- Difficulty (speed) setting
 - Music & more sfx
 - Mobile builds! (will be free)
-- Ouroborus mode where you can continue to play if you eat your tail; essentially bonus round!
 
 Anyway, enjoy this little game! I'm having fun making it, and I'm learning, which is what matters most to me right now.
 
