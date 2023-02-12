@@ -21,5 +21,8 @@ A free, cute snake game featuring hand-drawn graphics. Dedicated to the public d
 
 [![Available on itch.io](/uploads/itch-badge.png)](https://brettchalupa.itch.io/slither)
 
+[Watch the trailer.](https://www.youtube.com/watch?v=oO3LhWuBOUo)
+
 [View the source.](https://github.com/brettchalupa/slither)
 
+![screenshot of Slither with green snake on blue background with length of 29 pieces](/uploads/slither-screenshot.png)
