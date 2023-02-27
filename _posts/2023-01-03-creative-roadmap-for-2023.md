@@ -17,7 +17,7 @@ Here’s what I’m setting out to accomplish in the new year:
 1. Release at least 6 small freeware games
 2. Be competent and confident with the game engine (the code that powers my games) I’ve chosen
 3. Release at least 1 of those games widely on places like the Apple App Store, Google Play Store, Steam, GOG, etc. to get experience with that process
-4. Share my process and projects via my blog and [newsletter](https://buttondown.email/brettchalupa)
+4. Share my process and projects via my blog and [newsletter](/newsletter)
 
 My goal is to eventually earn money from making games. That was my dream when I was young, and I’ve never fully given up on it, even 15 years later. The difference between me today and me as a young adult is that I’ve got a lot more experience with finishing complex software projects (from my day job) and a lot more time spent on various creative skills (from my artistic pursuits). I want to combine my technical skills and creative skills.
 

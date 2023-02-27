@@ -33,4 +33,4 @@ Lynch, William Gibson, and Tsutomu Nihei.
 
 ## Follow Along
 
-If you're interesting in keeping up with what I'm working on in terms of creative projects, [my email newsletter](https://buttondown.email/brettchalupa) is the best place to subscribe and follow along.
+If you're interesting in keeping up with what I'm working on in terms of creative projects, [my email newsletter](/newsletter) is the best place to subscribe and follow along.
