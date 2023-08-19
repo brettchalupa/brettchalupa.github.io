@@ -9,11 +9,9 @@ tags:
 - Games
 - featured
 layout: work
-period: Nov 2022 - Present
+period: Nov 2022 - May 2023
 ---
 
-I have been interested in making games, particularly small ones that I can finish in less than a couple ofmonths. I love how they combine a lot of the things I love, from programming to art to music.
+I made a bunch of small, free games in late 2022 and early 2023. [You can play them in your browser.](https://brettchalupa.itch.io/)
 
-[Play my games.](https://brettchalupa.itch.io/) They're free and playable in the browser or on your desktop operating system.
-
-More to come soon...
+As part of making these small games, [I created a YouTube channel sharing my progress and learnings](https://youtube.com/@brettmakesgames).
