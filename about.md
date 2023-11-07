@@ -8,7 +8,7 @@ layout: default
 # About
 
 <p class='intro'>
-Hi, my name is Brett. I'm a software developer and creative person (with a focus on making games). I live in Pennsylvania.
+Hi, my name is Brett. I'm a software developer and creative person. I live in Pennsylvania.
 </p>
 
 ![Photo of Brett](/img/brett_about.jpg)
@@ -30,7 +30,3 @@ Cooking is a true joy for me.
 
 Some of my favorite creators are Haruki Murakami, Ursula K. Le Guin, David
 Lynch, William Gibson, and Tsutomu Nihei.
-
-## Follow Along
-
-If you're interesting in keeping up with what I'm working on in terms of creative projects, [my email newsletter](/newsletter) is the best place to subscribe and follow along.
